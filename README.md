@@ -16,6 +16,32 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 #EXTINF:0 tvg-logo=">https://i.imgur.com/M0aRl2a.jpg",[COLOR gold]""""""""" DUBLADO..BluRay..720P/1080p """""""""" [/COLOR]
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+#EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-HJ3Ep0QS7lI/YPStVLPU2fI/AAAAAAAADWU/_Jw9PEModD4Ep12rR6jmt_AIH2ALV1vYwCLcBGAsYHQ/s0/A%2BG%25C3%25AAmea%2Bdo%2BMal%2BTorrent%2BDublado%2B-%2BWEB-DL%2B1080p.jpg",[COLOR blue]A Gêmea do Mal [COLOR White](2021)[/COLOR][/COLOR][COLOR gold]...Dublado...[/COLOR]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:B0379FA7AD98FD0E3FB53AD28489E99FD4195FF3&amp					
+#EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-fq57pmqPxxw/YPSoZG3n2eI/AAAAAAAADWE/l93seUAoRtc7jzCB4dKtt_xj6-CNLhsXgCLcBGAsYHQ/s0/Rua%2Bdo%2BMedo%2B1666%2BParte%2B3%2BTorrent%2BDublado%2B-%2BWEB-DL%2B1080p.jpg",[COLOR blue]Rua do Medo: 1666 – Parte 3 [COLOR White](2021)[/COLOR][/COLOR][COLOR gold]...Dublado...[/COLOR]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:B25928E3964C92A4969F59226256AC87CB368301&amp
+#EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-hoT2XrcO2Ck/YPItTVEOGNI/AAAAAAAADVo/RoWfTYDaxgkTv--doYF3WuYbE8D1YgwSACLcBGAsYHQ/s0/Space%2BJam%2BUm%2BNovo%2BLegado%2BTorrent%2BDublado%2B-%2B4K.jpg",[COLOR blue]Space Jam: Um Novo [COLOR White](2021)[/COLOR][/COLOR][COLOR gold]...Dublado...[/COLOR]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:EB28DB770350A5B61BE445B6908B91A9E022DECD&amp
+#EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-sotvzkGIywM/YPDFwhQyfQI/AAAAAAAADVA/tXQAL_DyWas4-2ChCQujnXeeH3Yh275pQCLcBGAsYHQ/s0/Alice%2Be%2BPeter%2BOnde%2BNascem%2Bos%2BSonhos%2BTorrent%2BDublado%2B-%2BBluRay%2B1080p.jpg",[COLOR blue]Alice e Peter: Onde Nascem os Sonhos [COLOR White](2021)[/COLOR][/COLOR][COLOR gold]...Dublado...[/COLOR]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:BC4612E26587FFB1F3356BF3BBF44F04307955CB&amp					
+#EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-qi9aKtdxdmU/YPC-yvgxFEI/AAAAAAAADUw/hDoTQega5G00v8GAqjgbdQfjC0Dfi6r8wCLcBGAsYHQ/s0/Um%2BMilagre%2BInesperado%2BTorrent%2BDublado%2B-%2BBluRay%2B1080p.jpg",[COLOR blue]Um Milagre Inesperado [COLOR White](2021)[/COLOR][/COLOR][COLOR gold]...Dublado...[/COLOR]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7E0C19D5354C29E0A0D9C2E3FFF49C475C3EACDE&amp
+#EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-rVR4_GWJYfQ/YPC8W3oBmoI/AAAAAAAADUo/36UOdIvDp7UVzTqLBB7JgTg1Qz_2ejNkgCLcBGAsYHQ/s0/Um%2BCl%25C3%25A1ssico%2BFilme%2Bde%2BTerror%2BTorrent%2BDublado%2B-%2BWEB-DL%2B1080p.jpg",[COLOR blue]Um Clássico Filme de Terror [COLOR White](2021)[/COLOR][/COLOR][COLOR gold]...Dublado...[/COLOR]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:632418381DF510323F6ED297E2B2ED2E1BCE3039&amp
+#EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-AkTrKbS1Luc/YO4w2MQpb-I/AAAAAAAADUM/SmwHlP0Pk8ERyn70YZJ2oB-1k922J8__ACLcBGAsYHQ/s0/O%2BResgate%2B-%2BO%2BDia%2Bda%2BReden%25C3%25A7%25C3%25A3o%2BTorrent%2BDublado%2B-%2BBluRay%2B1080p.jpg",[COLOR blue]O Resgate: O Dia da Redenção [COLOR White](2021)[/COLOR][/COLOR][COLOR gold]...Dublado...[/COLOR]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:D8F83A030F74C585C16AAA4652D03181DF2E8B22&amp					
+#EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-26Ndd3yQcwo/YO4uu4-t58I/AAAAAAAADUE/n_UznDVUGZoD7D5CAZMFQo_SBHAbstsQACLcBGAsYHQ/s0/C%25C3%25ADrculo%2BVicioso%2BTorrent%2BDublado%2B%25E2%2580%2593%2BWEB-DL%2B1080p.jpg",[COLOR blue]Círculo Vicioso [COLOR White](2021)[/COLOR][/COLOR][COLOR gold]...Dublado...[/COLOR]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:18125FAABCFF15BA415DFDBD1CC830B401907EA3&amp
+#EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-2mUEBFua9kY/YO3QXQUdHjI/AAAAAAAADTc/OEYPFA4Lh8UTE3Hn400aN8YoD29KGsnBgCLcBGAsYHQ/s0/Sociedade%2BSecreta%2Bdos%2BSegundos%2BFilhos%2BReais%2BDublado%2BTorrent.jpg",[COLOR blue]Sociedade Secreta dos Segundos Filhos Reais [COLOR White](2021)[/COLOR][/COLOR][COLOR gold]...Dublado...[/COLOR]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1AD049B8B1738E2DF96FF57B4B9F465197251C8D&amp
+#EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-mua60--qoqY/YO2aMDxOJbI/AAAAAAAADTE/MEZAY-Mi8FYT6CYjX8J-_amOh3zwrgIkQCLcBGAsYHQ/s0/Intelig%25C3%25AAncia%2BArtificial%2BAscens%25C3%25A3o%2Bdas%2BM%25C3%25A1quinas%2BTorrent.jpg",[COLOR blue]Inteligência Artificial [COLOR White](2021)[/COLOR][/COLOR][COLOR gold]...Dublado...[/COLOR]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:69D5086ADE8B2E4C0C5205BC744113EF88D52E5B&amp					
+#EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-Rrvl_Z8EZzQ/YOtEck2gm7I/AAAAAAAADRw/rZKkaGuB0T8YFXngPzIVdaazfwI5haR0gCLcBGAsYHQ/s0/Meios-Irm%25C3%25A3os%2BTorrent%2BDublado%2B-%2BBluRay%2B1080p.jpg",[COLOR blue]Meios-Irmãos [COLOR White](2021)[/COLOR][/COLOR][COLOR gold]...Dublado...[/COLOR]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:878F6DB017C6FAE6239FD1FD8FFF8748C3A4EE8E&amp
+#EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-NEwFJhEdKKU/YOtCWCxuacI/AAAAAAAADRo/G5Z687FndHMckjOwmBp8s0raORBs32x1gCLcBGAsYHQ/s0/O%2BHomem%2B%25C3%2581gua%2BTorrent%2BDublado%2B-%2BWEB-DL%2B1080p.jpg",[COLOR blue]O Homem Água [COLOR White](2021)[/COLOR][/COLOR][COLOR gold]...Dublado...[/COLOR]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:B01513FD3D71708EFF92E77601E10DA16378A592&amp
+#EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-6cVyTTmQXgQ/YOof0TnmVwI/AAAAAAAADRY/2uVb9f1FZcYjtPgureCfmQOTu_LDBrwhgCLcBGAsYHQ/s0/Baixar%2BOs%2BSimpsons%2BO%2BBem%252C%2BO%2BBart%2Be%2BO%2BLoki%2BTorrent%2BDublado%2B-%2BWEB-DL%2B1080p.jpg",[COLOR blue]Os Simpsons O Bem, O Bart e O Loki [COLOR White](2021)[/COLOR][/COLOR][COLOR gold]...Dublado...[/COLOR]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:78A2B82BC9469F20564A04568CCF7DD6A74C2AA3&amp	
 #EXTINF:0 tvg-logo="https://www.thepiratefilmetorrent.tv/wp-content/uploads/2021/07/Como-Virei-Super-Heroi.jpg",[COLOR blue]Como Virei Super-Herói [COLOR White](2021)[/COLOR][/COLOR][COLOR gold]...Dublado...[/COLOR]
 plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:E28BDE2AE813786CF198AFD530DBC5FBC19B27E1&amp	
 
