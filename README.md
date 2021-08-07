@@ -1,4 +1,36 @@
-   <item> 
+  <item> 
+1   <title>[B][COLOR blue] O Esquadrão Suicida  - [COLOR red]ADDON RAMALHOTV[COLOR red](2021) Dual Áudio / Dublado 5.1 BluRay 720p  [/COLOR][/B]</title>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9D2314942B31139F84ABDCEF080870B6425AE7DA&amp</link>
+1   <thumbnail>https://1.bp.blogspot.com/-m0IwKRtFgpU/YQyDtmbMq9I/AAAAAAAAjHA/zpiNl-3L8vMtMjeECm0M3PxA968xYQvygCNcBGAsYHQ/s350/O%2BEsquadr%25C3%25A3o%2BSuicida.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON RAMALHOTV  profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://1.bp.blogspot.com/-m0IwKRtFgpU/YQyDtmbMq9I/AAAAAAAAjHA/zpiNl-3L8vMtMjeECm0M3PxA968xYQvygCNcBGAsYHQ/s350/O%2BEsquadr%25C3%25A3o%2BSuicida.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE: O governo envia os supervilões mais perigosos do mundo para a remota ilha de Corto Maltese, repleta de inimigos. Armados com armas de alta tecnologia, eles viajam pela selva perigosa em uma missão de busca e destruição com o Coronel Rick Flag.[COLOR red][/COLOR][/B]</info>	
+  </item> 
+ 
+
+  <item> 
+1   <title>[B][COLOR blue] Jungle Cruise - [COLOR red]ADDON RAMALHOTV[COLOR red](2021) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p  [/COLOR][/B]</title>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:03DDE8CD690A7122892153F3273247C7B13B0348&amp</link>
+1   <thumbnail>https://filmesviatorrents.tv/wp-content/uploads/2021/07/Jungle-Cruise-Torrent.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON RAMALHOTV  profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://filmesviatorrents.tv/wp-content/uploads/2021/07/Jungle-Cruise-Torrent.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE: A Dra. Lily Houghton pede a ajuda do sagaz capitão Frank Wolff para levá-la à Amazônia em seu barco em ruínas. Juntos, eles procuram por uma árvore ancestral que detém o poder de curar - uma descoberta que deve mudar o futuro da medicina[COLOR red][/COLOR][/B]</info>	
+  </item> 
+ 
+
+  <item> 
+1   <title>[B][COLOR blue] Samurai X: A Origem - [COLOR red]ADDON RAMALHOTV[COLOR red](2021) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4E861C429955886252BB5B9CF5544298B6B47F3E&amp</link>
+1   <thumbnail>https://filmesviatorrents.tv/wp-content/uploads/2021/07/Samurai-X-A-Origem-Torrent.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON RAMALHOTV  profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://filmesviatorrents.tv/wp-content/uploads/2021/07/Samurai-X-A-Origem-Torrent.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE: Um misterioso ex-agente do serviço secreto deve retornar urgentemente à França, quando seu filho é falsamente acusado de tráfico de armas e drogas pelo governo, após um erro cometido por um burocrata e uma operação da máfia.[COLOR red][/COLOR][/B]</info>	
+  </item> 
+ 
+
+
+
+<item> 
 1   <title>[B][COLOR blue] O Último Mercenário  - [COLOR red]ADDON RAMALHOTV[COLOR red](2021) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
 1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d2cd103af5be673655b1ad0d47453f0adbd83b77</link>
 1   <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/iT9k4FyhjLcfMRH8Qzk3wR99pDC.jpg</thumbnail>
