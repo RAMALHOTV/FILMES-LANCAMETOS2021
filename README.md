@@ -1,4 +1,47 @@
   <item> 
+1   <title>[B][COLOR blue] Velozes e Furiosos 9 - [COLOR red]ADDON RAMALHOTV[COLOR red](2021) Dual Áudio / Dublado 5.1 BluRay 720p  [/COLOR][/B]</title>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0E10F70BC59F12BE083C62583F60FAF70860143A&amp</link>
+1   <thumbnail>https://i0.wp.com/i.imgur.com/egLrDEf.png?w=652&ssl=1</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON RAMALHOTV  profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://i0.wp.com/i.imgur.com/egLrDEf.png?w=652&ssl=1</fanart>
+1   <info>[B][COLOR red] SINOPSE: Dominic Toretto e Letty vivem uma vida pacata ao lado do filho. Mas eles logo são ameaçados pelo passado de Dom: seu irmão desaparecido Jakob, que retorna e está trabalhando ao lado de Cipher. Cabe a Dom reunir a equipe novamente para enfrentá-los.[COLOR red][/COLOR][/B]</info>	
+  </item> 
+
+
+
+  <item> 
+1   <title>[B][COLOR blue] Meia-noite no Switchgrass - [COLOR red]ADDON RAMALHOTV[COLOR red](2021) Dual Áudio / Dublado 5.1 BluRay 720p  [/COLOR][/B]</title>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:06585FE55313FEF50A1812184986AA96C146C893&amp</link>
+1   <thumbnail>https://filmesviatorrents.tv/wp-content/uploads/2021/08/Meia-noite-no-Switchgrass-Torrent.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON RAMALHOTV  profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://filmesviatorrents.tv/wp-content/uploads/2021/08/Meia-noite-no-Switchgrass-Torrent.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE: Dois agentes do FBI cruzam caminho com Crawford, um policial da Flórida que está investigando uma série de assassinatos que parecem ligados. Quando um plano dá errado,Crawford fica preso em um jogo de gato e rato com um serial killer.[COLOR red][/COLOR][/B]</info>	
+  </item> 
+
+
+
+  <item> 
+1   <title>[B][COLOR blue] Pânico em Casa - [COLOR red]ADDON RAMALHOTV[COLOR red](2021) Dual Áudio / Dublado 5.1 BluRay 720p  [/COLOR][/B]</title>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:06585FE55313FEF50A1812184986AA96C146C893&amp</link>
+1   <thumbnail>https://filmesviatorrents.tv/wp-content/uploads/2021/08/Panico-em-Casa-Torrent.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON RAMALHOTV  profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://filmesviatorrents.tv/wp-content/uploads/2021/08/Panico-em-Casa-Torrent.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:. [COLOR red][/COLOR][/B]</info>	
+  </item> 
+
+
+  <item> 
+1   <title>[B][COLOR blue] A Viúva das Sombras- [COLOR red]ADDON RAMALHOTV[COLOR red](2021) Dual Áudio / Dublado 5.1 BluRay 720p  [/COLOR][/B]</title>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:00C93DAE9BA4188720DE1845BCCA8B82EFDA7AAA&amp</link>
+1   <thumbnail>https://filmesviatorrents.tv/wp-content/uploads/2021/08/A-Viuva-das-Sombras-Torrent.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON RAMALHOTV  profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://filmesviatorrents.tv/wp-content/uploads/2021/08/A-Viuva-das-Sombras-Torrent.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:Membros de uma equipe de resgate encontram uma bruxa enquanto procuram por um menino desaparecido. [COLOR red][/COLOR][/B]</info>	
+  </item> 
+
+
+
+<item> 
 1   <title>[B][COLOR blue] O Esquadrão Suicida  - [COLOR red]ADDON RAMALHOTV[COLOR red](2021) Dual Áudio / Dublado 5.1 BluRay 720p  [/COLOR][/B]</title>
 1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9D2314942B31139F84ABDCEF080870B6425AE7DA&amp</link>
 1   <thumbnail>https://1.bp.blogspot.com/-m0IwKRtFgpU/YQyDtmbMq9I/AAAAAAAAjHA/zpiNl-3L8vMtMjeECm0M3PxA968xYQvygCNcBGAsYHQ/s350/O%2BEsquadr%25C3%25A3o%2BSuicida.jpg</thumbnail>
