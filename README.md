@@ -1,12 +1,24 @@
-  <item> 
-1   <title>[B][COLOR blue] Velozes e Furiosos 9 - [COLOR red]ADDON RAMALHOTV[COLOR red](2021) Dual Áudio / Dublado 5.1 BluRay 720p  [/COLOR][/B]</title>
-1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0E10F70BC59F12BE083C62583F60FAF70860143A&amp</link>
-1   <thumbnail>https://i0.wp.com/i.imgur.com/egLrDEf.png?w=652&ssl=1</thumbnail>
-1   <genre>[B][COLOR firebrick] ADDON RAMALHOTV  profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
-1   <fanart>https://i0.wp.com/i.imgur.com/egLrDEf.png?w=652&ssl=1</fanart>
-1   <info>[B][COLOR red] SINOPSE: Dominic Toretto e Letty vivem uma vida pacata ao lado do filho. Mas eles logo são ameaçados pelo passado de Dom: seu irmão desaparecido Jakob, que retorna e está trabalhando ao lado de Cipher. Cabe a Dom reunir a equipe novamente para enfrentá-los.[COLOR red][/COLOR][/B]</info>	
-  </item> 
+ <item>
+<title>[B][COLOR blue]Infinito [COLOR White](2021)[/COLOR][/COLOR][COLOR gold]...Dublado...[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:85FAFC1877DAD5A1FF5C675BB9A5768D3AC04A7B&amp	$nome= Dublado</link>
+<link>LINK FILME$nome= Legendado</link>
+<thumbnail>https://filmesviatorrents.tv/wp-content/uploads/2021/08/Infinito-Torrent.jpg</thumbnail>
+<fanart>https://filmesviatorrents.tv/wp-content/uploads/2021/08/Infinito-Torrent.jpg</fanart>
+<info>Evan McCauley tem sua vida diária assombrada por habilidades que nunca aprendeu e memórias de lugares que nunca visitou. Automedicado e à beira de um ataque de nervos, Evan é contatado pelos "Infinitos", um grupo secreto que revela a ele que suas memórias podem ser reais, porém vindas de múltiplas vidas passadas.</info>
+<genre> Ação/Aventura </genre>
+<year>2021</year>
+</item>
 
+<item>
+<title>[B][COLOR blue]Velozes e Furiosos 9 [COLOR White](2021)[/COLOR][/COLOR][COLOR gold]...Dublado...[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0E10F70BC59F12BE083C62583F60FAF70860143A&amp$nome= Dublado</link>
+<link>https://www.adorocinema.com/filmes/filme-221542/trailer-19564600/?jwsource=cl$nome= Trailer do filme</link>
+<thumbnail>https://i0.wp.com/i.imgur.com/egLrDEf.png?w=652&ssl=1</thumbnail>
+<fanart>https://www.istoedinheiro.com.br/wp-content/uploads/sites/17/2021/07/205162354-3046551135469456-773686029777932834-n-e1625420465508.jpg</fanart>
+<info>Dominic Toretto e Letty vivem uma vida pacata ao lado do filho. Mas eles logo são ameaçados pelo passado de Dom: seu irmão desaparecido Jakob, que retorna e está trabalhando ao lado de Cipher. Cabe a Dom reunir a equipe novamente para enfrentá-los..</info>
+<genre> Ação/Aventura </genre>
+<year>2021</year>
+</item>
 
 
   <item> 
