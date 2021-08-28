@@ -1,3 +1,16 @@
+
+<item>
+<title>[B][COLOR blue]Alice e Peter: Onde Nascem os Sonhos  [COLOR White](2021)[/COLOR][/COLOR][COLOR gold]...Dublado...[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:BC4612E26587FFB1F3356BF3BBF44F04307955CB&amp$nome= [COLOR green]Dublado[/COLOR]</link>
+<link>https://youtu.be/6VEsM3bztWY$nome= [COLOR yellow]Trailer[/COLOR]</link>
+<thumbnail>https://1.bp.blogspot.com/-sotvzkGIywM/YPDFwhQyfQI/AAAAAAAADVA/tXQAL_DyWas4-2ChCQujnXeeH3Yh275pQCLcBGAsYHQ/s0/Alice%2Be%2BPeter%2BOnde%2BNascem%2Bos%2BSonhos%2BTorrent%2BDublado%2B-%2BBluRay%2B1080p.jpg</thumbnail>
+<fanart>https://1.bp.blogspot.com/-sotvzkGIywM/YPDFwhQyfQI/AAAAAAAADVA/tXQAL_DyWas4-2ChCQujnXeeH3Yh275pQCLcBGAsYHQ/s0/Alice%2Be%2BPeter%2BOnde%2BNascem%2Bos%2BSonhos%2BTorrent%2BDublado%2B-%2BBluRay%2B1080p.jpg</fanart>
+<info>Antes do País das Maravilhas e da Terra do Nunca, Peter e Alice eram irmãos. Quando uma tragédia toma conta da família, eles embarcam em uma aventura fantástica e descobrem que as jornadas mais incríveis começam em casa. </genre>
+<year>2021</year>
+</item>
+
+
+
 <item>
 <title>[B][COLOR blue]A Gêmea do Mal  [COLOR White](2021)[/COLOR][/COLOR][COLOR gold]...Dublado...[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:B0379FA7AD98FD0E3FB53AD28489E99FD4195FF3&amp$nome= [COLOR green]Dublado[/COLOR]</link>
