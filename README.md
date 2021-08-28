@@ -1,4 +1,27 @@
- <item>
+<item>
+<title>[B][COLOR blue]A Gêmea do Mal  [COLOR White](2021)[/COLOR][/COLOR][COLOR gold]...Dublado...[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:B0379FA7AD98FD0E3FB53AD28489E99FD4195FF3&amp$nome= [COLOR green]Dublado[/COLOR]</link>
+<link>https://www.adorocinema.com/filmes/filme-32828/trailer-19540961/?jwsource=cl$nome=[COLOR yellow]Trailer[/COLOR]</link>
+<thumbnail>https://1.bp.blogspot.com/-HJ3Ep0QS7lI/YPStVLPU2fI/AAAAAAAADWU/_Jw9PEModD4Ep12rR6jmt_AIH2ALV1vYwCLcBGAsYHQ/s0/A%2BG%25C3%25AAmea%2Bdo%2BMal%2BTorrent%2BDublado%2B-%2BWEB-DL%2B1080p.jpg</thumbnail>
+<fanart>https://1.bp.blogspot.com/-HJ3Ep0QS7lI/YPStVLPU2fI/AAAAAAAADWU/_Jw9PEModD4Ep12rR6jmt_AIH2ALV1vYwCLcBGAsYHQ/s0/A%2BG%25C3%25AAmea%2Bdo%2BMal%2BTorrent%2BDublado%2B-%2BWEB-DL%2B1080p.jpg</fanart>
+<info> Emily consegue escapar de um relacionamento abusivo e decide voltar para sua cidade natal em busca de paz e sossego. Mas quando ela chega, fica sabendo da existência de uma irmã gêmea que pode ser uma assassina.</genre>
+<year>2021</year>
+</item>
+
+
+<item>
+<title>[B][COLOR blue]Rua do Medo: 1666 – Parte 3[COLOR White](2021)[/COLOR][/COLOR][COLOR gold]...Dublado...[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=btih:B25928E3964C92A4969F59226256AC87CB368301&amp$nome= [COLOR green]Dublado[/COLOR]</link>
+<link>https://www.adorocinema.com/filmes/filme-257550/trailer-19564725/?jwsource=cl$nome=[COLOR yellow]Trailer[/COLOR]</link>
+<thumbnail>https://1.bp.blogspot.com/-fq57pmqPxxw/YPSoZG3n2eI/AAAAAAAADWE/l93seUAoRtc7jzCB4dKtt_xj6-CNLhsXgCLcBGAsYHQ/s0/Rua%2Bdo%2BMedo%2B1666%2BParte%2B3%2BTorrent%2BDublado%2B-%2BWEB-DL%2B1080p.jpg</thumbnail>
+<fanart>https://1.bp.blogspot.com/-fq57pmqPxxw/YPSoZG3n2eI/AAAAAAAADWE/l93seUAoRtc7jzCB4dKtt_xj6-CNLhsXgCLcBGAsYHQ/s0/Rua%2Bdo%2BMedo%2B1666%2BParte%2B3%2BTorrent%2BDublado%2B-%2BWEB-DL%2B1080p.jpg</fanart>
+<info>Fear Street Part Three: 1666 é um filme estadunidense dos gêneros terror e slasher, dirigido por Leigh Janiak e baseado na série de livros homônimo do escritor R. L. Stine. É o terceiro e último filme da trilogia, lançado em 16 de julho de 2021, distribuído pela Netflix. </genre>
+<year>2021</year>
+</item>
+
+
+
+<item>
 <title>[B][COLOR blue]Infinito [COLOR White](2021)[/COLOR][/COLOR][COLOR gold]...Dublado...[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:85FAFC1877DAD5A1FF5C675BB9A5768D3AC04A7B&amp	$nome= Dublado</link>
 <link>LINK FILME$nome= Legendado</link>
