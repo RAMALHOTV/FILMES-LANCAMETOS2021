@@ -48,7 +48,7 @@
 <item>
 <title>[B][COLOR blue]Velozes e Furiosos 9 [COLOR White](2021)[/COLOR][/COLOR][COLOR gold]...Dublado...[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0E10F70BC59F12BE083C62583F60FAF70860143A&amp$nome= Dublado</link>
-<link>https://www.adorocinema.com/filmes/filme-221542/trailer-19564600/?jwsource=cl$nome= Trailer do filme</link>
+<link>http://linktv.one/Velozes_e_Furiosos_9_2021_Dj_MmsB_Entretenimento-web-Contato-031-989351328$nome=link diretos</link>
 <thumbnail>https://i0.wp.com/i.imgur.com/egLrDEf.png?w=652&ssl=1</thumbnail>
 <fanart>https://www.istoedinheiro.com.br/wp-content/uploads/sites/17/2021/07/205162354-3046551135469456-773686029777932834-n-e1625420465508.jpg</fanart>
 <info>Dominic Toretto e Letty vivem uma vida pacata ao lado do filho. Mas eles logo são ameaçados pelo passado de Dom: seu irmão desaparecido Jakob, que retorna e está trabalhando ao lado de Cipher. Cabe a Dom reunir a equipe novamente para enfrentá-los..</info>
@@ -168,8 +168,9 @@
   </item> 
  
     <item> 
-1   <title>[B][COLOR blue] Viúva Negra - [COLOR red]ADDON RAMALHOTV[COLOR red](2021) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
-1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:LSDQ5MDLYPDTT5NLK7ZHYDL6THSW2SMM$nome=[COLOR lime]720P  [/COLOR] - DUBLADO</link> 
+1   <title>[B][COLOR blue] Viúva Negra - [COLOR red]ADDON RAMALHOTV[COLOR red](2021) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | [/COLOR][/B]</title>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:LSDQ5MDLYPDTT5NLK7ZHYDL6THSW2SMM$nome=[COLOR lime]Dublado 1080p  [/COLOR] - DUBLADO</link> 
+    <link>http://linktv.one/Viva_Negra_2021_Dj_MmsB_Entretenimento-web-Contato-031-989351328$nome=[COLOR lime]link diretos  [/COLOR] - DUBLADO</link> 
 1   <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/rKq1Vlw0Bqe2EEvdmIkkkgPQAGf.jpg</thumbnail>
 1   <genre>[B][COLOR firebrick] ADDON RAMALHOTV profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
 1   <fanart>https://www.themoviedb.org/t/p/original/vNTyQQ9SvGbAoH34uxDEr7aPqIP.jpg</fanart>
