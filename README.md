@@ -1,4 +1,22 @@
+   <item> 
+1   <title>[B][COLOR blue] Free Guy - Assumindo o Controle - [COLOR red]ADDON RAMALHOTV [COLOR red](2021) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:E1163EEC087017C2CA25F013B3FCAE6366D75DCD&amp</link>
+1   <thumbnail>https://completotorrent.com/imagens/free-guy-assumindo-o-controle-download-torrent-2021-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON RAMALHOTV O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://completotorrent.com/imagens/free-guy-assumindo-o-controle-download-torrent-2021-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
+1   <info>[B][COLOR red]Um caixa de banco preso a uma entediante rotina tem sua vida virada de cabeça para baixo quando descobre que é um personagem em um jogo interativo. Agora ele precisa aceitar sua realidade e lidar com o fato de que é o único que pode salvar o mundo.[COLOR red][/COLOR][/B]</info>	
+  </item>  
+  
+
     <item> 
+1   <title>[B][COLOR blue] Ninguém Sai Vivo  - [COLOR red]ADDON RAMALHOTV [COLOR red](2021) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7CC23296FAC5E3153527F3A22D5C45D7DAA7FF9B&amp</link>
+1   <thumbnail>https://completotorrent.com/imagens/ninguem-sai-vivo-download-torrent-2021-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON RAMALHOTV O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://completotorrent.com/imagens/ninguem-sai-vivo-download-torrent-2021-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
+1   <info>[B][COLOR red]Desesperada, uma imigrante ilegal do México se muda para uma pensão decadente nos EUA. Ela nem imagina que seu pior pesadelo está prestes a começar.[COLOR red][/COLOR][/B]</info>	
+  </item>  
+      <item> 
 1   <title>[B][COLOR blue] Pegue a Bala - [COLOR red]ADDON RAMALHOTV [COLOR red](2021) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
 1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ea1d2394f14a120ba3043397427059b1bfa6d6e8</link>
 1   <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/m3DUe1cpiBsLg0caIO2JDr7HK5Z.jpg</thumbnail>
