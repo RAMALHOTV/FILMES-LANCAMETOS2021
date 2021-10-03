@@ -1,63 +1,192 @@
-
-<item>
-<title>[B][COLOR blue]Alice e Peter: Onde Nascem os Sonhos  [COLOR White](2021)[/COLOR][/COLOR][COLOR gold]...Dublado...[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:BC4612E26587FFB1F3356BF3BBF44F04307955CB&amp$nome= [COLOR green]Dublado[/COLOR]</link>
-<link>https://youtu.be/6VEsM3bztWY$nome= [COLOR yellow]Trailer[/COLOR]</link>
-<thumbnail>https://1.bp.blogspot.com/-sotvzkGIywM/YPDFwhQyfQI/AAAAAAAADVA/tXQAL_DyWas4-2ChCQujnXeeH3Yh275pQCLcBGAsYHQ/s0/Alice%2Be%2BPeter%2BOnde%2BNascem%2Bos%2BSonhos%2BTorrent%2BDublado%2B-%2BBluRay%2B1080p.jpg</thumbnail>
-<fanart>https://1.bp.blogspot.com/-sotvzkGIywM/YPDFwhQyfQI/AAAAAAAADVA/tXQAL_DyWas4-2ChCQujnXeeH3Yh275pQCLcBGAsYHQ/s0/Alice%2Be%2BPeter%2BOnde%2BNascem%2Bos%2BSonhos%2BTorrent%2BDublado%2B-%2BBluRay%2B1080p.jpg</fanart>
-<info>Antes do País das Maravilhas e da Terra do Nunca, Peter e Alice eram irmãos. Quando uma tragédia toma conta da família, eles embarcam em uma aventura fantástica e descobrem que as jornadas mais incríveis começam em casa. </genre>
-<year>2021</year>
+    <item> 
+1   <title>[B][COLOR blue] Pegue a Bala - [COLOR red]ADDON RAMALHOTV [COLOR red](2021) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ea1d2394f14a120ba3043397427059b1bfa6d6e8</link>
+1   <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/m3DUe1cpiBsLg0caIO2JDr7HK5Z.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON RAMALHOTV O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://www.themoviedb.org/t/p/original/fQlfObqEH8Jam5WQrLUMngbEroZ.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE: Britt MacMasters, um marechal dos EUA que raramente os traz de volta com vida, volta para casa da trilha para descobrir que seu filho de 12 anos, Chad, foi sequestrado por bandidos Jed Blake e sua gangue. Com a ajuda do guia indiano, Chaska, junto com Clay Tucker, um deputado preconceituoso que não confia no guia, Britt parte para o perigoso território Sioux. Enquanto Jed atrai o marechal para sua emboscada mortal, ele descobre que o garoto cativo é um oponente formidável e escorregadio, com várias tentativas de fuga que retornam espancamentos violentos para Chad, e um galho de árvore inesperado cravado no olho de Jed. Furioso com a vingança e com a ameaça dos impiedosos guerreiros Sioux na curva, os ferimentos sangrentos de Jed o deixaram um homem desmoronando à beira da insanidade. Conforme o grupo de busca avança para o Deserto Vermelho, as visões racistas de Tucker em relação ao amigo indiano de Britt são profundamente desafiadas quando Chaska o salva de um perigo com uma faca de guerreiro Sioux. Com ambos os lados sucumbindo a ataques brutais e cabeças escalpeladas, Britt corre contra o tempo para enfrentar o bandido enlouquecido e salvar seu filho moribundo. Enquanto isso, mergulhando ainda mais na loucura e temendo que o marechal possa ter caído na armadilha dos guerreiros, Jed vira sua pistola para seu jovem prisioneiro para uma partida de “Catch the Bullet”. Antes que Chad possa responder, um Britt invisível responde: “Vou brincar com você.” Tremendo de prazer enlouquecido, Jed está cara a cara com seu inimigo.[COLOR red][/COLOR][/B]</info>	
+  </item>  
+  
+ 
+ 
+   <item> 
+1   <title>[B][COLOR blue] G.I. Joe Origens - Snake Eyes - [COLOR red]ADDON RAMALHOTV [COLOR red](2021) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:LPLRWL2VMSRFKUGN573YGWUEYYL6WFQP</link>
+1   <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6IxMW3939dOCjzenwzkWEjgICVq.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON RAMALHOTV O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://www.themoviedb.org/t/p/original/aO9Nnv9GdwiPdkNO79TISlQ5bbG.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:Conheça as origens do emblemático herói G.I. JOE SNAKE EYES (Henry Golding) nesta aventura emocionante e cheia de ação. Após salvar a vida do herdeiro de ARASHIKAGE, STORM SHADOW (Andrew Koji), SNAKE EYES é aceito nesse antigo clã japonês se junta à batalha contra o grupo terrorista COBRA. Desafiando os limites, SNAKE EYES será o melhor dos guerreiros ninjas. Porém, são revelados segredos do passado, testanto sua honra e lealdade - mesmo que isso signifique perder tudo pelo que lutou. Também estrelando Úrsula Corberó como a Baronesa e Samara Tecendo como SCARLETT.[COLOR red][/COLOR][/B]</info>	
+  </item>   
+ 
+    <item> 
+1   <title>[B][COLOR blue] Sem Retorno - [COLOR red]ADDON RAMALHOTV [COLOR red](2021) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a11f1281b245514325a32237098b35c95cca167b</link>
+1   <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/l5oziYNRdgh8S3vb7fLvvvcfk0Q.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON RAMALHOTV O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://www.themoviedb.org/t/p/original/oeBBSOTYn04fLkLtQkpEseLHGEm.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:Prisioneiros russos estão sendo escoltados até um campo de prisioneiros de Stalag por um grupo de soldados alemães. Suas histórias de vida se desenrolam e quando os russos escapam e lutam por suas vidas atrás das linhas inimigas, alguns de seus captores começam a questionar se eles estão do lado certo.[COLOR red][/COLOR][/B]</info>	
+  </item>  
+ 
+ 
+ <item> 
+1   <title>[B][COLOR blue] Invasão Cósmica  - [COLOR red]ADDON RAMALHOTV [COLOR red](2021) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c7eccd8c6dae595cf58915bd7aefc55d434845e5</link>
+1   <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/v5Jodmj8equxBklBlhZMHJtkp5J.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON RAMALHOTV O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://www.themoviedb.org/t/p/original/umAoDwLZMBrYeCDfbJYFRMuXWAr.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:No ano de 2524, quatro séculos depois que os humanos começaram a colonizar os planetas externos, o general aposentado James Ford foi chamado de volta ao serviço quando uma frota alienígena hostil ataca soldados em um planeta remoto. A ameaça contra a humanidade logo se transforma em uma guerra interestelar quando Ford e uma equipe de soldados de elite tentam impedir o ataque iminente antes que seja tarde demais.[COLOR red][/COLOR][/B]</info>	
+  </item>  
+  
+  
+   
+    <item> 
+1   <title>[B][COLOR blue] A Lenda de Candyman - [COLOR red]ADDON RAMALHOTV [COLOR red](2021) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2IFPTVLWMSPNNPCSNJ4CYDUQMNCNLGCU</link>
+1   <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/51Zvpg2kAIrzPdsQcIWojJhEhyS.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON RAMALHOTV O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://www.themoviedb.org/t/p/original/mCaolOVQ5Y9Hfv3R2izakXo6UJg.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:Em um bairro pobre de Chicago, a lenda de um espírito assassino conhecido como Candyman (Yahya Abdul-Mateen II) assolou a população anos atrás. Agora, o local foi renovado e é lar de cidadãos de alta classe. Quando o espírito retorna, os novos habitantes também serão obrigados a enfrentar a ira de Candyman.[COLOR red][/COLOR][/B]</info>	
+  </item>   
+   
+   
+   
+    <item> 
+1   <title>[B][COLOR blue] CISIS - [COLOR red]ADDON RAMALHOTV [COLOR red](2021) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4UVAZTETSO73GY5LE24MJ7S2WC6WPUJJ</link>
+1   <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/15e2VcMTtk3pqgGlHWxisvygFAw.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON RAMALHOTV O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://www.themoviedb.org/t/p/original/gFDOQMQwo5UWegXE5kNEchn1eKx.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:Três histórias sobre o mundo dos opioides colidem: um traficante de drogas organiza uma operação de contrabando de Fentanil multicartel entre o Canadá e os EUA, um arquiteto se recuperando de um vício em OxyContin rastreia a verdade por trás do envolvimento de seu filho com narcóticos e um professor universitário luta inesperadamente revelações sobre seu empregador de pesquisa, uma empresa farmacêutica com profunda influência governamental que está trazendo um novo analgésico "não viciante" ao mercado.[COLOR red][/COLOR][/B]</info>	
+  </item>   
+   
+   
+    <item> 
+1   <title>[B][COLOR blue] Refém Rebelde - [COLOR red]ADDON RAMALHOTV [COLOR red](2021) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6HCB5OHJVSYDNHJRRRKJRXUAKQ4NVSEL</link>
+1   <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/61hoGhY0khqOolZyfxqv4zrde8M.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON RAMALHOTV O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://www.themoviedb.org/t/p/original/uZDE9VnKFnIPmWriMjnp82bH9S8.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:No dia da inauguração de um supermercado de um congressista dos EUA, terroristas tomam o lugar em busca de vingança, mas um ex-fuzileiro naval que sofre transtorno de estresse pós-traumático está entre os reféns.[COLOR red][/COLOR][/B]</info>	
+  </item>   
+   
+   
+ <item> 
+1   <title>[B][COLOR blue] O Espião Inglês - [COLOR red]ADDON RAMALHOTV [COLOR red](2021) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:da5525c8e031ab545f7052e4686ce33fd355af1f</link> 
+1   <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/et0OqqfYINGCFB76YTmdinuuGTn.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON RAMALHOTV O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://www.themoviedb.org/t/p/original/3pIqd1hgZ2xqzWEyiYp4blqE9Fi.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:O empresário Greville Wynne (Benedict Cumberbatch) e a calorosa dona-de-casa Sheila (Jessie Buckley) levam uma vida tranquila. Quando rumores de uma toupeira no governo da União Soviética chegam a Dickie Franks (Angus Wright), dos serviços secretos britânicos, e a Emily Donovan (Rachel Brosnahan), da CIA, Greville é chamado a servir o seu país precisamente devido ao seu aspeto banal. Atirado para o conflito político, à medida que os seus esforços para acabar com a crise dos mísseis cubanos se aprofundam, Greville cria um vínculo inquebrável com o seu informador, Oleg (Merab Ninidze), que acabará por ser posto à prova. Pressionado pelas suspeitas de Sheila e com os soviéticos cada vez mais próximos da trama, Greville prova que está longe de ser um cidadão comum.[COLOR red][/COLOR][/B]</info>	
 </item>
+   
+   <item> 
+1   <title>[B][COLOR blue] Ascensão do Cisne Negro - [COLOR red]ADDON RAMALHOTV [COLOR red](2021) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:14ea062ba1458e7df8b8ee650f80c6241688e755</link>
+1   <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6Y9fl8tD1xtyUrOHV2MkCYTpzgi.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON RAMALHOTV O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanarthttps://www.themoviedb.org/t/p/original/zHHcindG4uVZLPLuYWoo4rnv6Ti.jpg></fanart>
+1   <info>[B][COLOR red]SINOPSE:Um soldado SAS fora de serviço, Tom Buckingham, deve impedir um ataque terrorista em um trem que atravessa o Túnel do Canal. Conforme a ação se intensifica no trem, eventos acontecem nos corredores de poder que podem fazer a diferença se Buckingham e os passageiros civis conseguem sair do túnel com vida.[/COLOR red]</info>
+  </item>
+   
+    <item> 
+1   <title>[B][COLOR blue] Justiça em Família - [COLOR red]ADDON RAMALHOTV [COLOR red](2021) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3fb88221d1aff777e3363b3b964f61ca4103379f</link>
+1   <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/wrwhbYVJK3O85tRLrkVjCXZniIJ.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON RAMALHOTV O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://www.themoviedb.org/t/p/original/51WHiifvw7suTUBcahkHNK3yEIH.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:Um viúvo arrasado (Jason Momoa) promete levar à Justiça as pessoas responsáveis pela morte da esposa. Ao mesmo tempo, ele precisa proteger a filha (Isabela Merced), a única família que lhe resta.[COLOR red][/COLOR][/B]</info>	
+  </item>    
+   
+   <item> 
+1   <title>[B][COLOR blue] Os Renegados - [COLOR red]ADDON RAMALHOTV [COLOR red](2021) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:Z5G6HDXB6N4C4DBEYBBD2BG4PUU3IU2J</link>
+1   <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/vrYpppKn5UimPMwsuL8cM2aoFXL.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON RAMALHOTV O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://www.themoviedb.org/t/p/original/6FzuNrApEc71aJ3CwwkpadbNled.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:Depois de ser recrutado por um grupo de ladrões não convencionais, o renomado criminoso Richard Pace se vê envolvido em um elaborado roubo de ouro que promete ter implicações de longo alcance em sua vida e na vida de inúmeras outras pessoas.[COLOR red][/COLOR][/B]</info>	
+  </item>    
+ 
+    <item> 
+1   <title>[B][COLOR blue] Legado de mentiras - [COLOR red]ADDON RAMALHOTV [COLOR red](2021) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:65283C950DE9F7C9127C7B03F32D7973319E1024</link>
+1   <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/bhNHCeJDFDaB00A46AoCw2mggdE.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON RAMALHOTV O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://www.themoviedb.org/t/p/original/wkvO1xFozZw7FDcZYpwL35PHXQz.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:Um ex-agente do MI6 é trazido de volta ao mundo da espionagem e de altas apostas para descobrir a verdade chocante sobre as operações conduzidas por serviços secretos desconhecidos.[COLOR red][/COLOR][/B]</info>	
+  </item> 
+ 
+    <item> 
+1   <title>[B][COLOR blue] Infinito - [COLOR red]ADDON RAMALHOTV [COLOR red](2021) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:LFRRMXSKUPTBUFNZ2W3IDMEDXF7GN7J3</link>
+1   <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/mLvjQ0IIdzZfQzQXULI7sIVxd8V.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON RAMALHOTV O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://www.themoviedb.org/t/p/original/jf5XNTEDSxkZm4zTt87hBv97fti.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:Evan McCauley tem habilidades que nunca aprendeu e memórias de lugares que nunca visitou. Auto-medicado e à beira de um colapso mental, um grupo secreto que se auto denominam “Infinites” vêem-no ajudar , revelando que as memórias são reais.[COLOR red][/COLOR][/B]</info>	
+  </item> 
+ 
+    <item> 
+1   <title>[B][COLOR blue] Velocidade Furiosa 9 - [COLOR red]ADDON RAMALHOTV [COLOR red](2021) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:EBFA89AE2BE5EAD927BB7FA7224B7F5C7A473F90$nome=[COLOR lime]  4K  [/COLOR] - DUBLADO</link>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5B8B5646A9739A501D2D02EFD8123F31EA7CFB47$nome=[COLOR lime]1080P SEM COMPACTAÇÃO[/COLOR] - DUBLADO</link>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0E10F70BC59F12BE083C62583F60FAF70860143A$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:B28853963779FDC6D1AC1E822DD8AFE58688F456$nome=[COLOR lime]720P  [/COLOR] - DUBLADO</link> 
+1   <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/u2e1y2k9bVkScYsxLi0xQzzHk5u.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON RAMALHOTV O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://www.themoviedb.org/t/p/original/gGTCDNEvwG848u34Op1nZNALLUr.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:Velocidade Furiosa 9 é o nono capítulo da saga que já leva mais de duas décadas e arrecadou mais de 5 mil milhões de dólares em todo o mundo. Dom Toretto (Vin Diesel) leva uma vida tranquila, longe de tudo, com Letty (Michelle Rodriguez) e o seu filho, o pequeno Brian. Mas todos sabem que para lá do horizonte pacífico, o perigo está sempre à espreita. Desta vez, esta ameaça vai forçar Dom a enfrentar os pecados do seu passado para conseguir salvar aqueles que mais ama. A sua equipa volta a unir-se para travar um plano que vai chocar o mundo, liderado pelo melhor condutor e maior assassino que alguma vez encontraram: Jakob (John Cena), o irmão abandonado de Dom.[COLOR red][/COLOR][/B]</info>	
+  </item> 
+ 
+ 
+    <item> 
+1   <title>[B][COLOR blue] Embattled - [COLOR red]ADDON RAMALHOTV [COLOR red](2021) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:PNVMW6YY5K3ZNBNVFYLOYUYKDAN5PL7P</link>
+1   <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/Foi2Via2fIACRJMB4934D5MP3j.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON RAMALHOTV O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://www.themoviedb.org/t/p/original/g8aklDRGzz4xWh9IDJvwDiT7hsv.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:Um prodígio do Judô do Ensino Médio entra na gaiola do MMA numa violenta batalha de retaliação contra o seu rival - seu pai. Criado por um pai abusivo, Cash (Stephen Dorf) canaliza sua agressividade para se tornar um campeão mundial do MMA. Acostumado à riqueza, adulação e popularidade global, ele enfrenta um novo desafio quando seu segundo filho nasce com Síndrome de Williams. Mas, desta vez, em vez de ficar e lutar, ele foge. Enquanto Cash continua a fazer fortuna no ringue, seu filho mais velho, Jett (Darren Mann), passa a cuidar do irmão mais novo, Quinn (Colin McKenna). Quando Jett decide seguir os passos do pai e entrar para o mundo da luta, ele encara seu passado de frente, embarcando em uma jornada que acaba colocando pai contra filho numa batalha que, não importa o resultado, nenhum dos dois pode vencer.[COLOR red][/COLOR][/B]</info>	
+  </item> 
+ 
+    <item> 
+1   <title>[B][COLOR blue] Loucos Por Justiça - [COLOR red]ADDON RAMALHOTV [COLOR red](2021) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5SCOW4ICL4IS7Z4V7YLXWUIDQCPPW3NU</link>
+1   <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/i7LtmfzZ2HCxNBEw0h4Wu2lZTSS.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON RAMALHOTV O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://www.themoviedb.org/t/p/original/oZYUrxvgFZ0CmBrsL37Oiw4oRlN.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:Markus, um militar destacado, tem que ir para a casa de sua filha adolescente, Mathilde, quando sua esposa morre em um trágico acidente de trem. Parece pura má sorte - mas parece que pode ter sido um assassinato cuidadosamente orquestrado, do qual sua esposa acabou sendo uma vítima aleatória.[COLOR red][/COLOR][/B]</info>	
+  </item> 
+ 
+    <item> 
+1   <title>[B][COLOR blue] O Esquadrão Suicida - [COLOR red]ADDON RAMALHOTV [COLOR red](2021) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a8eb2bf928af2d81b2a20a026cc6f508b5d24a57$nome=[COLOR lime]1080P SEM COMPACTAÇÃO[/COLOR] - DUBLADO</link>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9d2314942b31139f84abdcef080870b6425ae7da$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
+1   <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/wTS3dS2DJiMFFgqKDz5fxMTri.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON RAMALHOTV O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://www.themoviedb.org/t/p/original/rAgsOIhqRS6tUthmHoqnqh9PIAE.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:Trilhando por uma selva lotada de adversários militares e forças de guerrilha, o Esquadrão está em uma missão de procurar e destruir tendo apenas o Coronel Rick Flag no chão para fazê-los se comportar… e a tecnologia do governo de Amanda Waller em seus ouvidos, rastreando cada um de seus movimentos. E como sempre, um passo em falso e eles estão mortos (seja pelas mãos de seus inimigos, companheiros de equipe, ou da própria Waller). Se alguém estiver fazendo apostas, o mais esperto é colocar seu dinheiro contra eles – todos eles.[COLOR red][/COLOR][/B]</info>	
+  </item> 
+ 
+    <item> 
+1   <title>[B][COLOR blue] Meia-noite no Switchgrass - [COLOR red]ADDON RAMALHOTV [COLOR red](2021) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:06585fe55313fef50a1812184986aa96c146c893</link>
+1   <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/yMqiQycjmTVG8ocoQvJkFmHvFnD.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON RAMALHOTV O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://www.themoviedb.org/t/p/original/clU0V12kgvK6ubQVxAQ3fLrP6te.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:O agente do FBI Karl Helter e sua parceira Rebecca Lombardo estão muito perto de prender uma quadrilha de tráfico sexual. Quando eles percebem que sua investigação cruzou o caminho de um assassino em série brutal, eles se unem a um Texas Ranger para acabar com o infame 'Truck Stop Killer'.[COLOR red][/COLOR][/B]</info>	
+  </item> 
+ 
+ 
+    <item> 
+1   <title>[B][COLOR blue] O Último Mercenário  - [COLOR red]ADDON RAMALHOTV [COLOR red](2021) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d2cd103af5be673655b1ad0d47453f0adbd83b77</link>
+1   <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/iT9k4FyhjLcfMRH8Qzk3wR99pDC.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON RAMALHOTV O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://www.themoviedb.org/t/p/original/tXcJZtsEIYkZpjonbym3GKs7pJN.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE: Um misterioso ex-agente do serviço secreto deve retornar urgentemente à França, quando seu filho é falsamente acusado de tráfico de armas e drogas pelo governo, após um erro cometido por um burocrata e uma operação da máfia.[COLOR red][/COLOR][/B]</info>	
+  </item> 
 
 
-
-<item>
-<title>[B][COLOR blue]A Gêmea do Mal  [COLOR White](2021)[/COLOR][/COLOR][COLOR gold]...Dublado...[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:B0379FA7AD98FD0E3FB53AD28489E99FD4195FF3&amp$nome= [COLOR green]Dublado[/COLOR]</link>
-<link>https://www.adorocinema.com/filmes/filme-32828/trailer-19540961/?jwsource=cl$nome=[COLOR yellow]Trailer[/COLOR]</link>
-<thumbnail>https://1.bp.blogspot.com/-HJ3Ep0QS7lI/YPStVLPU2fI/AAAAAAAADWU/_Jw9PEModD4Ep12rR6jmt_AIH2ALV1vYwCLcBGAsYHQ/s0/A%2BG%25C3%25AAmea%2Bdo%2BMal%2BTorrent%2BDublado%2B-%2BWEB-DL%2B1080p.jpg</thumbnail>
-<fanart>https://1.bp.blogspot.com/-HJ3Ep0QS7lI/YPStVLPU2fI/AAAAAAAADWU/_Jw9PEModD4Ep12rR6jmt_AIH2ALV1vYwCLcBGAsYHQ/s0/A%2BG%25C3%25AAmea%2Bdo%2BMal%2BTorrent%2BDublado%2B-%2BWEB-DL%2B1080p.jpg</fanart>
-<info> Emily consegue escapar de um relacionamento abusivo e decide voltar para sua cidade natal em busca de paz e sossego. Mas quando ela chega, fica sabendo da existência de uma irmã gêmea que pode ser uma assassina.</genre>
-<year>2021</year>
 </item>
-
-
-<item>
-<title>[B][COLOR blue]Rua do Medo: 1666 – Parte 3[COLOR White](2021)[/COLOR][/COLOR][COLOR gold]...Dublado...[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=btih:B25928E3964C92A4969F59226256AC87CB368301&amp$nome= [COLOR green]Dublado[/COLOR]</link>
-<link>https://www.adorocinema.com/filmes/filme-257550/trailer-19564725/?jwsource=cl$nome=[COLOR yellow]Trailer[/COLOR]</link>
-<thumbnail>https://1.bp.blogspot.com/-fq57pmqPxxw/YPSoZG3n2eI/AAAAAAAADWE/l93seUAoRtc7jzCB4dKtt_xj6-CNLhsXgCLcBGAsYHQ/s0/Rua%2Bdo%2BMedo%2B1666%2BParte%2B3%2BTorrent%2BDublado%2B-%2BWEB-DL%2B1080p.jpg</thumbnail>
-<fanart>https://1.bp.blogspot.com/-fq57pmqPxxw/YPSoZG3n2eI/AAAAAAAADWE/l93seUAoRtc7jzCB4dKtt_xj6-CNLhsXgCLcBGAsYHQ/s0/Rua%2Bdo%2BMedo%2B1666%2BParte%2B3%2BTorrent%2BDublado%2B-%2BWEB-DL%2B1080p.jpg</fanart>
-<info>Fear Street Part Three: 1666 é um filme estadunidense dos gêneros terror e slasher, dirigido por Leigh Janiak e baseado na série de livros homônimo do escritor R. L. Stine. É o terceiro e último filme da trilogia, lançado em 16 de julho de 2021, distribuído pela Netflix. </genre>
-<year>2021</year>
-</item>
-
-
-
-<item>
-<title>[B][COLOR blue]Infinito [COLOR White](2021)[/COLOR][/COLOR][COLOR gold]...Dublado...[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:85FAFC1877DAD5A1FF5C675BB9A5768D3AC04A7B&amp	$nome= Dublado</link>
-<link>LINK FILME$nome= Legendado</link>
-<thumbnail>https://filmesviatorrents.tv/wp-content/uploads/2021/08/Infinito-Torrent.jpg</thumbnail>
-<fanart>https://filmesviatorrents.tv/wp-content/uploads/2021/08/Infinito-Torrent.jpg</fanart>
-<info>Evan McCauley tem sua vida diária assombrada por habilidades que nunca aprendeu e memórias de lugares que nunca visitou. Automedicado e à beira de um ataque de nervos, Evan é contatado pelos "Infinitos", um grupo secreto que revela a ele que suas memórias podem ser reais, porém vindas de múltiplas vidas passadas.</info>
-<genre> Ação/Aventura </genre>
-<year>2021</year>
-</item>
-
-<item>
-<title>[B][COLOR blue]Velozes e Furiosos 9 [COLOR White](2021)[/COLOR][/COLOR][COLOR gold]...Dublado...[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0E10F70BC59F12BE083C62583F60FAF70860143A&amp$nome= Dublado</link>
-<link>http://linktv.one/Velozes_e_Furiosos_9_2021_Dj_MmsB_Entretenimento-web-Contato-031-989351328$nome=link diretos</link>
-<thumbnail>https://i0.wp.com/i.imgur.com/egLrDEf.png?w=652&ssl=1</thumbnail>
-<fanart>https://www.istoedinheiro.com.br/wp-content/uploads/sites/17/2021/07/205162354-3046551135469456-773686029777932834-n-e1625420465508.jpg</fanart>
-<info>Dominic Toretto e Letty vivem uma vida pacata ao lado do filho. Mas eles logo são ameaçados pelo passado de Dom: seu irmão desaparecido Jakob, que retorna e está trabalhando ao lado de Cipher. Cabe a Dom reunir a equipe novamente para enfrentá-los..</info>
-<genre> Ação/Aventura </genre>
-<year>2021</year>
-</item>
-
-
-  <item> 
+ <item> 
 1   <title>[B][COLOR blue] Meia-noite no Switchgrass - [COLOR red]ADDON RAMALHOTV[COLOR red](2021) Dual Áudio / Dublado 5.1 BluRay 720p  [/COLOR][/B]</title>
 1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:06585FE55313FEF50A1812184986AA96C146C893&amp</link>
 1   <thumbnail>https://filmesviatorrents.tv/wp-content/uploads/2021/08/Meia-noite-no-Switchgrass-Torrent.jpg</thumbnail>
