@@ -1,3 +1,14 @@
+
+<item>
+<title>[B][COLOR white]Homem-Aranha - Sem Volta Para Casa  [COLOR yellow][/B]</title>
+<jsonrpc>Plugin://plugin.video.youtube/CyiiEJRZjSU$nome= [COLOR yellow]Trailer Oficial Dublado [/COLOR]</jsonrpc>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:46c614aae1e44e62984096c9b68df6769d5b2516$nome= [COLOR yellow]BluRay | HD | 1080p | 4K[/COLOR]</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/fVzXp3NwovUlLe7fvoRynCmBPNc.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/iQFcwSGbZXMkeyKrxbPnwnRo5fl.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Peter Parker precisa lidar com as consequências da sua identidade como o herói mais querido do mundo após ter sido revelada pela reportagem do Clarim Diário, com uma gravação feita por Mysterio. Incapaz de separar sua vida normal das aventuras de ser um super-herói, além de ter sua reputação arruinada por acharem que foi ele quem matou Mysterio e pondo em risco seus entes mais queridos, Parker pede ao Doutor Estranho para que todos esqueçam sua verdadeira identidade. Entretanto, o feitiço não sai como planejado e a situação torna-se ainda mais perigosa quando vilões de outras versões de Homem-Aranha de outro universos acabam indo para seu mundo. Agora, Peter não só deter vilões de suas outras versões e fazer com que eles voltem para seu universo original, mas também aprender que, com grandes poderes vem grandes responsabilidades como herói.
+[COLOR white][B] Gênero:  [COLOR lime] Ação / Aventura / Fantasia[/COLOR][/B] </info>
+</item>
+
 <item>
 <title>[B][COLOR white]Missão Resgate[COLOR yellow][/B]</title>
 <link>https://www.adorocinema.com/filmes/filme-281467/trailer-19565312/?jwsource=cl$nome= [COLOR yellow]Trailer[/COLOR]</link>
