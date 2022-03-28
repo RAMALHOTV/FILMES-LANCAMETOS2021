@@ -1,6 +1,6 @@
 
 <item>
-<title>[B]Homem-Aranha - Sem Volta Para Casa [/B]</title>
+<title>[B][COLOR white]Homem-Aranha - Sem Volta Para Casa [/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:46c614aae1e44e62984096c9b68df6769d5b2516$nome= [COLOR yellow]BluRay | HD | 1080p | 4K[/COLOR]</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/fVzXp3NwovUlLe7fvoRynCmBPNc.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/iQFcwSGbZXMkeyKrxbPnwnRo5fl.jpg</fanart>
