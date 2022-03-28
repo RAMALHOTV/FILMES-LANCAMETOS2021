@@ -268,6 +268,113 @@
 <fanart>https://abutretorrents.com/imagens/o-segredo-do-lago-download-torrent-2020-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
 <info>Sinopse:[COLOR yellow][B]O adolescente Tom (Anson Boon) e sua mãe conturbada (Charlie Murphy) se encontram em uma fazenda desolada na Irlanda. Enquanto a água desce em um lago sazonal nas proximidades, Tom faz uma descoberta aterrorizante que atrai ele e sua mãe para uma aliança desconfortável com a misteriosa vizinha (Emma Mackey) e seu pai protetor (Michael McElhatton). À medida que os segredos sombrios sobem à luz, todos os quatro serão alterados para sempre e Tom emergirá nas duras realidades da vida adulta. [COLOR white][B] Gênero:  [COLOR lime]Ação / Suspense[/COLOR][/B]</info></item> </info>
 </item>
+  <item>
+<title>[B][COLOR white]Matrix Resurrections[COLOR yellow][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0a728e8ecce149b80fea9282fa40ea065ed07748$nome=[COLOR yellow]| HD | 1080p[/COLOR]</link>
+<thumbnail>https://abutretorrents.com/imagens/matrix-resurrections-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart>https://abutretorrents.com/imagens/matrix-resurrections-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
+<info>Sinopse:[COLOR yellow][B]Matrix Resurrections" é uma continuação da história estabelecida no primeiro filme "Matrix". Ela reúne Keanu Reeves e Carrie-Anne Moss como os ícones cinematográficos Neo & Trinity numa expansão de sua história que se aventura de volta à Matrix e ainda mais fundo na toca do coelho.Uma nova aventura alucinante com ação e escala épica, que se passa num mundo familiar, mas ainda mais provocativo, onde a realidade é mais subjetiva do que nunca e tudo o que é necessário para ver a verdade é libertar sua mente. [COLOR white][B] Gênero:[COLOR lime]Ação / Ficção[/COLOR][/B]</info></item> </info>
+</item>
+  
+<item>
+<title>[B][COLOR white]Resgate em Alta Velocidade[COLOR yellow][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4878f4afe39e2d4b4591466d0be8397f80f6959f$nome=[COLOR yellow]| HD | 1080p[/COLOR]</link>
+<thumbnail>https://abutretorrents.com/imagens/resgate-em-alta-velocidade-ji-su-ying-jiu-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart>https://abutretorrents.com/imagens/resgate-em-alta-velocidade-ji-su-ying-jiu-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</fanart>
+<info>Sinopse:[COLOR yellow][B]Quando uma investigação financiada por um rico empresário está prestes a acabar com a operação de um perigoso cartel, a filha dele e um corajoso soldado precisam se unir para entregar as provas à polícia. [COLOR white][B] Gênero:[COLOR lime]Ação [/COLOR][/B]</info></item> </info>
+</item>
+  
+<item>
+<title>[B][COLOR white]A Profissional[COLOR yellow][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ZIUAM6IUXUZRGBZDKPJYJYI4HNUL3PB6$nome=[COLOR yellow]| HD | 1080p[/COLOR]</link>
+<thumbnail>https://abutretorrents.com/imagens/a-profissional-the-protege-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart>https://abutretorrents.com/imagens/a-profissional-the-protege-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
+<info>Sinopse:[COLOR yellow][B]Rembrandt (Michael Keaton) e Anna (Maggie Q) são dois dos maiores assassinos de elite do mundo e ambos compartilham um misterioso passado com o Vietnã. Por anos, eles atravessaram o globo competindo por missões de alto-nível, mas quando o mentor de Anna (Samuel L. Jackson) é assassinado, eles precisam formar uma aliança para rastrear seu assassino. [COLOR white][B] Gênero:[COLOR lime]Ação / Suspense[/COLOR][/B]</info></item> </info>
+</item>
+  
+<item>
+<title>[B][COLOR white]O Sequestro[COLOR yellow][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:OZKHVFQ2TLZH7SYZIBNUTVLMVXUC756M$nome=[COLOR yellow]| HD | 1080p[/COLOR]</link>
+<thumbnail>https://abutretorrents.com/imagens/o-sequestro-take-back-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart>https://abutretorrents.com/imagens/o-sequestro-take-back-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
+<info>Sinopse:[COLOR yellow][B] Sara (Gillian White) e Brian (Michael Jai White) estão vivendo uma vida aparentemente perfeita quando um homem misterioso (Rourke) do passado de Sara sequestra sua filha adolescente. Com a ajuda de um xerife de cidade pequena (Russo), o casal corre para salvar sua filha antes que ela seja vendida e desapareça no comércio sexual.[COLOR white][B] Gênero:[COLOR lime]Ação / Suspense[/COLOR][/B]</info></item> </info>
+</item>
+  
+<item>
+<title>[B][COLOR white]O Último Destino[COLOR yellow][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:53cd65e751b4902c3f905408df37b40c734b2eb7$nome=[COLOR yellow]HD | 720p[/COLOR]</link>
+<thumbnail>https://abutretorrents.com/imagens/o-ultimo-destino-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart>https://abutretorrents.com/imagens/o-ultimo-destino-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
+<info>Sinopse:[COLOR yellow][B]Moradores de uma cidade são capturados por um grupo armado desconhecido. Após serem submetidos a uma série de experimentos, as pessoas que são consideradas falhas são retiradas da cidade e levadas para serem massacradas no topo de uma montanha. Dois sobreviventes do massacre conseguem fugir, mas acabam caindo em um poço. Sofrendo com as transformações causadas pelos experimentos, eles estão prestes a descobrir que os perigos do poço podem ser ainda pior do que a própria morte. [COLOR white][B] Gênero:[COLOR lime]Ação / Aventura / Terror[/COLOR][/B]</info></item> </info>
+</item>
+  
+<item>
+<title>[B][COLOR white]007 - Sem Tempo para Morrer [COLOR yellow][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:892067dec36944db97d80ec90ebcc0ed456fd22e$nome=[COLOR yellow]| HD | 1080p[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:eae0cd1a60bfc104e22ee382f3e9fe243201a8eb$nome=[COLOR yellow] ULTRA HD 4K[/COLOR]</link>
+<thumbnail>https://abutretorrents.com/imagens/007-sem-tempo-para-morrer-download-torrent-2021-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart>https://abutretorrents.com/imagens/007-sem-tempo-para-morrer-download-torrent-2021-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
+<info>Sinopse:[COLOR yellow][B] A ajuda de James Bond (Daniel Craig) é requerida pela CIA quando a missão de resgatar um cientista sequestrado se mostra mais traiçoeira do que esperada, levando-o a uma trilha deixada por um misterioso vilão (Rami Malek), armado com uma perigosa nova tecnologia.
+
+ [COLOR white][B] Gênero:[COLOR lime]Ação / Aventura / Suspense[/COLOR][/B]</info></item> </info>
+</item>
+  
+<item>
+<title>[B][COLOR white]Pandemia - A Guerra Final[COLOR yellow][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:dda36e1c73c9fd31f94d04c9d8546895585e290b$nome=[COLOR yellow]| HD | 1080p[/COLOR]</link>
+<thumbnail>https://abutretorrents.com/imagens/pandemia-a-guerra-final-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart>https://abutretorrents.com/imagens/pandemia-a-guerra-final-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
+<info>Sinopse:[COLOR yellow][B]Depois que a civilização sucumbe a uma pandemia mortal e sua esposa é assassinada, um soldado das forças especiais abandona seu dever e se torna um eremita na selva nórdica. Anos depois, uma mulher ferida aparece em sua porta. Ela escapou de um laboratório e seus perseguidores acreditam que seu sangue é a chave para uma cura mundial.Ele hesita em se envolver, mas todas as dúvidas são deixadas de lado quando ele descobre que seu perseguidor não é outro senão o Comandante Stone, o homem que assassinou sua esposa alguns anos atrás. [COLOR white][B] Gênero:[COLOR lime]Ação [/COLOR][/B]</info></item> </info>
+</item>
+  
+<item>
+<title>[B][COLOR white]Quando o Demônio Chama [COLOR yellow][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:JJFBODTDVBKI3ZQMJPY67Q2FIKS2SYXC$nome=[COLOR yellow]| HD | 1080p[/COLOR]</link>
+<thumbnail>https://abutretorrents.com/imagens/quando-o-demonio-chama-download-torrent-2020-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart>https://abutretorrents.com/imagens/quando-o-demonio-chama-download-torrent-2020-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
+<info>Sinopse:[COLOR yellow][B]Shirin se muda para um duplex com seu parceiro e o filho dele, ao mesmo tempo que tenta se adaptar ao novo papel de madrasta. A nova casa parece o lugar perfeito para recomeçar uma família, mas quando Fredrik sai para trabalhar, coisas estranhas começam a surgir - do Outro Lado. [COLOR white][B] Gênero:[COLOR lime]Mistério / Suspense / Terror[/COLOR][/B]</info></item> </info>
+</item>
+  
+<item>
+<title>[B][COLOR white]Emboscada[COLOR yellow][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:UC2P37G6YAN4ASKX3X2LLVBP6UMKLRGA$nome=[COLOR yellow]| HD | 1080p[/COLOR]</link>
+<thumbnail>https://abutretorrents.com/imagens/emboscada-american-siege-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart>https://abutretorrents.com/imagens/emboscada-american-siege-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
+<info>Sinopse:[COLOR yellow][B] Um ex-oficial da Polícia de Nova York que se tornou xerife de uma pequena cidade rural na Geórgia tem de enfrentar uma gangue de ladrões que fez um médico rico como refém.[COLOR white][B] Gênero:[COLOR lime]Ação / Suspense[/COLOR][/B]</info></item> </info>
+</item>
+  
+<item>
+<title>[B][COLOR white]O Legado[COLOR yellow][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ODMPEVJOJECNMJXWHFFJAVTFCDICG6U3$nome=[COLOR yellow]| HD | 1080p[/COLOR]</link>
+<thumbnail>https://abutretorrents.com/imagens/o-legado-download-torrent-2020-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart>https://abutretorrents.com/imagens/o-legado-download-torrent-2020-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
+<info>Sinopse:[COLOR yellow][B]Numa viagem de caça no deserto, um pai e seu filho adolescente adotivo são transformados em presa por assaltantes desconhecidos. Eles são inesperadamente unidos em sua luta pela sobrevivência por um estranho que revela a verdade perturbadora sobre o pai biológico do filho, um senhor do crime internacional, e por que esse senhor do crime enviou assassinos treinados para matar o adolescente. [COLOR white][B] Gênero:[COLOR lime]Ação / Drama / Suspense[/COLOR][/B]</info></item> </info>
+</item>
+  
+<item>
+<title>[B][COLOR white]Ghostbusters - Mais Além[COLOR yellow][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c647a127ecc08df976d84bc83b4c1528e8cede9e$nome=[COLOR yellow]| HD | 1080p[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:02d836011e4b1a10eef090045cdb9ed923fda7c2$nome=[COLOR yellow]ULTRA HD 4K[/COLOR]</link>
+<thumbnail>https://abutretorrents.com/imagens/ghostbusters-mais-alem-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart>https://abutretorrents.com/imagens/ghostbusters-mais-alem-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
+<info>Sinopse:[COLOR yellow][B]Uma mãe solteira (Carrie Coon) resolve se mudar para uma pequena cidade do interior com seus filhos (Finn Wolfhard e Mckenna Grace), e acaba descobrindo uma conexão com os Caça-Fantasmas originais e o que o seu avô deixou para trás como legado. [COLOR white][B] Gênero:[COLOR lime]Aventura / Comédia / Fantasia[/COLOR][/B]</info></item> </info>
+</item>
+  
+<item>
+<title>[B][COLOR white]Chernobyl - O Filme[COLOR yellow][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9b86f9b5d8356af08848e12bbd1a1f6bed2c7f6b$nome=[COLOR yellow]| HD | 1080p[/COLOR]</link>
+<thumbnail>https://abutretorrents.com/imagens/chernobyl-o-filme-os-segredos-do-desastre-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart>https://abutretorrents.com/imagens/chernobyl-o-filme-os-segredos-do-desastre-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
+<info>Sinopse:[COLOR yellow][B]Uma história sobre um bombeiro heroico que trabalhou como um dos síndicos de Chernobyl. Três heróis silenciosos prontos para arriscarem suas próprias vidas para evitar uma catástrofe ainda maior na usina nuclear de Chernobyl. [COLOR white][B] Gênero:[COLOR lime]Drama / Histórico / Romance[/COLOR][/B]</info></item> </info>
+</item>
+
+<item>
+<title>[B][COLOR white]Punhos da Vingança [COLOR yellow][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7f44dbed84c5b691ee99f9d37590083a64bbe6f1$nome=[COLOR yellow]| HD | 1080p[/COLOR]</link>
+<thumbnail>https://abutretorrents.com/imagens/punhos-da-vinganca-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart>https://abutretorrents.com/imagens/punhos-da-vinganca-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
+<info>Sinopse:[COLOR yellow][B] Em Xangai, um ex-campeão de artes marciais mistas e herdeiro de uma corporação multibilionária jurou nunca mais lutar no ringue depois de matar acidentalmente seu oponente durante sua última luta. Mas quando seu irmão é morto em um torneio de boxe underground, ele não tem escolha a não ser se juntar a Maiwen, uma informante da polícia, para investigar a morte dele e eles acabam descobrindo uma grande conspiração.[COLOR white][B] Gênero:[COLOR lime]Ação [/COLOR][/B]</info></item> </info>
+</item>
   
 
 
