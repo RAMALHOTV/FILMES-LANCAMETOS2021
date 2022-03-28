@@ -68,7 +68,7 @@
 <title>[B] Vingança Solitária [/B]</title>
 <link>Plugin://plugin.video.youtube/0CDMVGrJ6Rk$nome= [COLOR yellow]Trailer Oficial[/COLOR]</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:KQYCRDG3AEAHFDSTAUFYQMWS2MQIB7B7$nome= [COLOR yellow]HD | 1080p[/COLOR]</link>
-<thumbnail>https://abutretorrents.com/imagens/vinganca-solitaria-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg </thumbnail>
+<thumbnail>https://abutretorrents.com/imagens/vinganca-solitaria-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
 <fanart>https://abutretorrents.com/imagens/vinganca-solitaria-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</fanart>
 <info>Sinopse: [COLOR yellow][B]Brenner Baker, uma militar da Divisão de Patrulheiros do Exército Americano, e o marido Dillon decidem acampar em uma floresta do Alabama. Durante uma caminhada, eles descobrem um esconderijo de um cartel do narcotráfico e são atacados. [COLOR white][B] Gênero:  [COLOR lime]Ação[/COLOR][/B]</info></item> </info>
 </item>
