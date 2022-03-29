@@ -9,7 +9,7 @@
 </item>
 
 <item>
-<title>[B][COLOR white]Missão Resgate[COLOR yellow][/B]</title>
+<title>[B]Missão Resgate[/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:VZVCGISLTCKFES4VL7QBFXWMMHUGNWO4$nome=[COLOR yellow]HD | 1080p [/COLOR]</link>
 <thumbnail>https://abutretorrents.com/imagens/missao-resgate-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
 <fanart>https://abutretorrents.com/imagens/missao-resgate-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
@@ -17,7 +17,7 @@
 </item>
   
 <item>
-<title>[B][COLOR white]Eternos[COLOR yellow][/B]</title>
+<title>[B]Eternos[/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4e319e497ad4986832dcdea524bff25f0d8d478a$nome=[COLOR yellow]HD | 1080p [/COLOR]</link>
 <thumbnail>https://abutretorrents.com/imagens/eternos-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
 <fanart>https://abutretorrents.com/imagens/eternos-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
@@ -25,7 +25,7 @@
 </item>
   
 <item>
-<title>[B][COLOR white]Hotel Transilvânia 4[COLOR yellow][/B]</title>
+<title>[B]Hotel Transilvânia 4[/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f45ebc0b828623a3b679a2840cd3e33e635d8a36$nome=[COLOR yellow]HD | 1080p [/COLOR]</link>
 <thumbnail>https://abutretorrents.com/imagens/hotel-transilvania-4-transformonstrao-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
 <fanart>https://abutretorrents.com/imagens/hotel-transilvania-4-transformonstrao-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
@@ -33,7 +33,7 @@
 </item>
   
 <item>
-<title>[B][COLOR white]A Era do Gelo - As Aventuras de Buck [COLOR yellow][/B]</title>
+<title>[B]A Era do Gelo - As Aventuras de Buck[/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:HC6QNBJ64XMIC43LU2ECLVEDTWE4XEQT$nome=[COLOR yellow]Elementum[/COLOR]</link>
 <thumbnail>https://abutretorrents.com/imagens/a-era-do-gelo-as-aventuras-de-buck-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
 <fanart>https://abutretorrents.com/imagens/a-era-do-gelo-as-aventuras-de-buck-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
@@ -269,7 +269,7 @@
 <info>Sinopse:[COLOR yellow][B]O adolescente Tom (Anson Boon) e sua mãe conturbada (Charlie Murphy) se encontram em uma fazenda desolada na Irlanda. Enquanto a água desce em um lago sazonal nas proximidades, Tom faz uma descoberta aterrorizante que atrai ele e sua mãe para uma aliança desconfortável com a misteriosa vizinha (Emma Mackey) e seu pai protetor (Michael McElhatton). À medida que os segredos sombrios sobem à luz, todos os quatro serão alterados para sempre e Tom emergirá nas duras realidades da vida adulta. [COLOR white][B] Gênero:  [COLOR lime]Ação / Suspense[/COLOR][/B]</info></item> </info>
 </item>
   <item>
-<title>[B][COLOR white]Matrix Resurrections[COLOR yellow][/B]</title>
+<title>[B]Matrix Resurrections[/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0a728e8ecce149b80fea9282fa40ea065ed07748$nome=[COLOR yellow]| HD | 1080p[/COLOR]</link>
 <thumbnail>https://abutretorrents.com/imagens/matrix-resurrections-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
 <fanart>https://abutretorrents.com/imagens/matrix-resurrections-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
@@ -277,7 +277,7 @@
 </item>
   
 <item>
-<title>[B][COLOR white]Resgate em Alta Velocidade[COLOR yellow][/B]</title>
+<title>[B]Resgate em Alta Velocidade[/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4878f4afe39e2d4b4591466d0be8397f80f6959f$nome=[COLOR yellow]| HD | 1080p[/COLOR]</link>
 <thumbnail>https://abutretorrents.com/imagens/resgate-em-alta-velocidade-ji-su-ying-jiu-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
 <fanart>https://abutretorrents.com/imagens/resgate-em-alta-velocidade-ji-su-ying-jiu-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</fanart>
@@ -285,7 +285,7 @@
 </item>
   
 <item>
-<title>[B][COLOR white]A Profissional[COLOR yellow][/B]</title>
+<title>[B]A Profissional[/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ZIUAM6IUXUZRGBZDKPJYJYI4HNUL3PB6$nome=[COLOR yellow]| HD | 1080p[/COLOR]</link>
 <thumbnail>https://abutretorrents.com/imagens/a-profissional-the-protege-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
 <fanart>https://abutretorrents.com/imagens/a-profissional-the-protege-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
@@ -293,7 +293,7 @@
 </item>
   
 <item>
-<title>[B][COLOR white]O Sequestro[COLOR yellow][/B]</title>
+<title>[B]O Sequestro[/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:OZKHVFQ2TLZH7SYZIBNUTVLMVXUC756M$nome=[COLOR yellow]| HD | 1080p[/COLOR]</link>
 <thumbnail>https://abutretorrents.com/imagens/o-sequestro-take-back-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
 <fanart>https://abutretorrents.com/imagens/o-sequestro-take-back-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
@@ -301,7 +301,7 @@
 </item>
   
 <item>
-<title>[B][COLOR white]O Último Destino[COLOR yellow][/B]</title>
+<title>[B]O Último Destino[/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:53cd65e751b4902c3f905408df37b40c734b2eb7$nome=[COLOR yellow]HD | 720p[/COLOR]</link>
 <thumbnail>https://abutretorrents.com/imagens/o-ultimo-destino-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
 <fanart>https://abutretorrents.com/imagens/o-ultimo-destino-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
@@ -309,7 +309,7 @@
 </item>
   
 <item>
-<title>[B][COLOR white]007 - Sem Tempo para Morrer [COLOR yellow][/B]</title>
+<title>[B]007 - Sem Tempo para Morrer [/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:892067dec36944db97d80ec90ebcc0ed456fd22e$nome=[COLOR yellow]| HD | 1080p[/COLOR]</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:eae0cd1a60bfc104e22ee382f3e9fe243201a8eb$nome=[COLOR yellow] ULTRA HD 4K[/COLOR]</link>
 <thumbnail>https://abutretorrents.com/imagens/007-sem-tempo-para-morrer-download-torrent-2021-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
@@ -320,7 +320,7 @@
 </item>
   
 <item>
-<title>[B][COLOR white]Pandemia - A Guerra Final[COLOR yellow][/B]</title>
+<title>[B]Pandemia - A Guerra Final[/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:dda36e1c73c9fd31f94d04c9d8546895585e290b$nome=[COLOR yellow]| HD | 1080p[/COLOR]</link>
 <thumbnail>https://abutretorrents.com/imagens/pandemia-a-guerra-final-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
 <fanart>https://abutretorrents.com/imagens/pandemia-a-guerra-final-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
@@ -328,7 +328,7 @@
 </item>
   
 <item>
-<title>[B][COLOR white]Quando o Demônio Chama [COLOR yellow][/B]</title>
+<title>[B]Quando o Demônio Chama [/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:JJFBODTDVBKI3ZQMJPY67Q2FIKS2SYXC$nome=[COLOR yellow]| HD | 1080p[/COLOR]</link>
 <thumbnail>https://abutretorrents.com/imagens/quando-o-demonio-chama-download-torrent-2020-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
 <fanart>https://abutretorrents.com/imagens/quando-o-demonio-chama-download-torrent-2020-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
@@ -336,7 +336,7 @@
 </item>
   
 <item>
-<title>[B][COLOR white]Emboscada[COLOR yellow][/B]</title>
+<title>[B]Emboscada[/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:UC2P37G6YAN4ASKX3X2LLVBP6UMKLRGA$nome=[COLOR yellow]| HD | 1080p[/COLOR]</link>
 <thumbnail>https://abutretorrents.com/imagens/emboscada-american-siege-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
 <fanart>https://abutretorrents.com/imagens/emboscada-american-siege-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
@@ -344,7 +344,7 @@
 </item>
   
 <item>
-<title>[B][COLOR white]O Legado[COLOR yellow][/B]</title>
+<title>[B]O Legado[/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ODMPEVJOJECNMJXWHFFJAVTFCDICG6U3$nome=[COLOR yellow]| HD | 1080p[/COLOR]</link>
 <thumbnail>https://abutretorrents.com/imagens/o-legado-download-torrent-2020-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
 <fanart>https://abutretorrents.com/imagens/o-legado-download-torrent-2020-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
@@ -352,7 +352,7 @@
 </item>
   
 <item>
-<title>[B][COLOR white]Ghostbusters - Mais Além[COLOR yellow][/B]</title>
+<title>[B]Ghostbusters - Mais Além[/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c647a127ecc08df976d84bc83b4c1528e8cede9e$nome=[COLOR yellow]| HD | 1080p[/COLOR]</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:02d836011e4b1a10eef090045cdb9ed923fda7c2$nome=[COLOR yellow]ULTRA HD 4K[/COLOR]</link>
 <thumbnail>https://abutretorrents.com/imagens/ghostbusters-mais-alem-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
@@ -361,7 +361,7 @@
 </item>
   
 <item>
-<title>[B][COLOR white]Chernobyl - O Filme[COLOR yellow][/B]</title>
+<title>[B]Chernobyl - O Filme[/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9b86f9b5d8356af08848e12bbd1a1f6bed2c7f6b$nome=[COLOR yellow]| HD | 1080p[/COLOR]</link>
 <thumbnail>https://abutretorrents.com/imagens/chernobyl-o-filme-os-segredos-do-desastre-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
 <fanart>https://abutretorrents.com/imagens/chernobyl-o-filme-os-segredos-do-desastre-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
@@ -369,7 +369,7 @@
 </item>
 
 <item>
-<title>[B][COLOR white]Punhos da Vingança [COLOR yellow][/B]</title>
+<title>[B]Punhos da Vingança [/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7f44dbed84c5b691ee99f9d37590083a64bbe6f1$nome=[COLOR yellow]| HD | 1080p[/COLOR]</link>
 <thumbnail>https://abutretorrents.com/imagens/punhos-da-vinganca-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
 <fanart>https://abutretorrents.com/imagens/punhos-da-vinganca-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
