@@ -1,4 +1,13 @@
-
+<item> 
+ <title>[B][COLOR white]Morbius-[COLOR red]Lançamento[COLOR red](2022) [/COLOR][/B]</title>
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6E2035C96B138264A5FA17A427A2B0AE1C2A49DF$nome=[COLOR lime]CAM CINEMA[/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6E2035C96B138264A5FA17A427A2B0AE1C2A49DF$nome=[COLOR lime]720P  [/COLOR] - DUBLADO</link> 
+ <thumbnail>https://abutretorrents.com/imagens/morbius-cam-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+ <genre>[B][COLOR firebrick]Ação / Aventura / Terror</genre>
+ <fanart>https://abutretorrents.com/imagens/morbius-cam-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
+ <info>[B][COLOR red] SINOPSE:Durante um experimento para encontrar a cura de uma rara doença sanguínea, o Dr. Michael Morbius (Jared Leto) acidentalmente se transforma num sanguinário vampiro.  [COLOR red][/COLOR][/B]</info>	
+ </item> 
+ 
  <item> 
  <title>[B][COLOR white]Homem-Aranha - Sem Volta Para Casa - [COLOR red]Lançamento[COLOR red](2022) [/COLOR][/B]</title>
  <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:46c614aae1e44e62984096c9b68df6769d5b2516$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
