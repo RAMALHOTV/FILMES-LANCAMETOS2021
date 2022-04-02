@@ -1,7 +1,7 @@
 <item> 
  <title>[B][COLOR white]Morbius-[COLOR red]Lançamento[COLOR red](2022) [/COLOR][/B]</title>
  <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6E2035C96B138264A5FA17A427A2B0AE1C2A49DF$nome=[COLOR lime]CAM CINEMA[/COLOR] - DUBLADO</link> 
- <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6E2035C96B138264A5FA17A427A2B0AE1C2A49DF$nome=[COLOR lime]720P  [/COLOR] - DUBLADO</link> 
+ <link>http://54.39.157.211/FILMES/Morbius.2022.720p.CAMRip.Dublado.mp4$nome=[COLOR lime]LINK DIRETO  [/COLOR] - DUBLADO</link> 
  <thumbnail>https://abutretorrents.com/imagens/morbius-cam-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
  <genre>[B][COLOR firebrick]Ação / Aventura / Terror</genre>
  <fanart>https://abutretorrents.com/imagens/morbius-cam-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
