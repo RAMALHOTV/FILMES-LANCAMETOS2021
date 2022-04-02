@@ -423,4 +423,87 @@
  <info>[B][COLOR red] SINOPSE:Inteligente, criativa e determinada, Estella quer fazer um nome para si através de seus designs e acaba chamando a atenção da Baronesa Von Hellman. Entretanto, o relacionamento delas desencadeia um curso de eventos e revelações que fazem com que Estella abrace seu lado rebelde e se torne a Cruella, uma pessoa má, elegante e voltada para a vingança.  [COLOR red][/COLOR][/B]</info>	
  </item> 
 
-
+ <item> 
+ <title>[B][COLOR white]Venom - Tempo de Carnificina -[COLOR red]Lançamento[COLOR red](2021) [/COLOR][/B]</title>
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:33bf6d77f72d222a03bf1ea15ec80ed2b0c6b943:$nome=[COLOR lime]HD 4K [/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:b019304dd9a72f74675d1a9411973fdef6545b2fbtih:$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f1f589e23f96a9e86233d6f6f75a60f07f98a6de$nome=[COLOR lime]720P  [/COLOR] - DUBLADO</link> 
+ <thumbnail>https://abutretorrents.com/imagens/venom-tempo-de-carnificina-download-torrent-2021-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+ <genre>[B][COLOR firebrick]Ação</genre>
+ <fanart>https://abutretorrents.com/imagens/venom-tempo-de-carnificina-download-torrent-2021-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
+ <info>[B][COLOR red] SINOPSE:Após os eventos do primeiro filme, o relacionamento entre Eddie (Tom Hardy) e o Venom está evoluindo. Buscando a melhor forma de lidar com a inevitável simbiose, esse dois lados descobrem como viver juntos e, de alguma forma, se tornarem melhores juntos do que separados. Brock tenta reviver sua carreira ao entrevistar o serial killer Cletus Kasady (Woody Harrelson), que escapa da prisão e se torna o novo hospedeiro do simbionte Carnificina.[COLOR red][/COLOR][/B]</info>	
+ </item> 
+ <item> 
+ <title>[B][COLOR white]Resident Evil - Bem-Vindo a Raccoon City -[COLOR red]Lançamento[COLOR red](2021) [/COLOR][/B]</title>
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:D57YM6KP5YKEBRPTK3Q744A4EUIHZPUY$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:D57YM6KP5YKEBRPTK3Q744A4EUIHZPUY$nome=[COLOR lime]720P  [/COLOR] - DUBLADO</link> 
+ <thumbnail>https://abutretorrents.com/imagens/resident-evil-bem-vindo-a-raccoon-city-download-torrent-2021-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+ <genre>[B][COLOR firebrick]Ação</genre>
+ <fanart>https://abutretorrents.com/imagens/resident-evil-bem-vindo-a-raccoon-city-download-torrent-2021-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
+ <info>[B][COLOR red] SINOPSE:Uma vez a crescente casa da companhia farmacêutica Umbrella Corporation, Raccoon City agora é uma cidade moribunda do centro-oeste. A retirada da empresa deixou a cidade devastada… com um grande mal abaixo da superfície. Quando este mal é liberado, as pessoas da cidade são para sempre transformadas, e um pequeno grupo de sobreviventes devem trabalhar juntos para descobrir a verdade por trás da Umbrella, e sobreviver à noite.[COLOR red][/COLOR][/B]</info>	
+ </item> 
+ <item> 
+ <title>[B][COLOR white]Ghostland - Terra Sem Lei-[COLOR red]Lançamento[COLOR red](2021) [/COLOR][/B]</title>
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5LXBWUVVJBU4B5DFKRKBBAFEQ6MG7WIH$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5LXBWUVVJBU4B5DFKRKBBAFEQ6MG7WIH$nome=[COLOR lime]720P  [/COLOR] - DUBLADO</link> 
+ <thumbnail>https://abutretorrents.com/imagens/ghostland-terra-sem-lei-download-torrent-2021-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+ <genre>[B][COLOR firebrick]Ficção / Mistério / Romance</genre>
+ <fanart>https://abutretorrents.com/imagens/ghostland-terra-sem-lei-download-torrent-2021-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
+ <info>[B][COLOR red] SINOPSE:Na traiçoeira cidade fronteira de Samurai Town, um assaltante de banco implacável (Nicolas Cage) é resgatado da prisão pelo chefe de guerra, The Governor (Bill Moseley), cuja neta adotiva Bernice (Sofia Boutella) desapareceu. The Governor oferece ao prisioneiro a sua liberdade em troca da descoberta da sua neta.Amarrado com um fato de cabedal que se autodestruirá dentro de cinco dias, o bandido parte numa viagem para encontrar a jovem e o seu próprio caminho para a redenção.[COLOR red][/COLOR][/B]</info>	
+ </item> 4
+ <item> 
+ <title>[B][COLOR white]Caminhos da Memória-[COLOR red]Lançamento[COLOR red](2021) [/COLOR][/B]</title>
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f4cc6315c0476984027647a8e9ed0eab581919e1$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f4cc6315c0476984027647a8e9ed0eab581919e1$nome=[COLOR lime]720P  [/COLOR] - DUBLADO</link> 
+ <thumbnail>https://abutretorrents.com/imagens/caminhos-da-memoria-download-torrent-2021-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+ <genre>[B][COLOR firebrick]Ficção / Mistério / Romance</genre>
+ <fanart>https://abutretorrents.com/imagens/caminhos-da-memoria-download-torrent-2021-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
+ <info>[B][COLOR red] SINOPSE:Nicolas Bannister (Hugh Jackman), um veterano solitário e exausto, vive numa Miami de um futuro próximo, coberta pelo mar devido os efeitos do aquecimento global. Sua principal habilidade é conseguir recuperar memórias queridas de seus clientes, mas sua vida muda quando ele fica obcecado pela sua nova cliente.[COLOR red][/COLOR][/B]</info>	
+ </item> 
+ <item> 
+ <title>[B][COLOR white]Viúva Negra -[COLOR red]Lançamento[COLOR red](2021) [/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:UWCGHN75PQZBBZDCGHWCT7MHBD5IOYX4$nome=[COLOR lime]HD 4K[/COLOR] - DUBLADO</link>
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:LSDQ5MDLYPDTT5NLK7ZHYDL6THSW2SMM$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:88c6bc942e53b15a3e7612e35b2aace1acaa7a48$nome=[COLOR lime]720P  [/COLOR] - DUBLADO</link> 
+ <thumbnail>https://abutretorrents.com/imagens/viuva-negra-4k-download-torrent-2021-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+ <genre>[B][COLOR firebrick]Ação</genre>
+ <fanart>https://abutretorrents.com/imagens/viuva-negra-4k-download-torrent-2021-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
+ <info>[B][COLOR red] SINOPSE:Natasha Romanoff precisa confrontar partes de sua história quando surge uma conspiração perigosa ligada ao seu passado. Perseguida por uma força que não irá parar até derrotá-la, Natasha terá que lidar com sua antiga vida de espiã, e também reencontrar membros de sua família que deixou para trás antes de se tornar parte dos Vingadores.[COLOR red][/COLOR][/B]</info>	
+ </item> 
+ <item> 
+ <title>[B][COLOR white]Cosmoball - Os Guardiões do Universo-[COLOR red]Lançamento[COLOR red](2021) [/COLOR][/B]</title>
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d390fdeec8b75aaf7dd1294bc5892c247f0f955b$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d390fdeec8b75aaf7dd1294bc5892c247f0f955b$nome=[COLOR lime]720P  [/COLOR] - DUBLADO</link> 
+ <thumbnail>https://abutretorrents.com/imagens/cosmoball-os-guardioes-do-universo-download-torrent-2021-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+ <genre>[B][COLOR firebrick]Ação</genre>
+ <fanart>https://abutretorrents.com/imagens/cosmoball-os-guardioes-do-universo-download-torrent-2021-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
+ <info>[B][COLOR red] SINOPSE:Cosmoball é um jogo intergaláctico hipnotizante do futuro, jogado entre humanos e alienígenas na nave extraterrestre gigante pairando no céu sobre a Terra. Um jovem com um enorme poder de natureza desconhecida se junta à equipe de super-heróis de cabeça quente em troca da cura para a doença mortal de sua mãe. Os Quatro da Terra lutarão não apenas para defender a honra de seu planeta natal no jogo espetacular, mas para enfrentar a ameaça sem precedentes à Galáxia e abraçar seu próprio destino.[COLOR red][/COLOR][/B]</info>	
+ </item> 
+ <item> 
+ <title>[B][COLOR white]King of Fighters - A Batalha Final-[COLOR red]Lançamento[COLOR red](2021) [/COLOR][/B]</title>
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3ae8b60b3a784f9fd36c3c90e7b864e0b49bfdd0$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3ae8b60b3a784f9fd36c3c90e7b864e0b49bfdd0$nome=[COLOR lime]720P  [/COLOR] - DUBLADO</link> 
+ <thumbnail>https://abutretorrents.com/imagens/king-of-fighters-a-batalha-final-download-torrent-2010-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+ <genre>[B][COLOR firebrick]Ação</genre>
+ <fanart>https://abutretorrents.com/imagens/king-of-fighters-a-batalha-final-download-torrent-2010-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
+ <info>[B][COLOR red] SINOPSE:Rugal (Ray Park), banido do torneio há 10 anos, está de volta! E desta vez, um novo trio de lutadores se formará para tentar derrotar Rugal, mais uma vez. O time é formado pelo poderoso e temperamental Iori Yagami (Will Yun Lee), a bela Mai Shiruzu (Maggie Q) e Kyo Kusanagi (Sean Faris), que fora dado como morto, mas na verdade, ele está com a memória e suas fantásticas habilidades afetadas.[COLOR red][/COLOR][/B]</info>	
+ </item> 
+ <item> 
+ <title>[B][COLOR white]Mortal Kombat-[COLOR red]Lançamento[COLOR red](2021) [/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:54a48d164f856298036dae1ea6108950532eb4d0$nome=[COLOR lime]4K[/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2e08ac40c677ae831cb57de6b9479dc0560aa132$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3bf4c48df74c98a7947154775e05c179f17e43d5$nome=[COLOR lime]720P  [/COLOR] - DUBLADO</link> 
+ <thumbnail>https://abutretorrents.com/imagens/mortal-kombat-4k-download-torrent-2021-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+ <genre>[B][COLOR firebrick]Ação</genre>
+ <fanart>https://abutretorrents.com/imagens/mortal-kombat-4k-download-torrent-2021-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
+ <info>[B][COLOR red] SINOPSE:O lutador de MMA Cole Young (Lewis Tan), acostumado a ser pago para perder lutas, não imagina que vem uma de linhagem rara — nem que esse é o motivo para ele estar sendo caçado por guerreiros de outro mundo enviados pelo Imperador Shang Tsung. Para proteger sua família, ele embarca numa violenta jornada onde treinará para enfrentar os maiores campeões de combate do universo.[COLOR red][/COLOR][/B]</info>	
+ </item> 
+ <item> 
+ <title>[B][COLOR white]Um Lugar Silencioso - Parte II -[COLOR red]Lançamento[COLOR red](2022) [/COLOR][/B]</title>
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:KW7NGTGYJ2PWW2QUVU4WJ6QHITN7XN42$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:KW7NGTGYJ2PWW2QUVU4WJ6QHITN7XN42$nome=[COLOR lime]720P  [/COLOR] - DUBLADO</link> 
+ <thumbnail>https://abutretorrents.com/imagens/um-lugar-silencioso-parte-ii-download-torrent-2021-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+ <genre>[B][COLOR firebrick]Ação</genre>
+ <fanart>https://abutretorrents.com/imagens/um-lugar-silencioso-parte-ii-download-torrent-2021-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
+ <info>[B][COLOR red] SINOPSE:Seguindo os acontecimentos mortais dentro de casa, a família Abbott precisa agora encarar o terror mundo afora, continuando a lutar para sobreviver em silêncio. Obrigados a se aventurar pelo desconhecido, eles rapidamente percebem que as criaturas que caçam pelo som não são as únicas ameaças que os observam pelo caminho de areia.[COLOR red][/COLOR][/B]</info>	
+ </item> 
