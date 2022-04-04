@@ -11,7 +11,7 @@
  <item> 
  <title>[B][COLOR white]Homem-Aranha - Sem Volta Para Casa - [COLOR red]Lançamento[COLOR red](2022) [/COLOR][/B]</title>
  <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:46c614aae1e44e62984096c9b68df6769d5b2516$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
- <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:bcfc9450eb7efd7c7304e754afeaf4ed3b266603$nome=[COLOR lime]ULTRA HD 4K[/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:bcfc9450eb7efd7c7304e754afeaf4ed3b266603$nome=[COLOR lime]ULTRA HD 4K[/COLOR] - DUBLADO</link> 
  <thumbnail>https://abutretorrents.com/imagens/homem-aranha-sem-volta-para-casa-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
  <genre>[B][COLOR firebrick]Ação / Aventura / Fantasia</genre>
  <fanart>https://abutretorrents.com/imagens/homem-aranha-sem-volta-para-casa-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
