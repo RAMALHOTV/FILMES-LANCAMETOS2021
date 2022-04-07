@@ -85,6 +85,25 @@
  <info>[B][COLOR red] SINOPSE:Em um mundo pós-apocalíptico, seis soldados têm uma missão secreta: atravessar um arquipélago congelado com um pacote misterioso. Estrelando Noomi Rapace.  [COLOR red][/COLOR][/B]</info>	
  </item> 
  <item> 
+ <title>[B][COLOR white]Furioza- [COLOR red]Lançamento[COLOR red](2022) [/COLOR][/B]</title>
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f7595add8ec4e098f9eab99444568ee3b9d2c26a$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f7595add8ec4e098f9eab99444568ee3b9d2c26a$nome=[COLOR lime]720 P[/COLOR] - DUBLADO</link> 
+ <thumbnail>https://abutretorrents.com/imagens/furioza-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+ <genre>[B][COLOR firebrick]Policial / Suspense</genre>
+ <fanart>https://abutretorrents.com/imagens/furioza-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
+ <info>[B][COLOR red] SINOPSE:Uma policial faz uma proposta irrecusável ao ex-namorado: ou ele se infiltra em uma gangue ou seu irmão vai para a cadeia. [COLOR red][/COLOR][/B]</info>	
+ </item> 
+
+ <item> 
+ <title>[B][COLOR white]Fuga da Meia-Noite- [COLOR red]Lançamento[COLOR red](2022) [/COLOR][/B]</title>
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f4d3e18aa305c77783d2bd73a3891e6cb67cf242$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f4d3e18aa305c77783d2bd73a3891e6cb67cf242$nome=[COLOR lime]720 P[/COLOR] - DUBLADO</link> 
+ <thumbnail>https://abutretorrents.com/imagens/fuga-da-meia-noite-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+ <genre>[B][COLOR firebrick]Policial / Suspense</genre>
+ <fanart>https://abutretorrents.com/imagens/fuga-da-meia-noite-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
+ <info>[B][COLOR red] SINOPSE: Kyung-mi, uma jovem surda, testemunha um dos ataques do serial killer Do-sik. Agora caçada pelo criminoso, ela se envolve em um perigoso jogo de gato e rato que também ameaça sua mãe.[COLOR red][/COLOR][/B]</info>	
+ </item> 
+ <item> 
  <title>[B][COLOR white]Vingança Solitária -[COLOR red]Lançamento[COLOR red](2022) [/COLOR][/B]</title>
  <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:KQYCRDG3AEAHFDSTAUFYQMWS2MQIB7B7$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
  <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:KQYCRDG3AEAHFDSTAUFYQMWS2MQIB7B7$nome=[COLOR lime]720P  [/COLOR] - DUBLADO</link> 
