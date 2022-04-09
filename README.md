@@ -17,7 +17,24 @@
  <fanart>https://abutretorrents.com/imagens/morbius-cam-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
  <info>[B][COLOR red] SINOPSE:Durante um experimento para encontrar a cura de uma rara doença sanguínea, o Dr. Michael Morbius (Jared Leto) acidentalmente se transforma num sanguinário vampiro.  [COLOR red][/COLOR][/B]</info>	
  </item> 
- 
+  <item> 
+ <title>[B][COLOR white] A Invasão  - [COLOR red]Lançamento[COLOR red](2022) [/COLOR][/B]</title>
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:DOFGGC7RMU3UWIMCAIR76WQZIHII4X4E$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:DOFGGC7RMU3UWIMCAIR76WQZIHII4X4E$nome=[COLOR lime]720 P[/COLOR] - DUBLADO</link> 
+ <thumbnail>https://abutretorrents.com/imagens/a-invasao-occupation-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+ <genre>[B][COLOR firebrick]Policial / Suspense</genre>
+ <fanart>https://abutretorrents.com/imagens/a-invasao-occupation-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</fanart>
+ <info>[B][COLOR red] SINOPSE:Um pequeno grupo de moradores de uma cidade tem que se unir após uma invasão devastadora da sua área. Enquanto lutam para sobreviver, eles percebem que devem ficar um passo à frente de seus agressores e trabalhar juntos para ter chance de atacar. Depois que sua pequena cidade australiana é aniquilada por um ataque aéreo avassalador, um grupo de civis foge da captura e descobre que agora estão entre os últimos sobreviventes de uma invasão extraterrestre que engolfou todo o planeta. Enquanto a humanidade cai sob ocupação mundial, eles formam um exército local para lutar contra forças inimigas muito superiores. Na linha de frente da batalha pela Terra, eles são nossa última esperança. [COLOR red][/COLOR][/B]</info>	
+ </item> 
+ <item> 
+ <title>[B][COLOR white]Zone 414- [COLOR red]Lançamento[COLOR red](2022) [/COLOR][/B]</title>
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:RPONBK5IO7ZQASHETHTSMFHZI7F6N7PC$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:RPONBK5IO7ZQASHETHTSMFHZI7F6N7PC$nome=[COLOR lime]720 P[/COLOR] - DUBLADO</link> 
+ <thumbnail>https://abutretorrents.com/imagens/zone-414-download-torrent-2021-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+ <genre>[B][COLOR firebrick]Policial / Suspense</genre>
+ <fanart>https://abutretorrents.com/imagens/zone-414-download-torrent-2021-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
+ <info>[B][COLOR red] SINOPSE:Em um futuro próximo numa colônia de robôs humanóides de última geração, a filha do seu criador desaparece, ele contrata o investigador particular David Carmichael, para trazê-la para casa. David se junta a Jane, uma IA altamente avançada e autoconsciente, para rastrear a filha desaparecida. Atravessando a perigosa selva de ferro, eles rapidamente juntam o mistério, descobrindo um crime que os leva a questionar as origens da Zona 414 e o verdadeiro propósito por trás da “Cidade dos Robôs”. [COLOR red][/COLOR][/B]</info>	
+ </item> 
  <item> 
  <title>[B][COLOR white]Homem-Aranha - Sem Volta Para Casa - [COLOR red]Lançamento[COLOR red](2022) [/COLOR][/B]</title>
  <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:46c614aae1e44e62984096c9b68df6769d5b2516$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
