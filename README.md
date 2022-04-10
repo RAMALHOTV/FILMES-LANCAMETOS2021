@@ -1,7 +1,7 @@
 <item> 
  <title>[B][COLOR white]Sonic 2 - O Filme- [COLOR red]Lançamento[COLOR red](2022) [/COLOR][/B]</title>
- <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0e8a090bfe8ba07a5c10b54c8103d1b6eb6fc8f8$nome=[COLOR lime]HDCAM CINEMA [/COLOR] - DUBLADO</link> 
- <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0e8a090bfe8ba07a5c10b54c8103d1b6eb6fc8f8$nome=[COLOR lime]HDCAM CINEMA[/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:EC4A9B217C71D4AD6896F11E082FC857D1CF8FAC$nome=[COLOR lime]HDCAM CINEMA [/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:EC4A9B217C71D4AD6896F11E082FC857D1CF8FAC$nome=[COLOR lime]HDCAM CINEMA[/COLOR] - DUBLADO</link> 
  <thumbnail>https://abutretorrents.com/imagens/sonic-2-o-filme-cam-legendado-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
  <genre>[B][COLOR firebrick]Ação / Terror</genre>
  <fanart>https://abutretorrents.com/imagens/sonic-2-o-filme-cam-legendado-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
