@@ -1,4 +1,14 @@
-<item> 
+ <item> 
+ <title>[B][COLOR white]Batman -[COLOR red]Lançamento[COLOR red](2022) [/COLOR][/B]</title>
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:LTR7XMHCSAH5GWG75XSZ7RZY5HYVRBNW$nome=[COLOR lime] ULTRA HD 4K [/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:LTR7XMHCSAH5GWG75XSZ7RZY5HYVRBNW$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:YTOXLYIRA2QXEPLZANRBLR4IQWCCAUVL$nome=[COLOR lime]CAM CINEMA [/COLOR] - DUBLADO</link> 
+ <thumbnail>https://portalpopline.com.br/wp-content/uploads/2022/02/batman-pre-venda-2-scaled.jpg</thumbnail>
+ <genre>[B][COLOR firebrick]Ação / Drama / Heróis / Policial </genre>
+ <fanart>https://www.istoedinheiro.com.br/wp-content/uploads/sites/17/2022/03/thebatman2022.jpeg</fanart>
+ <info>[B][COLOR red] SINOPSE:Quando Charada (Paul Dano), um sádico assassino em série, começa a matar os principais políticos de Gotham, Batman (Robert Pattinson) é forçado a desenterrar a corrupção oculta da cidade e até mesmo a questionar o envolvimento de sua milionária família nessa teia de segredos e mentiras.  [COLOR red][/COLOR][/B]</info>	
+ </item>  
+ <item> 
  <title>[B][COLOR white]Sonic 2 - O Filme- [COLOR red]Lançamento[COLOR red](2022) [/COLOR][/B]</title>
  <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:EC4A9B217C71D4AD6896F11E082FC857D1CF8FAC$nome=[COLOR lime]HDCAM CINEMA [/COLOR] - DUBLADO</link> 
  <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:EC4A9B217C71D4AD6896F11E082FC857D1CF8FAC$nome=[COLOR lime]HDCAM CINEMA[/COLOR] - DUBLADO</link> 
@@ -205,15 +215,7 @@
  <info>[B][COLOR red] SINOPSE:Em 1909, uma expedição liderada pelo Capitão Ejnar Mikkelsen, tentava refutar a reivindicação dos Estados Unidos ao Nordeste da Groenlândia, uma reivindicação que estava enraizada na ideia de que a Groenlândia foi dividida em dois pedaços de terra diferentes. Deixando sua tripulação para trás com o navio, Mikkelsen cruza o gelo com seu inexperiente membro da tripulação, Iver Iversen.Os dois homens conseguem encontrar a prova de que a Groenlândia é uma ilha, mas o retorno ao navio leva mais tempo e é muito mais difícil do que o esperado. Lutando contra a fome extrema, a fadiga e um ataque do urso polar, eles finalmente chegam e encontram seu navio esmagado no gelo e o acampamento abandonado. [COLOR red][/COLOR][/B]</info>	
  </item> 
 
- <item> 
- <title>[B][COLOR white]Batman -[COLOR red]Lançamento[COLOR red](2022) [/COLOR][/B]</title>
- <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:YTOXLYIRA2QXEPLZANRBLR4IQWCCAUVL$nome=[COLOR lime]CAM CINEMA [/COLOR] - DUBLADO</link> 
- <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:YTOXLYIRA2QXEPLZANRBLR4IQWCCAUVL$nome=[COLOR lime]720P  [/COLOR] - DUBLADO</link> 
- <thumbnail>https://portalpopline.com.br/wp-content/uploads/2022/02/batman-pre-venda-2-scaled.jpg</thumbnail>
- <genre>[B][COLOR firebrick]Ação / Drama / Heróis / Policial </genre>
- <fanart>https://www.istoedinheiro.com.br/wp-content/uploads/sites/17/2022/03/thebatman2022.jpeg</fanart>
- <info>[B][COLOR red] SINOPSE:Quando Charada (Paul Dano), um sádico assassino em série, começa a matar os principais políticos de Gotham, Batman (Robert Pattinson) é forçado a desenterrar a corrupção oculta da cidade e até mesmo a questionar o envolvimento de sua milionária família nessa teia de segredos e mentiras.  [COLOR red][/COLOR][/B]</info>	
- </item> 
+ 
 <item> 
  <title>[B][COLOR white]Fuga da Morte -[COLOR red]Lançamento[COLOR red](2022) [/COLOR][/B]</title>
  <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2J5DXRDSQUATBTL7IDOYA7MHWX6CEEVP$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
