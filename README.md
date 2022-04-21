@@ -1,4 +1,14 @@
- <item> 
+<item> 
+ <title>[B][COLOR white]A Princesa da Yakuza - [COLOR red]Lançamento[COLOR red](2022) [/COLOR][/B]</title>
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7b3cf57dc11727ec7cb4751353d23668e8ca299e$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7b3cf57dc11727ec7cb4751353d23668e8ca299e$nome=[COLOR lime]720 P[/COLOR] - DUBLADO</link> 
+ <thumbnail>https://abutretorrents.com/imagens/a-princesa-da-yakuza-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+ <genre>[B][COLOR firebrick]Nacional / Suspense</genre>
+ <fanart>https://abutretorrents.com/imagens/a-princesa-da-yakuza-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
+ <info>[B][COLOR red] SINOPSE:Um chefe da Yakuza é morto no Japão e sua única herdeira é enviada para o Brasil ainda bebê. Vinte anos depois, vivendo em São Paulo, Akemi (Masumi) descobre que herdou metade do clã da Yakuza e que a outra metade a quer morta. Takeshi (Tsuyoshi Ihara), mafioso fiel ao falecido chefe, vem ao Brasil para protegê-la. Ao mesmo tempo, um estrangeiro sem memória (Jonathan Rhys Meyers) acorda num hospital e cruza seu caminho. Akemi vai começar uma guerra e traçar seu próprio destino. [COLOR red][/COLOR][/B]</info>	
+ </item> 
+
+<item> 
  <title>[B][COLOR white]Batman -[COLOR red]Lançamento[COLOR red](2022) [/COLOR][/B]</title>
  <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:LTR7XMHCSAH5GWG75XSZ7RZY5HYVRBNW$nome=[COLOR lime] ULTRA HD 4K [/COLOR] - DUBLADO</link> 
  <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:LTR7XMHCSAH5GWG75XSZ7RZY5HYVRBNW$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
