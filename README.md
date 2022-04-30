@@ -1,3 +1,65 @@
+
+
+
+ <item> 
+ <title>[B][COLOR white]Agente das Sombras - [COLOR red]Lançamento[COLOR red](2022) [/COLOR][/B]</title>
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:12b654b3359927cae463dac8996d2bce378b0c8e$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:12b654b3359927cae463dac8996d2bce378b0c8e$nome=[COLOR lime]720 P[/COLOR] - DUBLADO</link> 
+ <thumbnail>https://abutretorrents.com/imagens/agente-das-sombras-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+ <genre>[B][COLOR firebrick]Ação / Terror</genre>
+ <fanart>https://abutretorrents.com/imagens/agente-das-sombras-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
+ <info>[B][COLOR red] SINOPSE: Travis Block, um agente secreto do governo que se especializou em remover operativos cujos disfarces foram expostos, ele descobre uma conspiração mortal dentro de sua divisão que atinge os mais altos escalões do poder.[COLOR red][/COLOR][/B]</info>	
+ </item> 
+
+ <item> 
+ <title>[B][COLOR white]Uncharted - Fora do Mapa - [COLOR red]Lançamento[COLOR red](2022) [/COLOR][/B]</title>
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2MHNWTLPV3FAWX37FSGYKBIYHHUDFVZ4$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2MHNWTLPV3FAWX37FSGYKBIYHHUDFVZ4$nome=[COLOR lime]720 P[/COLOR] - DUBLADO</link> 
+ <thumbnail>https://abutretorrents.com/imagens/uncharted-fora-do-mapa-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+ <genre>[B][COLOR firebrick]Ação / Terror</genre>
+ <fanart>https://abutretorrents.com/imagens/uncharted-fora-do-mapa-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
+ <info>[B][COLOR red] SINOPSE:Uncharted narra as aventuras de Nathan Drake, um caçador de tesouros que age em cenários inspirados em Indiana Jones e Lara Croft, mas que, diferente dos arqueólogos, está mais preocupado com seu próprio bolso. No primeiro game, Drake precisa solucionar os mistérios de uma ilha tropical repleta de mercenários. [COLOR red][/COLOR][/B]</info>	
+ </item> 
+
+ <item> 
+ <title>[B][COLOR white]Juntos e Enrolados- [COLOR red]Lançamento[COLOR red](2022) [/COLOR][/B]</title>
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a6eced443666182b111f8097a58db9e08c174267$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a6eced443666182b111f8097a58db9e08c174267$nome=[COLOR lime]720 P[/COLOR] - DUBLADO</link> 
+ <thumbnail>https://abutretorrents.com/imagens/juntos-e-enrolados-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+ <genre>[B][COLOR firebrick]Ação / Terror</genre>
+ <fanart>https://abutretorrents.com/imagens/juntos-e-enrolados-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
+ <info>[B][COLOR red] SINOPSE:Após dois anos de união e muita economia financeira, Júlio e Daiana finalmente alcançaram o sonho de realizar a festa de casamento. Tudo parece estar indo bem, até que o noivo recebe uma mensagem em seu celular antes da cerimônia começar. Uma confusão generalizada acontece, mas a festa precisa continuar. [COLOR red][/COLOR][/B]</info>	
+ </item> 
+
+ <item> 
+ <title>[B][COLOR white]Lua de Mel com a Minha Mãe- [COLOR red]Lançamento[COLOR red](2022) [/COLOR][/B]</title>
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9622d54ba9c08fb49d014083d122205888f7c7f0$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9622d54ba9c08fb49d014083d122205888f7c7f0$nome=[COLOR lime]720 P[/COLOR] - DUBLADO</link> 
+ <thumbnail>https://abutretorrents.com/imagens/lua-de-mel-com-a-minha-mae-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+ <genre>[B][COLOR firebrick]Comédia</genre>
+ <fanart>https://abutretorrents.com/imagens/lua-de-mel-com-a-minha-mae-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
+ <info>[B][COLOR red] SINOPSE:Um jovem é abandonado no altar. Para não desperdiçar a viagem de lua de mel, sua mãe super protetora decide ir junto com filho. Ele sofre, enquanto a mãe aproveita a viagem da vida dela. José Luís, no dia de seu casamento, é deixado no altar. Além do trauma do abandono, uma questão prática é colocada em perspectiva: A lua de mel já está paga. Sua mãe super protetora, Mari Carmen, insiste em acompanhá-lo até o destino do que seria a sua lua de mel, para não perder dinheiro, nem deixar o filho sozinho nesse momento. José Luís nunca se sentiu tão infeliz, mas Mari Carmen acaba se divertindo como nunca e nessa viagem, o vínculo entre os dois se fortalece. [COLOR red][/COLOR][/B]</info>	
+ </item> 
+<item> 
+ <title>[B][COLOR white]365 Dias - Hoje- [COLOR red]Lançamento[COLOR red](2022) [/COLOR][/B]</title>
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a1c172a60975b3fc7968d58d716190dd2b0ef60e$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a1c172a60975b3fc7968d58d716190dd2b0ef60e$nome=[COLOR lime]720 P[/COLOR] - DUBLADO</link> 
+ <thumbnail>https://abutretorrents.com/imagens/365-dias-hoje-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+ <genre>[B][COLOR firebrick]Ação / Terror</genre>
+ <fanart>https://abutretorrents.com/imagens/365-dias-hoje-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
+ <info>[B][COLOR red] SINOPSE: Em 365 Days 3, após o ocorrido no filme anterior, os melhores médicos lutam pela vida de Laura (Anna-Maria Sieklucka). Seu marido, Massimo (Michele Morrone), terá que tomar uma das decisões mais difíceis de sua vida: salvar Laura ou seu filho. Que decisão ele irá tomar? Ele saberá viver sem a mulher que ama? Será capaz de criar um filho sozinho? [COLOR red][/COLOR][/B]</info>	
+ </item> 
+<item> 
+ <title>[B][COLOR white]O Sobrevivente - [COLOR red]Lançamento[COLOR red](2022) [/COLOR][/B]</title>
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:OHEWKVUIXHSNUOMQ6Z4FCT6JTZVA7V7A$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:OHEWKVUIXHSNUOMQ6Z4FCT6JTZVA7V7A$nome=[COLOR lime]720 P[/COLOR] - DUBLADO</link> 
+ <thumbnail>https://abutretorrents.com/imagens/o-sobrevivente-the-survivalist-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+ <genre>[B][COLOR firebrick]Ação / Terror</genre>
+ <fanart>https://abutretorrents.com/imagens/o-sobrevivente-the-survivalist-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
+ <info>[B][COLOR red] SINOPSE:Um ano e meio após a queda da civilização por um surto de vírus. Um ex-agente do FBI é forçado a proteger uma jovem imune à doença de uma perigosa gangue que a caça, liderada por um psicopata que acredita que a usará para salvar o mundo. [COLOR red][/COLOR][/B]</info>	
+ </item> 
+
+
 <item> 
  <title>[B][COLOR white]A Princesa da Yakuza - [COLOR red]Lançamento[COLOR red](2022) [/COLOR][/B]</title>
  <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7b3cf57dc11727ec7cb4751353d23668e8ca299e$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
