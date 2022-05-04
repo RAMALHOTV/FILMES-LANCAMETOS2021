@@ -1,6 +1,48 @@
 
 
 
+
+ <item> 
+ <title>[B][COLOR white]Filme Tô Ryca 2- [COLOR red]Lançamento[COLOR red](2022) [/COLOR][/B]</title>
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:40ea265e6db4e98e21f0dfbb9266ff9c12038e43$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:40ea265e6db4e98e21f0dfbb9266ff9c12038e43$nome=[COLOR lime]720 P[/COLOR] - DUBLADO</link> 
+ <thumbnail>https://abutretorrents.com/imagens/to-ryca-2-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+ <genre>[B][COLOR firebrick]Comédia / Nacional</genre>
+ <fanart>https://abutretorrents.com/imagens/to-ryca-2-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
+ <info>[B][COLOR red] SINOPSE:Selminha está de volta! E agora é Ryca, esbanjadora, paga mais caro em tudo que quer e pode. O problema é que alegria de pobre sempre dura pouco. Aparece uma homônima que se coloca como a herdeira legitima. Os bens de Selminha são congelados, agora sua única fonte de renda é a que a justiça concede até se resolver o processo: um salário mínimo por mês, ou seja: 30 reais por dia. Mas Selminha já não sabe como viver na falência, no miserê, na desgraçada da pobreza. E pior: ela era a patrona da comunidade de Quintino, e com a sua pobreza toda a comunidade também acaba passando aperto. A Selminha guerreira, batalhadora, brasileira que não desiste nunca, ressurge para resolver não só a sua vida, mas de todos que ela ama. [COLOR red][/COLOR][/B]</info>	
+ </item> 
+
+ <item> 
+ <title>[B][COLOR white]Eduardo e Mônica - [COLOR red]Lançamento[COLOR red](2022) [/COLOR][/B]</title>
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7CXRRVXZWERJW4VB3XLVSAD3SVW2ETA7$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7CXRRVXZWERJW4VB3XLVSAD3SVW2ETA7$nome=[COLOR lime]720 P[/COLOR] - DUBLADO</link> 
+ <thumbnail>https://abutretorrents.com/imagens/eduardo-e-monica-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+ <genre>[B][COLOR firebrick]Drama / Nacional / Romance</genre>
+ <fanart>https://abutretorrents.com/imagens/eduardo-e-monica-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
+ <info>[B][COLOR red] SINOPSE:Adaptação para o cinema da famosa canção "Eduardo e Mônica", composta por Renato Russo, sobre um casal que não tinha nada a ver um com o outro mas acabou se apaixonando perdidamente. [COLOR red][/COLOR][/B]</info>	
+ </item> 
+
+ <item> 
+ <title>[B][COLOR white]Made in China- [COLOR red]Lançamento[COLOR red](2022) [/COLOR][/B]</title>
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:78ce8917b74ae209f1f6d3f37c3c91ad7132c1fb$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:464e9acbbcd0d12001c6c3729c362b08b13be5d0$nome=[COLOR lime]720 P[/COLOR] - DUBLADO</link> 
+ <thumbnail>https://abutretorrents.com/imagens/made-in-china-download-torrent-2014-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+ <genre>[B][COLOR firebrick]Comédia / Nacional</genre>
+ <fanart>https://abutretorrents.com/imagens/made-in-china-download-torrent-2014-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
+ <info>[B][COLOR red] SINOPSE:Vendedora na Casa São Jorge, a loja de brinquedos de Seu Nazir (Otávio Augusto), que fica na Saara, Francis (Regina Casé) decide investigar como os recém-chegados chineses da loja Casa do Dragão vendem mercadorias a preços tão baixos. Para salvar o comércio do patrão e garantir sua clientela, ela vai investigar os concorrentes com a ajuda do namorado Carlos Eduardo (Xande de Pilares) e da companheira de trabalho Andressa (Juliana Alves). [COLOR red][/COLOR][/B]</info>	
+ </item> 
+
+ <item> 
+ <title>[B][COLOR white] Contrato Perigoso- [COLOR red]Lançamento[COLOR red](2022) [/COLOR][/B]</title>
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:A5WAWZJA533XKMUEOMODM6A56CUZCSCD$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:A5WAWZJA533XKMUEOMODM6A56CUZCSCD$nome=[COLOR lime]720 P[/COLOR] - DUBLADO</link> 
+ <thumbnail>https://abutretorrents.com/imagens/contrato-perigoso-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+ <genre>[B][COLOR firebrick]Ação / Suspense</genre>
+ <fanart>https://abutretorrents.com/imagens/contrato-perigoso-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
+ <info>[B][COLOR red] SINOPSE: Depois de ser dispensado involuntariamente dos fuzileiros navais, James Harper se junta a uma organização paramilitar para sustentar sua família da única maneira que ele sabe. Reed viaja para a Polônia com sua equipe de elite em uma missão de operações para investigar uma misteriosa ameaça. Em sua primeira missão, Reed se encontra sozinho e caçado na Europa Oriental, onde ele deve lutar para permanecer vivo por tempo suficiente para chegar em casa e descobrir os verdadeiros motivos daqueles que o traíram.[COLOR red][/COLOR][/B]</info>	
+ </item> 
+
+
  <item> 
  <title>[B][COLOR white]Agente das Sombras - [COLOR red]Lançamento[COLOR red](2022) [/COLOR][/B]</title>
  <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:12b654b3359927cae463dac8996d2bce378b0c8e$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
