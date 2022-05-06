@@ -143,6 +143,37 @@
  <info>[B][COLOR red] SINOPSE:Um chefe da Yakuza é morto no Japão e sua única herdeira é enviada para o Brasil ainda bebê. Vinte anos depois, vivendo em São Paulo, Akemi (Masumi) descobre que herdou metade do clã da Yakuza e que a outra metade a quer morta. Takeshi (Tsuyoshi Ihara), mafioso fiel ao falecido chefe, vem ao Brasil para protegê-la. Ao mesmo tempo, um estrangeiro sem memória (Jonathan Rhys Meyers) acorda num hospital e cruza seu caminho. Akemi vai começar uma guerra e traçar seu próprio destino. [COLOR red][/COLOR][/B]</info>	
  </item> 
 
+
+
+ <item> 
+ <title>[B][COLOR white]Marmaduke - O Filme - [COLOR red]Lançamento[COLOR red](2022) [/COLOR][/B]</title>
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ILQIVYIZDMCKGZZF2CAHQRDB2VB6GGES$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ILQIVYIZDMCKGZZF2CAHQRDB2VB6GGES$nome=[COLOR lime]720 P[/COLOR] - DUBLADO</link> 
+ <thumbnail>https://abutretorrents.com/imagens/marmaduke-o-filme-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+ <genre>[B][COLOR firebrick]Animação / Aventura / Comédia</genre>
+ <fanart>https://abutretorrents.com/imagens/marmaduke-o-filme-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
+ <info>[B][COLOR red] SINOPSE:No filme Marmaduke WEB-DL 720p/1080p Dual Áudio, Marmaduke acaba chamando a atenção de um treinador de cachorros renomado, após um vídeo seu arruinando completamente um churrasco se tornar viral. Apesar da bagunça, o treinador fica convencido do potencial que esse cão mal-comportado tem de ser treinado, para se tornar um campeão no show de cães e acredita ser o único capaz de fazer de Marmaduke um vencedor. No entanto, as coisas começam a se tornar mais desafiadoras para Marmaduke quando ele se depara com o notório Zeus, um rival mais experiente que fará de tudo para que a dupla não leve a medalha para casa. À medida que o vínculo entre Marmaduke e seu treinador se fortalece, os dois percebem o quanto ambos de fato precisam um do outro para vencer. [COLOR red][/COLOR][/B]</info>	
+ </item> 
+
+ <item> 
+ <title>[B][COLOR white]Os Caras Malvados- [COLOR red]Lançamento[COLOR red](2022) [/COLOR][/B]</title>
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:37c0218649efed8d7a23434d5e807d424a7a78b7$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:37c0218649efed8d7a23434d5e807d424a7a78b7$nome=[COLOR lime]720 P[/COLOR] - DUBLADO</link> 
+ <thumbnail>https://abutretorrents.com/imagens/os-caras-malvados-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+ <genre>[B][COLOR firebrick]Animação / Aventura / Comédia</genre>
+ <fanart>https://abutretorrents.com/imagens/os-caras-malvados-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
+ <info>[B][COLOR red] SINOPSE: Sobre o filme Nunca houve cinco amigos tão infames quanto Os Caras Malvados - o arrojado batedor de carteiras Sr. Wolf, o arrombador de cofres Mr. Snake, o mestre do disfarce do frio Sr. Shark, o “músculo” curto do Sr. Piranha e a especialista em hacker de língua afiada Sra. Tarantula, também conhecido como "Webs".[COLOR red][/COLOR][/B]</info>	
+ </item> 
+
+ <item> 
+ <title>[B][COLOR white]O Páramo- [COLOR red]Lançamento[COLOR red](2022) [/COLOR][/B]</title>
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:IHGFN6MTKNGAUNTRMPHUIVL3J7VOBNSF$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:IHGFN6MTKNGAUNTRMPHUIVL3J7VOBNSF$nome=[COLOR lime]720 P[/COLOR] - DUBLADO</link> 
+ <thumbnail>https://abutretorrents.com/imagens/o-paramo-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+ <genre>[B][COLOR firebrick]Drama / Mistério / Terror</genre>
+ <fanart>https://abutretorrents.com/imagens/o-paramo-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
+ <info>[B][COLOR red] SINOPSE: Numa cabana no meio do nada, isolada da sociedade, um garoto e sua mãe histérica percebem uma presença assustadora que os observa de longe, se aproximando cada vez mais a cada dia.[COLOR red][/COLOR][/B]</info>	
+ </item> 
 <item> 
  <title>[B][COLOR white]Batman -[COLOR red]Lançamento[COLOR red](2022) [/COLOR][/B]</title>
  <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:LTR7XMHCSAH5GWG75XSZ7RZY5HYVRBNW$nome=[COLOR lime] ULTRA HD 4K [/COLOR] - DUBLADO</link> 
