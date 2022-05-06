@@ -3,6 +3,37 @@
 
 
  <item> 
+ <title>[B][COLOR white]Doutor Estranho no Multiverso da Loucura - [COLOR red]Lançamento[COLOR red](2022) [/COLOR][/B]</title>
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:173DC54514604630F592D2AF38A73B5C90EF558F$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:173DC54514604630F592D2AF38A73B5C90EF558F$nome=[COLOR lime]CAM CINEMA[/COLOR] - DUBLADO</link> 
+ <thumbnail>https://abutretorrents.com/imagens/doutor-estranho-no-multiverso-da-loucura-cam-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+ <genre>[B][COLOR firebrick]Ação / Aventura / Fantasia</genre>
+ <fanart>https://abutretorrents.com/imagens/doutor-estranho-no-multiverso-da-loucura-cam-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</fanart>
+ <info>[B][COLOR red] SINOPSE:Alguns meses depois dos eventos de "Homem-Aranha: Sem Volta Para Casa", o Dr. Stephen Strange, com a ajuda de velhos e novos aliados místicos, viaja pelo Multiverso para enfrentar um novo e misterioso adversário. [COLOR red][/COLOR][/B]</info>	
+ </item> 
+
+ <item> 
+ <title>[B][COLOR white]Passageiro 666 - [COLOR red]Lançamento[COLOR red](2022) [/COLOR][/B]</title>
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a7e2030afd47fd167e5fe453cec6fb65aac5b3ac$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:77be6440bc543ee961266b2a567b0f52ab597229$nome=[COLOR lime]720 P[/COLOR] - DUBLADO</link> 
+ <thumbnail>https://abutretorrents.com/imagens/passageiro-666-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+ <genre>[B][COLOR firebrick]Suspense / Terror</genre>
+ <fanart>https://abutretorrents.com/imagens/passageiro-666-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</fanart>
+ <info>[B][COLOR red] SINOPSE:Uma médica com medo de avião precisa pegar um voo noturno em meio a terrível tempestade. Durante a viagem, a morte inexplicável de outros passageiros acorda seus traumas e ela tem dificuldade em distinguir a realidade e seus piores pesadelos. [COLOR red][/COLOR][/B]</info>	
+ </item> 
+
+ <item> 
+ <title>[B][COLOR white]Os Opostos Sempre Se Atraem - [COLOR red]Lançamento[COLOR red](2022) [/COLOR][/B]</title>
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:THHNVFO4QKWFWJWNQ7BU5SD2Z2NYG3BR$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:THHNVFO4QKWFWJWNQ7BU5SD2Z2NYG3BR$nome=[COLOR lime]720 P[/COLOR] - DUBLADO</link> 
+ <thumbnail>https://abutretorrents.com/imagens/os-opostos-sempre-se-atraem-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+ <genre>[B][COLOR firebrick]Ação / Comédia / Policial</genre>
+ <fanart>https://abutretorrents.com/imagens/os-opostos-sempre-se-atraem-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
+ <info>[B][COLOR red] SINOPSE:Ousmane Diakité e François Monge são dois policiais com estilos, vivências e carreiras muito diferentes. Essa dupla improvável se reencontra por conta de uma nova investigação, que os levará a cruzar a França. E o que parecia um simples caso de tráfico de drogas acaba se revelando um crime em grande escala, envolto em perigo e uma inesperada pitada de comédia. [COLOR red][/COLOR][/B]</info>	
+ </item> 
+
+
+ <item> 
  <title>[B][COLOR white]Filme Tô Ryca 2- [COLOR red]Lançamento[COLOR red](2022) [/COLOR][/B]</title>
  <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:40ea265e6db4e98e21f0dfbb9266ff9c12038e43$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
  <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:40ea265e6db4e98e21f0dfbb9266ff9c12038e43$nome=[COLOR lime]720 P[/COLOR] - DUBLADO</link> 
