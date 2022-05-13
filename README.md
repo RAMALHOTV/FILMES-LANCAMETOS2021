@@ -21,6 +21,60 @@
  <fanart>https://abutretorrents.com/imagens/passageiro-666-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</fanart>
  <info>[B][COLOR red] SINOPSE:Uma médica com medo de avião precisa pegar um voo noturno em meio a terrível tempestade. Durante a viagem, a morte inexplicável de outros passageiros acorda seus traumas e ela tem dificuldade em distinguir a realidade e seus piores pesadelos. [COLOR red][/COLOR][/B]</info>	
  </item> 
+ 
+
+
+ <item> 
+ <title>[B][COLOR white] De Volta ao Baile - [COLOR red]Lançamento[COLOR red](2022) [/COLOR][/B]</title>
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3defa0eb47f1f582d019f86ccfa0ba7b9fb764af$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3defa0eb47f1f582d019f86ccfa0ba7b9fb764af$nome=[COLOR lime]720 P[/COLOR] - DUBLADO</link> 
+ <thumbnail>https://abutretorrents.com/imagens/de-volta-ao-baile-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+ <genre>[B][COLOR firebrick]Comédia / Drama</genre>
+ <fanart>https://abutretorrents.com/imagens/de-volta-ao-baile-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</fanart>
+ <info>[B][COLOR red] SINOPSE:Uma líder de torcida acorda após um coma de 20 anos, e retorna ao colégio para tentar recuperar seu status e reivindicar a coroa de rainha do baile que sempre sonhou. [COLOR red][/COLOR][/B]</info>	
+ </item> 
+
+ <item> 
+ <title>[B][COLOR white]A Família Perfeita - [COLOR red]Lançamento[COLOR red](2022) [/COLOR][/B]</title>
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5220a4536e480087b8e3124666f1a3aaa39ad569$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5220a4536e480087b8e3124666f1a3aaa39ad569$nome=[COLOR lime]720 P[/COLOR] - DUBLADO</link> 
+ <thumbnail>https://abutretorrents.com/imagens/a-familia-perfeita-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+ <genre>[B][COLOR firebrick]Comédia</genre>
+ <fanart>https://abutretorrents.com/imagens/a-familia-perfeita-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
+ <info>[B][COLOR red] SINOPSE: A conquista de uma família perfeita por Lúcia é ameaçada pela vida perdida de seu filho.[COLOR red][/COLOR][/B]</info>	
+ </item> 
+
+ <item> 
+ <title>[B][COLOR white]Deserto do Ouro- [COLOR red]Lançamento[COLOR red](2022) [/COLOR][/B]</title>
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c4cd7f599806375580ac988bf6feb664c2900178$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c4cd7f599806375580ac988bf6feb664c2900178$nome=[COLOR lime]720 P[/COLOR] - DUBLADO</link> 
+ <thumbnail>https://abutretorrents.com/imagens/deserto-do-ouro-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+ <genre>[B][COLOR firebrick]Ação / Suspense</genre>
+ <fanart>https://abutretorrents.com/imagens/deserto-do-ouro-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</fanart>
+ <info>[B][COLOR red] SINOPSE:Dois estranhos viajam por um deserto e tropeçam na maior pepita de ouro já encontrada. Eles elaboram um plano para proteger e escavar sua recompensa com um deles saindo para garantir o equipamento necessário. O outro permanece e deve suportar duros elementos do deserto, cães selvagens vorazes e intrusos misteriosos, enquanto luta contra a suspeita de que ele foi abandonado ao seu próprio destino. [COLOR red][/COLOR][/B]</info>	
+ </item> 
+
+ <item> 
+ <title>[B][COLOR white]O Rei das Fugas- [COLOR red]Lançamento[COLOR red](2022) [/COLOR][/B]</title>
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6DVMLWOYEIBRP5PZYPVOBO2JGII6ERRL$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6DVMLWOYEIBRP5PZYPVOBO2JGII6ERRL$nome=[COLOR lime]720 P[/COLOR] - DUBLADO</link> 
+ <thumbnail>https://abutretorrents.com/imagens/o-rei-das-fugas-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+ <genre>[B][COLOR firebrick]Ação / Comédia / Policial</genre>
+ <fanart>https://abutretorrents.com/imagens/o-rei-das-fugas-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
+ <info>[B][COLOR red] SINOPSE:Uma comédia de ação contra o crime se passa nos últimos dias do comunismo na Polônia, uma história de ladrão de heróis populares, que escapou 29 vezes dos policiais. Naymro vivia em seus próprios termos contra o sistema. Mas o amor e o muro de Berlim em colapso mudaram tudo. [COLOR red][/COLOR][/B]</info>	
+ </item> 
+
+ <item> 
+ <title>[B][COLOR white]O Soldado que Não Existiu- [COLOR red]Lançamento[COLOR red](2022) [/COLOR][/B]</title>
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:77ab84893b949703dbe74b9f98ec8ac72f9104ca$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:77ab84893b949703dbe74b9f98ec8ac72f9104ca$nome=[COLOR lime]720 P[/COLOR] - DUBLADO</link> 
+ <thumbnail>https://abutretorrents.com/imagens/o-soldado-que-nao-existiu-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+ <genre>[B][COLOR firebrick]Drama / Guerra</genre>
+ <fanart>https://abutretorrents.com/imagens/o-soldado-que-nao-existiu-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</fanart>
+ <info>[B][COLOR red] SINOPSE:A trama se passa em 1943, nos momentos decisivos da Segunda Guerra Mundial. Os Aliados se preparam para lançar um ataque contra a Europa dominada pelos nazistas. Eles enfrentam a difícil tarefa de proteger uma força maciça de invasão do poder de fogo alemão entrincheirado e evitar um potencial massacre. Dois oficiais da inteligência, Ewen Montagu (Colin Firth) e Charles Cholmondeley (Matthew Macfadyen), sonham com uma estratégia inspirada de desinformação, centrada no cadáver de um homem morto. Baseado no livro "Operation Mincemeat", de Ben Macintyre. [COLOR red][/COLOR][/B]</info>	
+ </item> 
+
+ 
 
  <item> 
  <title>[B][COLOR white]Os Opostos Sempre Se Atraem - [COLOR red]Lançamento[COLOR red](2022) [/COLOR][/B]</title>
