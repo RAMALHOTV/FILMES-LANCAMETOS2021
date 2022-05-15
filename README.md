@@ -74,7 +74,24 @@
  <info>[B][COLOR red] SINOPSE:A trama se passa em 1943, nos momentos decisivos da Segunda Guerra Mundial. Os Aliados se preparam para lançar um ataque contra a Europa dominada pelos nazistas. Eles enfrentam a difícil tarefa de proteger uma força maciça de invasão do poder de fogo alemão entrincheirado e evitar um potencial massacre. Dois oficiais da inteligência, Ewen Montagu (Colin Firth) e Charles Cholmondeley (Matthew Macfadyen), sonham com uma estratégia inspirada de desinformação, centrada no cadáver de um homem morto. Baseado no livro "Operation Mincemeat", de Ben Macintyre. [COLOR red][/COLOR][/B]</info>	
  </item> 
 
- 
+ <item> 
+ <title>[B][COLOR white]Profile- [COLOR red]Lançamento[COLOR red](2022) [/COLOR][/B]</title>
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:56bd75d123bbc1434624e6c5a20ca3d6bb21fce2$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:56bd75d123bbc1434624e6c5a20ca3d6bb21fce2$nome=[COLOR lime]720 P[/COLOR] - DUBLADO</link> 
+ <thumbnail>https://abutretorrents.com/imagens/profile-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+ <genre>[B][COLOR firebrick]Mistério / Suspense</genre>
+ <fanart>https://abutretorrents.com/imagens/profile-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
+ <info>[B][COLOR red] SINOPSE:Uma jornalista britânica fica encoberta e infiltra-se nos canais de propaganda digital do chamado Estado Islâmico, que tem mobilizado um número cada vez maior de jovens mulheres da Europa. Seus contatos diários na internet com os recrutadores do ISIS gradualmente a puxam para dentro e pressionam os limites da sua investigação. [COLOR red][/COLOR][/B]</info>	
+ </item> 
+ <item> 
+ <title>[B][COLOR white]O Último Ritual - [COLOR red]Lançamento[COLOR red](2022) [/COLOR][/B]</title>
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:PA4U6R6CCOXZRMJTYVK6N6RO6PUFPAG7$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:PA4U6R6CCOXZRMJTYVK6N6RO6PUFPAG7$nome=[COLOR lime]720 P[/COLOR] - DUBLADO</link> 
+ <thumbnail>https://abutretorrents.com/imagens/o-ultimo-ritual-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+ <genre>[B][COLOR firebrick] Terror</genre>
+ <fanart>https://abutretorrents.com/imagens/o-ultimo-ritual-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
+ <info>[B][COLOR red] SINOPSE:  Uma estudante de medicina com paralisia do sono se vê atormentada por uma entidade demoníaca, depois de ir morar com seu namorado.[COLOR red][/COLOR][/B]</info>	
+ </item> 
 
  <item> 
  <title>[B][COLOR white]Os Opostos Sempre Se Atraem - [COLOR red]Lançamento[COLOR red](2022) [/COLOR][/B]</title>
