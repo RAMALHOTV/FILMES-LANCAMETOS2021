@@ -1,4 +1,113 @@
 
+<item> 
+ <title>[B][COLOR white]QUEBRANDO REGRAS 4- [COLOR red]Lançamento[COLOR red](2022) [/COLOR][/B]</title>
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:FD22LBNM4WAHKXYC5W5VDNCDUU5V44XA$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:FD22LBNM4WAHKXYC5W5VDNCDUU5V44XA$nome=[COLOR lime]720 P[/COLOR] - DUBLADO</link> 
+ <thumbnail>https://www.themoviedb.org/t/p/original/saL9WwmfVoaoeg1tVjyetnF1FEk.jpg</thumbnail>
+ <genre>[B][COLOR firebrick]Ação / Terror</genre>
+ <fanart>https://www.themoviedb.org/t/p/original/saL9WwmfVoaoeg1tVjyetnF1FEk.jpg</fanart>
+ <info>[B][COLOR red] SINOPSE:Quando um lutador amador não está disposto a competir, sua irmã Anya precisa viajar para Roma e lutar para um público de elite para ajudar a pagar a dívida dele com o chefe do crime. [COLOR red][/COLOR][/B]</info>	
+ </item> 
+
+ <item> 
+ <title>[B][COLOR white]AMBULANCIA- UM DIA DE CRIME- [COLOR red]Lançamento[COLOR red](2022) [/COLOR][/B]</title>
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:Z7XBP4ZYTOFCZJF24Y74UBJDOVJKA45M$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:Z7XBP4ZYTOFCZJF24Y74UBJDOVJKA45M$nome=[COLOR lime]720 P[/COLOR] - DUBLADO</link> 
+ <thumbnail>https://www.themoviedb.org/t/p/original/k62v5oVhQ0e1sJWJ9nFpiTfcNoD.jpg</thumbnail>
+ <genre>[B][COLOR firebrick]Ação / Terror</genre>
+ <fanart>https://www.themoviedb.org/t/p/original/k62v5oVhQ0e1sJWJ9nFpiTfcNoD.jpg</fanart>
+ <info>[B][COLOR red] SINOPSE: Dois irmãos em fuga da polícia roubam uma ambulância, sem saber que havia uma paramédica e um paciente em condição crítica dentro dela.[COLOR red][/COLOR][/B]</info>	
+ </item> 
+
+ <item> 
+ <title>[B][COLOR white] TOSCANA- [COLOR red]Lançamento[COLOR red](2022) [/COLOR][/B]</title>
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:TQHAOJINGKBCPXBNQPD5K7DSRJRUZZJ4$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:TQHAOJINGKBCPXBNQPD5K7DSRJRUZZJ4$nome=[COLOR lime]720 P[/COLOR] - DUBLADO</link> 
+ <thumbnail>https://www.themoviedb.org/t/p/original/orOHMxqgZjnb1dOZGGrXO7xOn6z.jpg</thumbnail>
+ <genre>[B][COLOR firebrick]Ação / Terror</genre>
+ <fanart>https://www.themoviedb.org/t/p/original/orOHMxqgZjnb1dOZGGrXO7xOn6z.jpg</fanart>
+ <info>[B][COLOR red] SINOPSE:Santi colide com uma motocicleta com um veiculo cujo motorista está fugindo. Procurando ajuda, ele acaba ficando preso em um restaurante Toscana onde um ex-chef está armado e exigindo do seu ex-chefe o seu devido pagamento. E assim começam as confusões. [COLOR red][/COLOR][/B]</info>	
+ </item> 
+
+ <item> 
+ <title>[B][COLOR white]BLUE BAYOU- [COLOR red]Lançamento[COLOR red](2022) [/COLOR][/B]</title>
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:R364JTSHKIQPSDCDFGJ5QH3IGLHSPQ4Z$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:R364JTSHKIQPSDCDFGJ5QH3IGLHSPQ4Z$nome=[COLOR lime]720 P[/COLOR] - DUBLADO</link> 
+ <thumbnail>https://www.themoviedb.org/t/p/original/a4xykTie8BOSW0y6K5u1AcmW4HW.jpg</thumbnail>
+ <genre>[B][COLOR firebrick]Ação / Terror</genre>
+ <fanart>https://www.themoviedb.org/t/p/original/a4xykTie8BOSW0y6K5u1AcmW4HW.jpg</fanart>
+ <info>[B][COLOR red] SINOPSE:Antônio, um adotado coreano criado nos EUA, é forçado a enfrentar seu passado distante e o que isso significa para o seu próprio futuro e o da família, como ele de repente - e inesperadamente - enfrenta a deportação. Inspirada em fatos reais. [COLOR red][/COLOR][/B]</info>	
+ </item> 
+
+ <item> 
+ <title>[B][COLOR white]CYBER HELL-ESPONDO UM HORROR NA INTERNET- [COLOR red]Lançamento[COLOR red](2022) [/COLOR][/B]</title>
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:RFENOM3YO6ZS644XREU7EEJKGBSIAOYT$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:RFENOM3YO6ZS644XREU7EEJKGBSIAOYT$nome=[COLOR lime]720 P[/COLOR] - DUBLADO</link> 
+ <thumbnail>https://www.themoviedb.org/t/p/original/iWI05wWFZvPKCgEqXihjUQLar7r.jpg</thumbnail>
+ <genre>[B][COLOR firebrick]Ação / Terror</genre>
+ <fanart>https://www.themoviedb.org/t/p/original/iWI05wWFZvPKCgEqXihjUQLar7r.jpg</fanart>
+ <info>[B][COLOR red] SINOPSE:Anônima e exploradora, uma rede de salas de bate-papo on-line estava repleta de crimes sexuais. A caçada para derrubar seus operadores exigia coragem e tenacidade. [COLOR red][/COLOR][/B]</info>	
+ </item> 
+
+ <item> 
+ <title>[B][COLOR white]RASTROS DE UM CRIME- [COLOR red]Lançamento[COLOR red](2022) [/COLOR][/B]</title>
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ee88cccc9d965cbe6b889210eca26094dafc2231$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ee88cccc9d965cbe6b889210eca26094dafc2231$nome=[COLOR lime]720 P[/COLOR] - DUBLADO</link> 
+ <thumbnail>https://www.themoviedb.org/t/p/original/bT90ikAfeBHDkijtNbtLA7vq6st.jpg</thumbnail>
+ <genre>[B][COLOR firebrick]Ação / Terror</genre>
+ <fanart>https://www.themoviedb.org/t/p/original/bT90ikAfeBHDkijtNbtLA7vq6st.jpg</fanart>
+ <info>[B][COLOR red] SINOPSE:Paul 'Wicky' Wickstead, técnico de limpeza credenciado pelo estado, limpa as cenas do crime depois que a polícia concluiu seu trabalho de detetive. [COLOR red][/COLOR][/B]</info>	
+ </item> 
+
+ <item> 
+ <title>[B][COLOR white]COMBINAÇÃO PERFEITA - [COLOR red]Lançamento[COLOR red](2022) [/COLOR][/B]</title>
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:CJ3MRSJMM2XZYRNGW67D4J2NR6MLEFPV$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:CJ3MRSJMM2XZYRNGW67D4J2NR6MLEFPV$nome=[COLOR lime]720 P[/COLOR] - DUBLADO</link> 
+ <thumbnail>https://www.themoviedb.org/t/p/original/xBdOs8RqlOAhhgVuqvDDCv4xzsU.jpg</thumbnail>
+ <genre>[B][COLOR firebrick]Ação / Terror</genre>
+ <fanart>https://www.themoviedb.org/t/p/original/xBdOs8RqlOAhhgVuqvDDCv4xzsU.jpg</fanart>
+ <info>[B][COLOR red] SINOPSE:Segue-se uma executiva de uma empresa de vinhos de Los Angeles que viaja para uma estação de ovelhas australiana para conseguir um grande cliente e lá ela acaba trabalhando como ajudante de rancho e se divertindo com um local rude. [COLOR red][/COLOR][/B]</info>	
+ </item> 
+
+
+ <item> 
+ <title>[B][COLOR white]INSTINTO ASSASSINO- [COLOR red]Lançamento[COLOR red](2022) [/COLOR][/B]</title>
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:TTEHWHP6DHNQYNTF2DAMVC3DG6TW3O44$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:TTEHWHP6DHNQYNTF2DAMVC3DG6TW3O44$nome=[COLOR lime]720 P[/COLOR] - DUBLADO</link> 
+ <thumbnail>https://www.themoviedb.org/t/p/original/4Mynv1TcKx5AwCsv1wr5Y2hnm6S.jpg</thumbnail>
+ <genre>[B][COLOR firebrick]Ação / Terror</genre>
+ <fanart>https://www.themoviedb.org/t/p/original/4Mynv1TcKx5AwCsv1wr5Y2hnm6S.jpg</fanart>
+ <info>[B][COLOR red] SINOPSE:Após a morte de seu irmão, um sociopata segue para uma ilha remota e logo cai sob o cerco de uma gangue mortal de mercenários. Forçado a se defender sozinho, ele descobre seu papel na morte de seu irmão e parte em uma busca implacável por vingança. [COLOR red][/COLOR][/B]</info>	
+ </item> 
+
+ <item> 
+ <title>[B][COLOR white]CAÇADA-HUNTER-HUNTER- [COLOR red]Lançamento[COLOR red](2022) [/COLOR][/B]</title>
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ZCHWAAY56OFDC7FTQ4YPUVE6CR3LPEWT$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ZCHWAAY56OFDC7FTQ4YPUVE6CR3LPEWT$nome=[COLOR lime]720 P[/COLOR] - DUBLADO</link> 
+ <thumbnail>https://www.themoviedb.org/t/p/original/kgtXt56vGKXKqKmD8cFoqGQKhaY.jpg</thumbnail>
+ <genre>[B][COLOR firebrick]Ação / Terror</genre>
+ <fanart>https://www.themoviedb.org/t/p/original/kgtXt56vGKXKqKmD8cFoqGQKhaY.jpg</fanart>
+ <info>[B][COLOR red] SINOPSE:Uma família vive em uma região selvagem remota e ganha a vida como caçadores de peles. Joseph Mersault, a esposa Anne e a filha Renée lutam para sobreviver e pensam que as suas armadilhas estão sendo destruídas por um lobo rebelde. Determinado a pegar o predador em flagrante, Joseph deixa a família para trás para rastrear o lobo. Anne e Renée ficam cada vez mais ansiosas durante a ausência prolongada de Joseph e lutam para sobreviver sem ele. Quando elas ouvem um barulho estranho fora da cabana, Anne espera que seja Joseph, mas em vez disso encontra um homem chamado Lou, que foi gravemente ferido e deixado para morrer. Quanto mais Lou fica e Joseph está fora, mais paranoica Anne fica. [COLOR red][/COLOR][/B]</info>	
+ </item> 
+ <item> 
+ <title>[B][COLOR white]4X4- [COLOR red]Lançamento[COLOR red](2022) [/COLOR][/B]</title>
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:NEHGB7YHQSKTUHIFPFURWPDPGNEV3QLH$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:NEHGB7YHQSKTUHIFPFURWPDPGNEV3QLH$nome=[COLOR lime]720 P[/COLOR] - DUBLADO</link> 
+ <thumbnail>https://www.themoviedb.org/t/p/original/gMJwGghKysgj6qgcLAWJFhDjFBs.jpg</thumbnail>
+ <genre>[B][COLOR firebrick]Ação / Terror</genre>
+ <fanart>https://www.themoviedb.org/t/p/original/gMJwGghKysgj6qgcLAWJFhDjFBs.jpg</fanart>
+ <info>[B][COLOR red] SINOPSE: Um ladrão (Peter Lanzani) entra num automóvel 4x4 que aparentemente não tem alarme. Ele rouba o carro, mas quando ele tenta sair ele percebe que está trancado. O carro está preparado precisamente para não deixá-lo sair. Acaba sendo impossível encontrar uma saída. Assim começa a jornada do protagonista ao longo de todo o filme. O dono, Dr. Ferrari (Dady Brieva) entra em contato com ele por meio do telefone do veículo. O filme realiza um questionamento sobre o problema de se fazer justiça com as próprias mãos.[COLOR red][/COLOR][/B]</info>	
+ </item> 
+
+ <item> 
+ <title>[B][COLOR white]O DESEJO FINAL- [COLOR red]Lançamento[COLOR red](2022) [/COLOR][/B]</title>
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:YGMTNIU73W3ZU5OCCDMCA4AO4VAOODSV$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:YGMTNIU73W3ZU5OCCDMCA4AO4VAOODSV$nome=[COLOR lime]720 P[/COLOR] - DUBLADO</link> 
+ <thumbnail>https://www.themoviedb.org/t/p/original/mp2QTfbfLqydptBf5E2tmHYXosb.jpg</thumbnail>
+ <genre>[B][COLOR firebrick]Ação / Terror</genre>
+ <fanart>https://www.themoviedb.org/t/p/original/mp2QTfbfLqydptBf5E2tmHYXosb.jpg</fanart>
+ <info>[B][COLOR red] SINOPSE:Aaron é um advogado que retorna à sua casa após a morte do pai para ajudar sua devastada mãe e confrontar os demônios de seu passado. Ao mexer nos pertences do falecido, Aaron encontra uma urna que é mais do que parece ser. Quando seus desejos e pedidos começam a virar realidade, Aaron imagina que suas preces estão sendo ouvidas, mas logo percebe que terá que pagar um preço alto por elas. [COLOR red][/COLOR][/B]</info>	
+ </item> 
 
 
 
