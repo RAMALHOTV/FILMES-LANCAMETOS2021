@@ -1,4 +1,12 @@
-
+ <item> 
+ <title>[B][COLOR white]Duro na Queda- [COLOR red]Lançamento[COLOR red](2022) [/COLOR][/B]</title>
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d1925b227d07c2445ee9ef47fa2218bf4b8a8e85$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d1925b227d07c2445ee9ef47fa2218bf4b8a8e85$nome=[COLOR lime]720 P[/COLOR] - DUBLADO</link> 
+ <thumbnail>https://abutretorrents.com/imagens/duro-na-queda-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+ <genre>[B][COLOR firebrick]Ação / Drama / Suspense</genre>
+ <fanart>https://abutretorrents.com/imagens/duro-na-queda-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</fanart>
+ <info>[B][COLOR red] SINOPSE:Após ficar seis anos preso injustamente num centro psiquiátrico, Manop está pronto para fazer justiça com as próprias mãos e buscar vingança contra uma gangue de criminosos, responsável pela morte de sua família.[COLOR red][/COLOR][/B]</info>	
+ </item> 
 
 
  <item> 
