@@ -1,4 +1,35 @@
 
+
+
+ <item> 
+ <title>[B][COLOR white]A Invasão - Ocupação Alienígena- [COLOR red]Lançamento[COLOR red](2022) [/COLOR][/B]</title>
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:210711a3e26402e62411de1344f54366bc776c3a$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:210711a3e26402e62411de1344f54366bc776c3a$nome=[COLOR lime]720 P[/COLOR] - DUBLADO</link> 
+ <thumbnail>https://abutretorrents.com/imagens/a-invasao-ocupacao-alienigena-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+ <genre>[B][COLOR firebrick]Ação / Ficção</genre>
+ <fanart>https://abutretorrents.com/imagens/a-invasao-ocupacao-alienigena-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
+ <info>[B][COLOR red] SINOPSE:Dois anos após uma invasão intergaláctica na Terra, os sobreviventes em Sydney, na Austrália, revidam em uma guerra terrestre desesperada. À medida que as baixas aumentam a cada dia, a resistência e seus inesperados aliados descobrem um plano que pode levar a guerra a um fim decisivo, com os invasores alienígenas empenhados em transformar a Terra em seu novo lar.[COLOR red][/COLOR][/B]</info>	
+ </item> 
+
+ <item> 
+ <title>[B][COLOR white]Fortaleza - O Olhar do Sniper - [COLOR red]Lançamento[COLOR red](2022) [/COLOR][/B]</title>
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:EZVIFR7XWKBAFEWNID5Z7CAKXTDR3OVK$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:EZVIFR7XWKBAFEWNID5Z7CAKXTDR3OVK$nome=[COLOR lime]720 P[/COLOR] - DUBLADO</link> 
+ <thumbnail>https://abutretorrents.com/imagens/fortaleza-o-olhar-do-sniper-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+ <genre>[B][COLOR firebrick]Ação</genre>
+ <fanart>https://abutretorrents.com/imagens/fortaleza-o-olhar-do-sniper-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
+ <info>[B][COLOR red] SINOPSE:A história gira em torno de um resort ultrassecreto para oficiais aposentados da inteligência dos EUA. [COLOR red][/COLOR][/B]</info>	
+ </item>
+ 
+ <item> 
+ <title>[B][COLOR white]Passado Violento - [COLOR red]Lançamento[COLOR red](2022) [/COLOR][/B]</title>
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ce1bfc925d2aa682c011076e20a61c14177520c8$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ce1bfc925d2aa682c011076e20a61c14177520c8$nome=[COLOR lime]720 P[/COLOR] - DUBLADO</link> 
+ <thumbnail>https://abutretorrents.com/imagens/passado-violento-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+ <genre>[B][COLOR firebrick]Ação / Terror</genre>
+ <fanart>https://abutretorrents.com/imagens/passado-violento-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
+ <info>[B][COLOR red] SINOPSE:Atormentado por seu passado, um lixeiro chamado Clean tenta uma vida tranquila de redenção. Mas, logo se vê forçado a se reconciliar com a violência de seu passado. [COLOR red][/COLOR][/B]</info>	
+ </item> 
 <item> 
  <title>[B][COLOR white]QUEBRANDO REGRAS 4- [COLOR red]Lançamento[COLOR red](2022) [/COLOR][/B]</title>
  <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:FD22LBNM4WAHKXYC5W5VDNCDUU5V44XA$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
