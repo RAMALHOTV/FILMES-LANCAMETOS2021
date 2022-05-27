@@ -9,6 +9,37 @@
  </item> 
 
 
+
+ <item> 
+ <title>[B][COLOR white]CAÇADOR DE MUTANTES - [COLOR red]Lançamento[COLOR red](2022) [/COLOR][/B]</title>
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:AUD5CDFUUBYY77BFYPNYMBKP2G7BB7ZC$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:AUD5CDFUUBYY77BFYPNYMBKP2G7BB7ZC$nome=[COLOR lime]720 P[/COLOR] - DUBLADO</link> 
+ <thumbnail>https://www.themoviedb.org/t/p/original/wCxfoNHBQ8Pqrmnx5B0sYZMKt0j.jpg</thumbnail>
+ <genre>[B][COLOR firebrick]Ação / Terror</genre>
+ <fanart>https://www.themoviedb.org/t/p/original/wCxfoNHBQ8Pqrmnx5B0sYZMKt0j.jpg</fanart>
+ <info>[B][COLOR red] SINOPSE:Testando um coquetel diversificado de drogas que aumentam o desempenho ilegal ao longo de sua vida - o fisiculturista Tony Hughes, também conhecido como Dr. Tony Huge, pretende provar que os esteróides são o próximo passo lógico na evolução humana. Criando um caso civil e criminal contra sua empresa, o Enhanced Athlete, descobre as profundezas de um homem que acredita que o governo tem uma conspiração contra ele. [COLOR red][/COLOR][/B]</info>	
+ </item> 
+
+ <item> 
+ <title>[B][COLOR white]EMERGÊNCIA- [COLOR red]Lançamento[COLOR red](2022) [/COLOR][/B]</title>
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:DXXEX5PSFPSB7WLTEOMK5GSV7NHPUNRB$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:DXXEX5PSFPSB7WLTEOMK5GSV7NHPUNRB$nome=[COLOR lime]720 P[/COLOR] - DUBLADO</link> 
+ <thumbnail>https://www.themoviedb.org/t/p/original/gkXzcMt1WcAYvjJPnz6CcThRdxy.jpg</thumbnail>
+ <genre>[B][COLOR firebrick]Ação / Terror</genre>
+ <fanart>https://www.themoviedb.org/t/p/original/gkXzcMt1WcAYvjJPnz6CcThRdxy.jpg</fanart>
+ <info>[B][COLOR red] SINOPSE:Testando um coquetel diversificado de drogas que aumentam o desempenho ilegal ao longo de sua vida - o fisiculturista Tony Hughes, também conhecido como Dr. Tony Huge, pretende provar que os esteróides são o próximo passo lógico na evolução humana. Criando um caso civil e criminal contra sua empresa, o Enhanced Athlete, descobre as profundezas de um homem que acredita que o governo tem uma conspiração contra ele. [COLOR red][/COLOR][/B]</info>	
+ </item> 
+
+ <item> 
+ <title>[B][COLOR white] TOP GUN MAVERICK- [COLOR red]Lançamento[COLOR red](2022) [/COLOR][/B]</title>
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6E78FE486402E54F24309C0167A3C7F285AFEC74$nome=[COLOR lime]HDCAM [/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6E78FE486402E54F24309C0167A3C7F285AFEC74$nome=[COLOR lime]720P [/COLOR] - DUBLADO</link> 
+ <thumbnail>>https://www.themoviedb.org/t/p/original/zOGINv5sJxEZQWw2dGuO8JUzvyK.jpg</thumbnail>
+ <genre>[B][COLOR firebrick]Ação / Drama</genre>
+ <fanart>>https://www.themoviedb.org/t/p/original/zOGINv5sJxEZQWw2dGuO8JUzvyK.jpg</fanart>
+ <info>[B][COLOR red] SINOPSE: pós 34 anos na força, o lendário Capitão Pete "Maverick" Mitchell (Tom Cruise) se torna o novo instrutor de voo da Top Gun, fazendo com que ele seja o mentor de Bradley Bradshaw (Miles Teller), o filho de Goose, que busca ser um piloto melhor do que o seu pai foi.[COLOR red][/COLOR][/B]</info>	
+ </item> 
+
  <item> 
  <title>[B][COLOR white]A Invasão - Ocupação Alienígena- [COLOR red]Lançamento[COLOR red](2022) [/COLOR][/B]</title>
  <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:210711a3e26402e62411de1344f54366bc776c3a$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
