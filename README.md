@@ -9,7 +9,24 @@
  </item> 
 
 
-
+ <item> 
+ <title>[B][COLOR white]Animais Fantásticos - Os Segredos de Dumbledore - [COLOR red]Lançamento[COLOR red](2022) [/COLOR][/B]</title>
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih::ae1292e138ace9d7f1d764274f95ea2e1a83ff0e$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih::ae1292e138ace9d7f1d764274f95ea2e1a83ff0e$nome=[COLOR lime]720 P[/COLOR] - DUBLADO</link> 
+ <thumbnail>https://abutretorrents.com/imagens/animais-fantasticos-os-segredos-de-dumbledore-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+ <genre>[B][COLOR firebrick]Ação / Terror</genre>
+ <fanart>https://abutretorrents.com/imagens/animais-fantasticos-os-segredos-de-dumbledore-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
+ <info>[B][COLOR red] SINOPSE: Muitos anos depois dos trágicos eventos de "Os Crimes de Grindelwald", Newt Scamander se envolve numa nova trama que o levará para o Rio de Janeiro e Berlim, além do envolvimento do mundo bruxo com a Segunda Guerra Mundial. [COLOR red][/COLOR][/B]</info>	
+ </item> 
+ <item> 
+ <title>[B][COLOR white]No Fio da Navalha  - [COLOR red]Lançamento[COLOR red](2022) [/COLOR][/B]</title>
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:PC5IEWFEFNSALNGIXA6HYBYN73KZLJGR$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:PC5IEWFEFNSALNGIXA6HYBYN73KZLJGR$nome=[COLOR lime]720 P[/COLOR] - DUBLADO</link> 
+ <thumbnail>https://abutretorrents.com/imagens/no-fio-da-navalha-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+ <genre>[B][COLOR firebrick]Ação / Terror</genre>
+ <fanart>https://abutretorrents.com/imagens/no-fio-da-navalha-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
+ <info>[B][COLOR red] SINOPSE:No filme No Fio da Navalha (2019) WEB-DL 1080p Dual Áudio, Ludovít perdeu seu filho em um cruel ataque neonazista, mas, devido a uma falha na legislação eslovaca, é obrigado a lidar com a extrema injustiça de ver os agressores do seu filho serem rapidamente libertados. Revoltado, ele luta contra uma polícia ineficiente, um juiz oportunista, e, principalmente, contra o fato de nunca ter sido realmente próximo do próprio filho. Se culpando pela morte do filho, ele passa a ter problemas de relacionamento com a esposa e a filha, além de cada vez mais tentar influenciar a investigação. [COLOR red][/COLOR][/B]</info>	
+ </item> 
  <item> 
  <title>[B][COLOR white]CAÇADOR DE MUTANTES - [COLOR red]Lançamento[COLOR red](2022) [/COLOR][/B]</title>
  <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:AUD5CDFUUBYY77BFYPNYMBKP2G7BB7ZC$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
