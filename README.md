@@ -1,3 +1,34 @@
+ 
+
+
+ <item> 
+ <title>[B][COLOR white]Jurassic World - Domínio- [COLOR red]Lançamento[COLOR red](2022) [/COLOR][/B]</title>
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:MBNHTBK5HBTSZI3WIPP3NNPKKUNYBRM5$nome=[COLOR lime] CAM  [/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:MBNHTBK5HBTSZI3WIPP3NNPKKUNYBRM5$nome=[COLOR lime]720 P[/COLOR] - DUBLADO</link> 
+ <thumbnail>https://abutretorrents.com/imagens/jurassic-world-dominio-cam-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+ <genre>[B][COLOR firebrick]Ação / Terror</genre>
+ <fanart>https://abutretorrents.com/imagens/jurassic-world-dominio-cam-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
+ <info>[B][COLOR red] SINOPSE:Anos após a destruição da fantástica ilha Nublar, dominada pelos gigantes do passado, os dinossauros já não estão mais somente lá. Estão entre nós e a única certeza de cientistas, como Ellie Sattler, Alan Grant e Ian Malcolm, é que humanos e dinossauros não podem habitar o mesmo ambiente. Será que o mundo corre perigo? [COLOR red][/COLOR][/B]</info>	
+ </item> 
+ <item> 
+ <title>[B][COLOR white]O Castelo do Lobisomem  - [COLOR red]Lançamento[COLOR red](2022) [/COLOR][/B]</title>
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:DCBEHAPKNGI24RUZNNJR7XXZPFUAQRBV$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:DCBEHAPKNGI24RUZNNJR7XXZPFUAQRBV$nome=[COLOR lime]720 P[/COLOR] - DUBLADO</link> 
+ <thumbnail>https://abutretorrents.com/imagens/o-castelo-do-lobisomem-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+ <genre>[B][COLOR firebrick]Ação / Terror</genre>
+ <fanart>https://abutretorrents.com/imagens/o-castelo-do-lobisomem-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
+ <info>[B][COLOR red] SINOPSE:O garoto da vila Thorfinn acompanha um grupo de cavaleiros em uma perigosa missão para acabar com uma invasão de lobisomens. [COLOR red][/COLOR][/B]</info>	
+ </item> 
+ <item> 
+ <title>[B][COLOR white]O Homem do Norte - [COLOR red]Lançamento[COLOR red](2022) [/COLOR][/B]</title>
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f57e39710c20c02f21f1ac0ce1ddad26d11161c8$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f57e39710c20c02f21f1ac0ce1ddad26d11161c8$nome=[COLOR lime]720 P[/COLOR] - DUBLADO</link> 
+ <thumbnail>https://abutretorrents.com/imagens/o-homem-do-norte-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+ <genre>[B][COLOR firebrick]Ação / Terror</genre>
+ <fanart>https://abutretorrents.com/imagens/o-homem-do-norte-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
+ <info>[B][COLOR red] SINOPSE:O príncipe Amleth (Oscar Novak) já é considerado um homem e está pronto para ocupar o lugar do pai, o rei Aurvandil (Ethan Hawke), quando este acaba sendo brutalmente assassinado pelo próprio irmão Fjölnir (Claes Bang), que pretende tomar seu lugar. O menino, que presenciou o acontecimento, jura que um dia voltará para vingar o pai e matar o tio. Vinte anos depois, Amleth (Alexander Skarsgård) é um homem que sobrevive de saquear aldeias eslavas com outros vikings. Em uma dessas empreitadas, o rapaz encontra uma vidente (Björk) que o lembra que chegou a hora de cumprir a promessa que fez há muito tempo atrás: salvar sua mãe, matar o tio e vingar o pai. O ex-príncipe, então, parte para uma odisseia em busca do homem que destruiu sua vida. Baseado na lenda dinamarquesa de Amleth. [COLOR red][/COLOR][/B]</info>	
+ </item> 
+ 
  <item> 
  <title>[B][COLOR white]Duro na Queda- [COLOR red]Lançamento[COLOR red](2022) [/COLOR][/B]</title>
  <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d1925b227d07c2445ee9ef47fa2218bf4b8a8e85$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
