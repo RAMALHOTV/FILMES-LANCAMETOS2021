@@ -29,6 +29,37 @@
  <info>[B][COLOR red] SINOPSE:O príncipe Amleth (Oscar Novak) já é considerado um homem e está pronto para ocupar o lugar do pai, o rei Aurvandil (Ethan Hawke), quando este acaba sendo brutalmente assassinado pelo próprio irmão Fjölnir (Claes Bang), que pretende tomar seu lugar. O menino, que presenciou o acontecimento, jura que um dia voltará para vingar o pai e matar o tio. Vinte anos depois, Amleth (Alexander Skarsgård) é um homem que sobrevive de saquear aldeias eslavas com outros vikings. Em uma dessas empreitadas, o rapaz encontra uma vidente (Björk) que o lembra que chegou a hora de cumprir a promessa que fez há muito tempo atrás: salvar sua mãe, matar o tio e vingar o pai. O ex-príncipe, então, parte para uma odisseia em busca do homem que destruiu sua vida. Baseado na lenda dinamarquesa de Amleth. [COLOR red][/COLOR][/B]</info>	
  </item> 
  
+
+
+ <item> 
+ <title>[B][COLOR white]O Pai da Rita - [COLOR red]Lançamento[COLOR red](2022) [/COLOR][/B]</title>
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2FE6FCB8A98CE114B46111803D1D66BAE4C0699B$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2FE6FCB8A98CE114B46111803D1D66BAE4C0699B$nome=[COLOR lime]720 P[/COLOR] - DUBLADO</link> 
+ <thumbnail>https://abutretorrents.com/imagens/o-pai-da-rita-cam-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+ <genre>[B][COLOR firebrick]Comédia / Nacional</genre>
+ <fanart>https://abutretorrents.com/imagens/o-pai-da-rita-cam-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
+ <info>[B][COLOR red] SINOPSE:Roque e Pudim, compositores da velha guarda da Vai-Vai, partilham uma quitinete, décadas de amizade, o amor pela escola de samba e uma dúvida do passado: o que aconteceu com a passista Rita, paixão de ambos. O surgimento de Ritinha, filha da dançarina, e as sombras do compositor Chico Buarque, ameaçam desmoronar essa grande amizade. [COLOR red][/COLOR][/B]</info>	
+ </item> 
+
+ <item> 
+ <title>[B][COLOR white]Cidade Perdida - [COLOR red]Lançamento[COLOR red](2022) [/COLOR][/B]</title>
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:DK23OZMVNPNTFL52QVVUBJ4CDMQ46DAR$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:NDK6GGLOZ7MRM4PHKAMASLNT4FRNTZAK$nome=[COLOR lime]720 P[/COLOR] - DUBLADO</link> 
+ <thumbnail>https://abutretorrents.com/imagens/cidade-perdida-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+ <genre>[B][COLOR firebrick]Ação / Aventura / Comédia</genre>
+ <fanart>https://abutretorrents.com/imagens/cidade-perdida-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
+ <info>[B][COLOR red] SINOPSE:Uma romancista reclusa tinha certeza de que nada poderia ser pior do que ficar presa em uma turnê do livro com seu modelo de capa, até que uma tentativa de sequestro leva os dois para uma aventura na selva, provando que a vida pode ser muito mais estranha - e mais romântica - do que qualquer uma de suas ficções. [COLOR red][/COLOR][/B]</info>	
+ </item> 
+
+ <item> 
+ <title>[B][COLOR white]Era Uma Vez um Conto de Fadas- [COLOR red]Lançamento[COLOR red](2022) [/COLOR][/B]</title>
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ZCSKQYXUSQ376BJX2A23WFXJQIZL67I4$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ZCSKQYXUSQ376BJX2A23WFXJQIZL67I4$nome=[COLOR lime]720 P[/COLOR] - DUBLADO</link> 
+ <thumbnail>https://abutretorrents.com/imagens/era-uma-vez-um-conto-de-fadas-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+ <genre>[B][COLOR firebrick]Ação / Terror</genre>
+ <fanart>https://abutretorrents.com/imagens/era-uma-vez-um-conto-de-fadas-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
+ <info>[B][COLOR red] SINOPSE: Uma adolescente obstinada é confrontada por personagens caprichosas quando é transportada para um mundo de fantasia e contos de fadas enquanto assiste a um espetáculo de marionetas na escola. [COLOR red][/COLOR][/B]</info>	
+ </item> 
  <item> 
  <title>[B][COLOR white]Duro na Queda- [COLOR red]Lançamento[COLOR red](2022) [/COLOR][/B]</title>
  <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d1925b227d07c2445ee9ef47fa2218bf4b8a8e85$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
