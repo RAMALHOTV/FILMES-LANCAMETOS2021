@@ -22,6 +22,37 @@
  <info>[B][COLOR red] SINOPSE:Alemão 2 acompanha a ação dos policiais civis Machado (Vladimir Brichta), Ciro (Gabriel Leone) e Freitas (Leandra Leal) para capturar o traficante Soldado (Digão Ribeiro), que dominou o morro após a falência das Unidades de Polícia Pacificadora, nove anos depois da operação militar realizada para livrar o Complexo do Alemão do controle do tráfico. Supervisionados pela delegada Amanda (Aline Borges) e seguindo as pistas de Bento (Danilo Ferreira), um informante da Polícia Militar, o grupo consegue efetuar a prisão, mas sofre uma emboscada armada pelo chefe da facção rival e acaba sendo perseguido pelos traficantes, perdendo-se nas tortuosas vielas da comunidade. [COLOR red][/COLOR][/B]</info>	
  </item> 
 
+
+
+ <item> 
+ <title>[B][COLOR white]Mariya - O Símbolo de Uma Guerra - [COLOR red]Lançamento[COLOR red](2022) [/COLOR][/B]</title>
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:626TBVW3V7I6TMT3GK26ZE6GOKQEMA2J$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:626TBVW3V7I6TMT3GK26ZE6GOKQEMA2J$nome=[COLOR lime]720 P[/COLOR] - DUBLADO</link> 
+ <thumbnail>https://abutretorrents.com/imagens/mariya-o-simbolo-de-uma-guerra-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+ <genre>[B][COLOR firebrick]Drama / Guerra</genre>
+ <fanart>https://abutretorrents.com/imagens/mariya-o-simbolo-de-uma-guerra-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
+ <info>[B][COLOR red] SINOPSE:Um emocionante drama de guerra que conta a história de Maria Petrova, em cujo destino, como em um espelho, o destino do país se refletiu: a filha de um padre, que renunciou ao pai e à fé, ela serve no NKVD. Na véspera da batalha por Moscou, Maria conhece a vidente anciã Matrona, e logo é Maria quem é encarregada de entregar a Moscou o ícone milagroso da Mãe de Deus, localizado atrás da linha de frente no território ocupado. [COLOR red][/COLOR][/B]</info>	
+ </item> 
+
+ <item> 
+ <title>[B][COLOR white]Colisão- [COLOR red]Lançamento[COLOR red](2022) [/COLOR][/B]</title>
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:HB2SGH265GIZV7DFCVRRMHVPKU4AOUM4$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:HB2SGH265GIZV7DFCVRRMHVPKU4AOUM4$nome=[COLOR lime]720 P[/COLOR] - DUBLADO</link> 
+ <thumbnail>https://abutretorrents.com/imagens/colisao-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+ <genre>[B][COLOR firebrick]Drama / Policial / Suspense</genre>
+ <fanart>https://abutretorrents.com/imagens/colisao-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
+ <info>[B][COLOR red] SINOPSE:Ele quer fazer música, mas o amigo dele prefere fazer dinheiro. Os dois acabam se envolvendo com um poderoso criminoso, e as consequências são terríveis. [COLOR red][/COLOR][/B]</info>	
+ </item> 
+
+ <item> 
+ <title>[B][COLOR white]Centauro - [COLOR red]Lançamento[COLOR red](2022) [/COLOR][/B]</title>
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:A26Q7CNHAWNV5DO2T2WX27WX767OV4WG$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:A26Q7CNHAWNV5DO2T2WX27WX767OV4WG$nome=[COLOR lime]720 P[/COLOR] - DUBLADO</link> 
+ <thumbnail>https://abutretorrents.com/imagens/centauro-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+ <genre>[B][COLOR firebrick]Ação / Terror</genre>
+ <fanart>https://abutretorrents.com/imagens/centauro-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
+ <info>[B][COLOR red] SINOPSE:Para pagar a dívida da mãe de seu filho, um piloto de moto passa a transportar drogas para um cartel, arriscando suas chances no esporte e a própria vida. [COLOR red][/COLOR][/B]</info>	
+ </item> 
  <item> 
  <title>[B][COLOR white]Medida Provisória- [COLOR red]Lançamento[COLOR red](2022) [/COLOR][/B]</title>
  <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3R4LGSIMYTK5PKZM4KRCAYMKXBAVWG4I$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
