@@ -1,6 +1,57 @@
  
 
 
+
+ <item> 
+ <title>[B][COLOR white]Family Camp- [COLOR red]Lançamento[COLOR red](2022) [/COLOR][/B]</title>
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:30DE908D7199C9CCFF199FCF992A3A1A7EB9831A$nome=[COLOR lime]CAM CINEMA [/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:30DE908D7199C9CCFF199FCF992A3A1A7EB9831A$nome=[COLOR lime]720 P[/COLOR] - DUBLADO</link> 
+ <thumbnail>https://abutretorrents.com/imagens/family-camp-cam-fan-dub-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+ <genre>[B][COLOR firebrick]Comédia / Família</genre>
+ <fanart>https://abutretorrents.com/imagens/family-camp-cam-fan-dub-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
+ <info>[B][COLOR red] SINOPSE:Quando a esposa do viciado em trabalho Tommy insiste que ele passe mais tempo com sua família, ele concorda em se inscrever no Family Camp. O que Tommy não contava era ser forçado a dividir uma tenda no acampamento com a grandiosa família Sanders. Dublagem não oficial, essa é uma dublagem feita por fãs, se preferir aguarde o lançamento da versão brasileira oficial. [COLOR red][/COLOR][/B]</info>	
+ </item> 
+
+ <item> 
+ <title>[B][COLOR white]Alemão 2 - [COLOR red]Lançamento[COLOR red](2022) [/COLOR][/B]</title>
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:SWGQFU2S73REYXD2BAB2BO2XHY3C7XJQ$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:SWGQFU2S73REYXD2BAB2BO2XHY3C7XJQ$nome=[COLOR lime]720 P[/COLOR] - DUBLADO</link> 
+ <thumbnail>https://abutretorrents.com/imagens/alemao-2-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+ <genre>[B][COLOR firebrick]Ação / Drama / Nacional</genre>
+ <fanart>https://abutretorrents.com/imagens/alemao-2-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
+ <info>[B][COLOR red] SINOPSE:Alemão 2 acompanha a ação dos policiais civis Machado (Vladimir Brichta), Ciro (Gabriel Leone) e Freitas (Leandra Leal) para capturar o traficante Soldado (Digão Ribeiro), que dominou o morro após a falência das Unidades de Polícia Pacificadora, nove anos depois da operação militar realizada para livrar o Complexo do Alemão do controle do tráfico. Supervisionados pela delegada Amanda (Aline Borges) e seguindo as pistas de Bento (Danilo Ferreira), um informante da Polícia Militar, o grupo consegue efetuar a prisão, mas sofre uma emboscada armada pelo chefe da facção rival e acaba sendo perseguido pelos traficantes, perdendo-se nas tortuosas vielas da comunidade. [COLOR red][/COLOR][/B]</info>	
+ </item> 
+
+ <item> 
+ <title>[B][COLOR white]Medida Provisória- [COLOR red]Lançamento[COLOR red](2022) [/COLOR][/B]</title>
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3R4LGSIMYTK5PKZM4KRCAYMKXBAVWG4I$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3R4LGSIMYTK5PKZM4KRCAYMKXBAVWG4I$nome=[COLOR lime]720 P[/COLOR] - DUBLADO</link> 
+ <thumbnail>https://abutretorrents.com/imagens/medida-provisoria-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+ <genre>[B][COLOR firebrick]Drama / Ficção / Nacional</genre>
+ <fanart>https://abutretorrents.com/imagens/medida-provisoria-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
+ <info>[B][COLOR red] SINOPSE: Em um futuro distópico, o governo brasileiro decreta uma medida provisória, em uma iniciativa de reparação pelo passado escravocrata, provocando uma reação no Congresso Nacional, que aprova uma medida que obriga os cidadãos negros a migrarem para a África na intenção de retornar a suas origens. Sua aprovação afeta diretamente a vida do casal formado pela médica Capitú (Taís Araújo) e pelo advogado Antonio (Alfred Enoch), bem como a de seu primo, o jornalista André (Seu Jorge), que mora com eles no mesmo apartamento. Nesse apartamento, os personagens debatem questões sociais e raciais, além de compartilharem anseios que envolvem a mudança de país. Vendo-se no centro do terror e separados por força das circunstâncias, o casal não sabe se conseguirá se reencontrar. O longa é uma adaptação de "Namíbia, Não!", peça de Aldri Anunciação que o diretor e ator Lázaro Ramos dirigiu para o teatro em 2011. [COLOR red][/COLOR][/B]</info>	
+ </item> 
+
+ <item> 
+ <title>[B][COLOR white]O Pai da Rita- [COLOR red]Lançamento[COLOR red](2022) [/COLOR][/B]</title>
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2FE6FCB8A98CE114B46111803D1D66BAE4C0699B$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2FE6FCB8A98CE114B46111803D1D66BAE4C0699B$nome=[COLOR lime]720 P[/COLOR] - DUBLADO</link> 
+ <thumbnail>https://abutretorrents.com/imagens/o-pai-da-rita-cam-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+ <genre>[B][COLOR firebrick]Comédia / Nacional</genre>
+ <fanart>https://abutretorrents.com/imagens/o-pai-da-rita-cam-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
+ <info>[B][COLOR red] SINOPSE:Roque e Pudim, compositores da velha guarda da Vai-Vai, partilham uma quitinete, décadas de amizade, o amor pela escola de samba e uma dúvida do passado: o que aconteceu com a passista Rita, paixão de ambos. O surgimento de Ritinha, filha da dançarina, e as sombras do compositor Chico Buarque, ameaçam desmoronar essa grande amizade. [COLOR red][/COLOR][/B]</info>	
+ </item> 
+
+ <item> 
+ <title>[B][COLOR white]Heróis de Guerra - [COLOR red]Lançamento[COLOR red](2022) [/COLOR][/B]</title>
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3a98c19218e83a999ee938f0c72c3a7092c46fae$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3a98c19218e83a999ee938f0c72c3a7092c46fae$nome=[COLOR lime]720 P[/COLOR] - DUBLADO</link> 
+ <thumbnail>https://abutretorrents.com/imagens/herois-de-guerra-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+ <genre>[B][COLOR firebrick]Ação / Guerra</genre>
+ <fanart>https://abutretorrents.com/imagens/herois-de-guerra-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</fanart>
+ <info>[B][COLOR red] SINOPSE:1999. A Sérvia é bombardeada e a região de Kosovo é deixada para bandidos sob o comando do senhor da guerra albanês, Smuk. A remoção dos órgãos humanos ocorre dentro dos territórios que os bandidos tomaram, os roubos, assassinatos em massa e genocídio. O oficial da inteligência russa Bek Ethoev e o ex pára-quedista transformaram o mercenário Andrey Shatalov em chefe de um pequeno destacamento encarregado da missão perigosa de parar o terrorismo, recapturar o aeródromo usado pelos bandidos e resgatar o interesse amoroso de Shatalov. [COLOR red][/COLOR][/B]</info>	
+ </item> 
+
  <item> 
  <title>[B][COLOR white]Jurassic World - Domínio- [COLOR red]Lançamento[COLOR red](2022) [/COLOR][/B]</title>
  <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:MBNHTBK5HBTSZI3WIPP3NNPKKUNYBRM5$nome=[COLOR lime] CAM  [/COLOR] - DUBLADO</link> 
