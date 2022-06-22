@@ -1,5 +1,14 @@
  
-
+<item> 
+ <title>[B][COLOR white]Doutor Estranho no Multiverso da Loucura - [COLOR red]Lançamento[COLOR red](2022) [/COLOR][/B]</title>
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:173DC54514604630F592D2AF38A73B5C90EF558F$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:S3B7JR6NKBNWGHJDPGUFCKCWC2AZBAVR$nome=[COLOR lime]1080P IMAX [/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:IR3XICRGPYHH7YE42KBNQZIFEGCCYSFA$nome=[COLOR lime]4K IMAX HDR[/COLOR] - DUBLADO</link> 
+ <thumbnail>https://abutretorrents.com/imagens/doutor-estranho-no-multiverso-da-loucura-cam-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+ <genre>[B][COLOR firebrick]Ação / Aventura / Fantasia</genre>
+ <fanart>https://abutretorrents.com/imagens/doutor-estranho-no-multiverso-da-loucura-cam-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</fanart>
+ <info>[B][COLOR red] SINOPSE:Alguns meses depois dos eventos de "Homem-Aranha: Sem Volta Para Casa", o Dr. Stephen Strange, com a ajuda de velhos e novos aliados místicos, viaja pelo Multiverso para enfrentar um novo e misterioso adversário. [COLOR red][/COLOR][/B]</info>	
+ </item> 
 
 
  <item> 
@@ -342,15 +351,7 @@
 
 
 
- <item> 
- <title>[B][COLOR white]Doutor Estranho no Multiverso da Loucura - [COLOR red]Lançamento[COLOR red](2022) [/COLOR][/B]</title>
- <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:173DC54514604630F592D2AF38A73B5C90EF558F$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
- <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:173DC54514604630F592D2AF38A73B5C90EF558F$nome=[COLOR lime]CAM CINEMA[/COLOR] - DUBLADO</link> 
- <thumbnail>https://abutretorrents.com/imagens/doutor-estranho-no-multiverso-da-loucura-cam-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
- <genre>[B][COLOR firebrick]Ação / Aventura / Fantasia</genre>
- <fanart>https://abutretorrents.com/imagens/doutor-estranho-no-multiverso-da-loucura-cam-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</fanart>
- <info>[B][COLOR red] SINOPSE:Alguns meses depois dos eventos de "Homem-Aranha: Sem Volta Para Casa", o Dr. Stephen Strange, com a ajuda de velhos e novos aliados místicos, viaja pelo Multiverso para enfrentar um novo e misterioso adversário. [COLOR red][/COLOR][/B]</info>	
- </item> 
+ 
 
  <item> 
  <title>[B][COLOR white]Passageiro 666 - [COLOR red]Lançamento[COLOR red](2022) [/COLOR][/B]</title>
