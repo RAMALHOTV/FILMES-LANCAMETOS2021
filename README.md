@@ -1,3 +1,12 @@
+  <item> 
+ <title>[B][COLOR white]Tom e Jerry no Velho Oeste- [COLOR red]Lançamento[COLOR red](2022) [/COLOR][/B]</title>
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6c6a0471e02487919f8d0ed7a04a6aed256651bd$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6c6a0471e02487919f8d0ed7a04a6aed256651bd$nome=[COLOR lime]720 P[/COLOR] - DUBLADO</link> 
+ <thumbnail>https://abutretorrents.com/imagens/tom-e-jerry-no-velho-oeste-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+ <genre>[B][COLOR firebrick] Animação / Aventura / Comédia</genre>
+ <fanart>https://abutretorrents.com/imagens/tom-e-jerry-no-velho-oeste-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
+ <info>[B][COLOR red] SINOPSE:Tom and Jerry Cowboy Up!" possui produção executiva de Sam Register. O filme é dirigido por Darrell Van Citters (Tom and Jerry in New York, Tom and Jerry Show, Tom and Jerry: Santa’s Little Helpers), com roteiro de Will Finn e William Waldner. Assista ao trailer: [COLOR red][/COLOR][/B]</info>	
+ </item> 
  
 <item> 
  <title>[B][COLOR white]Doutor Estranho no Multiverso da Loucura - [COLOR red]Lançamento[COLOR red](2022) [/COLOR][/B]</title>
