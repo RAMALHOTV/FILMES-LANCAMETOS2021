@@ -1,5 +1,13 @@
   
-
+ <item> 
+ <title>[B][COLOR white]Dois Amigos e uma Ameaça Alienígena- [COLOR red]Lançamento[COLOR red](2022) [/COLOR][/B]</title>
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e04531efbd18eb92feea0eac493dd9450fcb2b07$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e04531efbd18eb92feea0eac493dd9450fcb2b07$nome=[COLOR lime]720 P[/COLOR] - DUBLADO</link> 
+ <thumbnail>https://abutretorrents.com/imagens/dois-amigos-e-uma-ameaca-alienigena-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+ <genre>[B][COLOR firebrick]Ação / Comédia / Ficção</genre>
+ <fanart>https://abutretorrents.com/imagens/dois-amigos-e-uma-ameaca-alienigena-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
+ <info>[B][COLOR red] SINOPSE:Uma invasão alienígena interrompe uma despedida de solteiro. Ainda bem que dois amigos de infância estão prontos para revidar… com armas a laser! [COLOR red][/COLOR][/B]</info>	
+ </item> 
 
  <item> 
  <title>[B][COLOR white]A Princesa  - [COLOR red]Lançamento[COLOR red](2022) [/COLOR][/B]</title>
