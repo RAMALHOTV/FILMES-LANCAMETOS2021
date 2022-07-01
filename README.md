@@ -1,3 +1,29 @@
+  
+
+
+ <item> 
+ <title>[B][COLOR white]A Princesa  - [COLOR red]Lançamento[COLOR red](2022) [/COLOR][/B]</title>
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:RSDYKDYI7JRR4RP5KXX4QKIHRD3QA74T$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:RSDYKDYI7JRR4RP5KXX4QKIHRD3QA74T$nome=[COLOR lime]720 P[/COLOR] - DUBLADO</link> 
+ <thumbnail>https://abutretorrents.com/imagens/a-princesa-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+ <genre>[B][COLOR firebrick]Ação / Terror</genre>
+ <fanart>https://abutretorrents.com/imagens/a-princesa-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
+ <info>[B][COLOR red] SINOPSE:Quando uma princesa bela e determinada se recusa a se casar com o cruel sociopata para quem está prometida, ela é sequestrada e trancada em uma torre remota no castelo de seu pai. Com seu pretendente desprezado e vingativo querendo tomar o trono, a princesa deve proteger sua família e salvar o reino, custe o que custar. A história não foi divulgada mas é descrita como uma mistura de Rapunzel e Operação Invasão. [COLOR red][/COLOR][/B]</info>	
+ </item> 
+
+ <item> 
+ <title>[B][COLOR white]Em Busca do Portal Mágico- [COLOR red]Lançamento[COLOR red](2022) [/COLOR][/B]</title>
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:WTUALBSM4Y3I64NNFM6G6VT6RCVIF2UY$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
+ <jsonrpc>Plugin://plugin.video.youtube/channel/SZcAflJjPYw/?page=0$nome=[COLOR lime]Trailer[/COLOR] - DUBLADO</jsonrpc>
+ <thumbnail>https://abutretorrents.com/imagens/em-busca-do-portal-magico-download-torrent-2018-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+ <genre>[B][COLOR firebrick]Aventura / Família / Fantasia</genre>
+ <fanart>https://abutretorrents.com/imagens/em-busca-do-portal-magico-download-torrent-2018-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
+ <info>[B][COLOR red] SINOPSE:Adaptação da história de mesmo título de Anna Onichimowska. É um conto poético sobre o quão difícil é ser uma criança no mundo adulto. Dawid e Monika são crianças e são vizinhos que rapidamente se tornam amigos. Relutante no início, Dawid gradualmente deixa a selvagem Monika puxá-lo ao seu mundo. O sonho de Monika é encontrar sua falecida avó que, de acordo com Monika, é uma dançarina de hula vivendo no Havaí. [COLOR red][/COLOR][/B]</info>	
+ </item> 
+
+
+  
+  
   <item> 
  <title>[B][COLOR white]Tom e Jerry no Velho Oeste- [COLOR red]Lançamento[COLOR red](2022) [/COLOR][/B]</title>
  <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6c6a0471e02487919f8d0ed7a04a6aed256651bd$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
