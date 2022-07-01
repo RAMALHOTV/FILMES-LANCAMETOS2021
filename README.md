@@ -14,7 +14,7 @@
  <item> 
  <title>[B][COLOR white]Em Busca do Portal Mágico- [COLOR red]Lançamento[COLOR red](2022) [/COLOR][/B]</title>
  <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:WTUALBSM4Y3I64NNFM6G6VT6RCVIF2UY$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
- <jsonrpc>Plugin://plugin.video.youtube/channel/SZcAflJjPYw/?page=0$nome=[COLOR lime]Trailer[/COLOR] - DUBLADO</jsonrpc>
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:WTUALBSM4Y3I64NNFM6G6VT6RCVIF2UY$nome=[COLOR lime]720P [/COLOR] - DUBLADO</link> 
  <thumbnail>https://abutretorrents.com/imagens/em-busca-do-portal-magico-download-torrent-2018-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
  <genre>[B][COLOR firebrick]Aventura / Família / Fantasia</genre>
  <fanart>https://abutretorrents.com/imagens/em-busca-do-portal-magico-download-torrent-2018-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
