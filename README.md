@@ -1,4 +1,24 @@
   
+  
+   <item> 
+ <title>[B][COLOR white]Castle Falls - [COLOR red]Lançamento[COLOR red](2022) [/COLOR][/B]</title>
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:AVPB7YBZIIBBGPUXDR5WBQH6CXNQRLGY$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:AVPB7YBZIIBBGPUXDR5WBQH6CXNQRLGY$nome=[COLOR lime]720 P[/COLOR] - DUBLADO</link> 
+ <thumbnail>https://abutretorrents.com/imagens/castle-falls-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+ <genre>[B][COLOR firebrick]Ação / Drama / Suspense</genre>
+ <fanart>https://abutretorrents.com/imagens/castle-falls-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
+ <info>[B][COLOR red] SINOPSE:A trama vai focar no lutador Mike, que consegue um emprego em um prédio prestes a ser demolido. No entanto, duas gangues comparecem ao local para retirar uma quantia enorme de dinheiro em um dos apartamentos, mas o lucro acaba caindo nas mãos do protagonista. [COLOR red][/COLOR][/B]</info>	
+ </item> 
+ <item> 
+ <title>[B][COLOR white]Assassino Sem Rastro - [COLOR red]Lançamento[COLOR red](2022) [/COLOR][/B]</title>
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3557A802E73D05D550CC129C01174A4FA65FE23D	$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3557A802E73D05D550CC129C01174A4FA65FE23D	$nome=[COLOR lime]720 P[/COLOR] - DUBLADO</link> 
+ <thumbnail>https://completotorrent.com/imagens/assassino-sem-rastro-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+ <genre>[B][COLOR firebrick]Ação / Terror</genre>
+ <fanart>https://completotorrent.com/imagens/assassino-sem-rastro-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
+ <info>[B][COLOR red] SINOPSE: [COLOR red][/COLOR][/B]</info>	
+ </item> 
+
  <item> 
  <title>[B][COLOR white]Dois Amigos e uma Ameaça Alienígena- [COLOR red]Lançamento[COLOR red](2022) [/COLOR][/B]</title>
  <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e04531efbd18eb92feea0eac493dd9450fcb2b07$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
