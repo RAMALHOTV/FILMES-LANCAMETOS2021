@@ -1,6 +1,24 @@
   
-  
-   <item> 
+  <item> 
+ <title>[B][COLOR white]Thor - Amor e Trovão- [COLOR red]Lançamento[COLOR red](2022) [/COLOR][/B]</title>
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:NI4FTZWUVES6JQCJSSEUQSSEXUODC6XH$nome=[COLOR lime]HDCAM CINEMA[/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:NI4FTZWUVES6JQCJSSEUQSSEXUODC6XH$nome=[COLOR lime]720 P[/COLOR] - DUBLADO</link> 
+ <thumbnail>https://abutretorrents.com/imagens/thor-amor-e-trovao-cam-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+ <genre>[B][COLOR firebrick]Ação / Aventura / Comédia</genre>
+ <fanart>https://abutretorrents.com/imagens/thor-amor-e-trovao-cam-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
+ <info>[B][COLOR red] SINOPSE:Thor encontra-se em uma jornada diferente de tudo que ele já enfrentou uma busca pela paz interior, mas sua aposentadoria é interrompida por um assassino galáctico conhecido como Gorr, o Carniceiro dos Deuses, que busca a extinção dos deuses. Para combater a ameaça, Thor pede a ajuda do Rei Valquíria, Korg, e da ex-namorada Jane Foster que para surpresa de Thor inexplicavelmente empunha seu martelo mágico, Mjolnir, revelando-se a Poderosa Thor. Juntos, eles embarcam em uma angustiante aventura cósmica para descobrir o mistério da vingança do Carniceiro dos Deuses e detê-lo antes que seja tarde demais. [COLOR red][/COLOR][/B]</info>	
+ </item> 
+
+ <item> 
+ <title>[B][COLOR white]Hot Seat - [COLOR red]Lançamento[COLOR red](2022) [/COLOR][/B]</title>
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:318aaab78322415390f67ea4fa0d82680787f3d0$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:318aaab78322415390f67ea4fa0d82680787f3d0$nome=[COLOR lime]720 P[/COLOR] - DUBLADO</link> 
+ <thumbnail>https://abutretorrents.com/imagens/hot-seat-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+ <genre>[B][COLOR firebrick]Suspense</genre>
+ <fanart>https://abutretorrents.com/imagens/hot-seat-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
+ <info>[B][COLOR red] SINOPSE:Um ex-hacker é forçado a invadir instituições bancárias de alto nível. Um jomem deve tentar entrar no prédio com armadilhas para tirar o jovem de perigo.[COLOR red][/COLOR][/B]</info>	
+ </item> 
+ <item> 
  <title>[B][COLOR white]Castle Falls - [COLOR red]Lançamento[COLOR red](2022) [/COLOR][/B]</title>
  <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:AVPB7YBZIIBBGPUXDR5WBQH6CXNQRLGY$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
  <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:AVPB7YBZIIBBGPUXDR5WBQH6CXNQRLGY$nome=[COLOR lime]720 P[/COLOR] - DUBLADO</link> 
@@ -9,15 +27,7 @@
  <fanart>https://abutretorrents.com/imagens/castle-falls-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
  <info>[B][COLOR red] SINOPSE:A trama vai focar no lutador Mike, que consegue um emprego em um prédio prestes a ser demolido. No entanto, duas gangues comparecem ao local para retirar uma quantia enorme de dinheiro em um dos apartamentos, mas o lucro acaba caindo nas mãos do protagonista. [COLOR red][/COLOR][/B]</info>	
  </item> 
- <item> 
- <title>[B][COLOR white]Assassino Sem Rastro - [COLOR red]Lançamento[COLOR red](2022) [/COLOR][/B]</title>
- <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3557A802E73D05D550CC129C01174A4FA65FE23D	$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
- <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3557A802E73D05D550CC129C01174A4FA65FE23D	$nome=[COLOR lime]720 P[/COLOR] - DUBLADO</link> 
- <thumbnail>https://completotorrent.com/imagens/assassino-sem-rastro-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
- <genre>[B][COLOR firebrick]Ação / Terror</genre>
- <fanart>https://completotorrent.com/imagens/assassino-sem-rastro-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
- <info>[B][COLOR red] SINOPSE: [COLOR red][/COLOR][/B]</info>	
- </item> 
+
 
  <item> 
  <title>[B][COLOR white]Dois Amigos e uma Ameaça Alienígena- [COLOR red]Lançamento[COLOR red](2022) [/COLOR][/B]</title>
