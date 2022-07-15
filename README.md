@@ -167,8 +167,8 @@
 
  <item> 
  <title>[B][COLOR white]Jurassic World - Domínio- [COLOR red]Lançamento[COLOR red](2022) [/COLOR][/B]</title>
- <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:MBNHTBK5HBTSZI3WIPP3NNPKKUNYBRM5$nome=[COLOR lime] CAM  [/COLOR] - DUBLADO</link> 
- <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:MBNHTBK5HBTSZI3WIPP3NNPKKUNYBRM5$nome=[COLOR lime]720 P[/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:NUYBZSYHROBMUAPMGXHBHCGND5A63GBB$nome=[COLOR lime] 1080P [/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:F4SHSE2HSU6ZZPMXETM5MPNYAJPQODDH$nome=[COLOR lime]720 P[/COLOR] - DUBLADO</link> 
  <thumbnail>https://abutretorrents.com/imagens/jurassic-world-dominio-cam-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
  <genre>[B][COLOR firebrick]Ação / Terror</genre>
  <fanart>https://abutretorrents.com/imagens/jurassic-world-dominio-cam-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
