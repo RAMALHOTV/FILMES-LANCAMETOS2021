@@ -1,4 +1,12 @@
-  
+   <item> 
+ <title>[B][COLOR white]Borrego - [COLOR red]Lançamento[COLOR red](2022) [/COLOR][/B]</title>
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4RIIQ4GTS5QYULNXLCAMDWPKTU76OMY3$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4RIIQ4GTS5QYULNXLCAMDWPKTU76OMY3$nome=[COLOR lime]720 P[/COLOR] - DUBLADO</link> 
+ <thumbnail>https://abutretorrents.com/imagens/borrego-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+ <genre>[B][COLOR firebrick]Suspense</genre>
+ <fanart>https://abutretorrents.com/imagens/borrego-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
+ <info>[B][COLOR red] SINOPSE:Uma jovem botânica se muda para uma pequena cidade deserta, para estudar uma nova espécie de plantas. Enquanto pesquisa, a jovem se depara com um avião caído cheio de drogas e é capturada pelos criminosos. [COLOR red][/COLOR][/B]</info>	
+ </item> 
   <item> 
  <title>[B][COLOR white]Thor - Amor e Trovão- [COLOR red]Lançamento[COLOR red](2022) [/COLOR][/B]</title>
  <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:NI4FTZWUVES6JQCJSSEUQSSEXUODC6XH$nome=[COLOR lime]HDCAM CINEMA[/COLOR] - DUBLADO</link> 
