@@ -1,3 +1,85 @@
+   
+
+
+ <item> 
+ <title>[B][COLOR white]Fúria - [COLOR red]Lançamento[COLOR red](2022) [/COLOR][/B]</title>
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3bc852c1bd872c5531494e74b66df599cc7fbcfe$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3bc852c1bd872c5531494e74b66df599cc7fbcfe$nome=[COLOR lime]720 P[/COLOR] - DUBLADO</link> 
+ <thumbnail>https://abutretorrents.com/imagens/furia-rabid-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+ <genre>[B][COLOR firebrick]Ação / Terror</genre>
+ <fanart>https://abutretorrents.com/imagens/furia-rabid-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</fanart>
+ <info>[B][COLOR red] SINOPSE:Após um acidente, Rose (Laura Vandervoot) fica irreconhecível e resolve participar de um tratamento de células ainda em fase de testes. Mesmo funcionando, o tratamento acaba trazendo efeitos colaterais mortais. [COLOR red][/COLOR][/B]</info>	
+ </item> 
+ <item> 
+ <title>[B][COLOR white]Agente Oculto  - [COLOR red]Lançamento[COLOR red](2022) [/COLOR][/B]</title>
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:H7467UIPDS43BSDZGKEL5FLPAND6VXJ6$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:H7467UIPDS43BSDZGKEL5FLPAND6VXJ6$nome=[COLOR lime]720 P[/COLOR] - DUBLADO</link> 
+ <thumbnail>https://abutretorrents.com/imagens/agente-oculto-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+ <genre>[B][COLOR firebrick]Ação / Terror</genre>
+ <fanart>https://abutretorrents.com/imagens/agente-oculto-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
+ <info>[B][COLOR red] SINOPSE:Court Gentry é um antigo agente da CIA que agora atua como assassino de aluguel, chamado Gray Man. Ele será caçado pelo ex-colega de CIA Lloyd Hansen.
+ [COLOR red][/COLOR][/B]</info>	
+ </item> 
+
+ <item> 
+ <title>[B][COLOR white]O Último Dragão - [COLOR red]Lançamento[COLOR red](2022) [/COLOR][/B]</title>
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:UY2VR6VJQD6H72Q7GJJ2CIY3QEF36XQU$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:UY2VR6VJQD6H72Q7GJJ2CIY3QEF36XQU$nome=[COLOR lime]720 P[/COLOR] - DUBLADO</link> 
+ <thumbnail>https://abutretorrents.com/imagens/o-ultimo-dragao-dragon-knight-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+ <genre>[B][COLOR firebrick]Ação / Terror</genre>
+ <fanart>https://abutretorrents.com/imagens/o-ultimo-dragao-dragon-knight-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</fanart>
+ <info>[B][COLOR red] SINOPSE: Quando uma força malévola tomar conta dos reinos de Agonos, um cavaleiro solitário deve embarcar numa perigosa busca para encontrar o último dragão e salvar o mundo grande e crescente...[COLOR red][/COLOR][/B]</info>	
+ </item> 
+
+ <item> 
+ <title>[B][COLOR white]Descascado- [COLOR red]Lançamento[COLOR red](2022) [/COLOR][/B]</title>
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:19a5a62129f6dc584d36236346c99b547d10fcb7$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:19a5a62129f6dc584d36236346c99b547d10fcb7$nome=[COLOR lime]720 P[/COLOR] - DUBLADO</link> 
+ <thumbnail>https://abutretorrents.com/imagens/descascado-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+ <genre>[B][COLOR firebrick]Ação / Terror</genre>
+ <fanart>https://abutretorrents.com/imagens/descascado-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
+ <info>[B][COLOR red] SINOPSE:Breno é um sujeito metódico ao extremo. Seu mundo particular é perturbado quando a bela Verônica aparece para convidá-lo a visitar uma mercearia nova. Prontamente, o contato desperta em Breno uma sensação deliciosa. [COLOR red][/COLOR][/B]</info>	
+ </item> 
+
+ <item> 
+ <title>[B][COLOR white]Caçada Selvagem- [COLOR red]Lançamento[COLOR red](2022) [/COLOR][/B]</title>
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3WALGIZNWRTFJPJWEMFMMLSHP7QBO24H$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3WALGIZNWRTFJPJWEMFMMLSHP7QBO24H$nome=[COLOR lime]720 P[/COLOR] - DUBLADO</link> 
+ <thumbnail>https://abutretorrents.com/imagens/cacada-selvagem-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+ <genre>[B][COLOR firebrick]Ação / Terror</genre>
+ <fanart>https://abutretorrents.com/imagens/cacada-selvagem-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
+ <info>[B][COLOR red] SINOPSE:Claire volta para casa diante das recentes notícias do falecimento de seu pai, e encontra seu desafiador filho de 13 anos. Quando a notícia se espalha sobre a grande herança seu filho é sequestrado por uma gangue local liderada por uma figura misteriosa conhecida apenas como "Pai". [COLOR red][/COLOR][/B]</info>	
+ </item> 
+
+ <item> 
+ <title>[B][COLOR white]Missão - Rússia- [COLOR red]Lançamento[COLOR red](2022) [/COLOR][/B]</title>
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:dcdb8bff36faf21d99b1fa4eb85e06899cc23f99$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:dcdb8bff36faf21d99b1fa4eb85e06899cc23f99$nome=[COLOR lime]720 P[/COLOR] - DUBLADO</link> 
+ <thumbnail>https://abutretorrents.com/imagens/missao-russia-download-torrent-2020-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+ <genre>[B][COLOR firebrick]Ação / Terror</genre>
+ <fanart>https://abutretorrents.com/imagens/missao-russia-download-torrent-2020-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
+ <info>[B][COLOR red] SINOPSE:Contratados para neutralizar uma força militar numa fábrica, um grupo de jovens mercenários se vê diante de um beco sem saída quando a operação não sai conforme o planejado. O ex-militar Nikita é contratado para neutralizar uma grande força de segurança privada em uma fábrica local, para que seu obscuro empregador possa realizar mais uma extorsão. Mas Nikita e seu grupo de mercenários conseguem mais do que esperavam quando descobrem que a fábrica pertence, na verdade, a um perigoso mafioso ligado aos militares russos. No momento em que a ‘aquisição hostil’ é concluída, Nikita revela que ele orquestrou sua própria missão secreta para se vingar pessoalmente do homem mais perigoso da Rússia. [COLOR red][/COLOR][/B]</info>	
+ </item> 
+
+ <item> 
+ <title>[B][COLOR white]Dakota- [COLOR red]Lançamento[COLOR red](2022) [/COLOR][/B]</title>
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:YZU6VO4AULCYL4WTFNHYSNKABDAGG5H7$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:YZU6VO4AULCYL4WTFNHYSNKABDAGG5H7$nome=[COLOR lime]720 P[/COLOR] - DUBLADO</link> 
+ <thumbnail>https://abutretorrents.com/imagens/dakota-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+ <genre>[B][COLOR firebrick]Ação / Terror</genre>
+ <fanart>https://abutretorrents.com/imagens/dakota-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
+ <info>[B][COLOR red] SINOPSE:Dakota, uma ex-cadela militar, se junta à mãe solteira Kate (Abbie Cornish) e sua filha Alex (Lola Sultan) para viver na fazenda da família em sua pequena cidade natal. Dakota rapidamente se ajusta à nova casa e se torna um tipo de heroína local, tornando-se inseparável de Alex. Mas quando a existência da fazenda é ameaçada pelo xerife desonesto da cidade (Patrick Muldoon), Dakota precisa ajudar a família a se unir e salvar a terra. [COLOR red][/COLOR][/B]</info>	
+ </item> 
+
+ <item> 
+ <title>[B][COLOR white]A Última Noite - Silent Night- [COLOR red]Lançamento[COLOR red](2022) [/COLOR][/B]</title>
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:961dd1c721d567912f539eec5f54b2c8f451262d$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:961dd1c721d567912f539eec5f54b2c8f451262d$nome=[COLOR lime]720 P[/COLOR] - DUBLADO</link> 
+ <thumbnail>https://abutretorrents.com/imagens/a-ultima-noite-silent-night-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+ <genre>[B][COLOR firebrick]Ação / Terror</genre>
+ <fanart>https://abutretorrents.com/imagens/a-ultima-noite-silent-night-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
+ <info>[B][COLOR red] SINOPSE:O casal Nell e Simon e seus amigos mais próximos juntam suas famílias para o jantar de Natal em sua incrível residência no interior da Inglaterra. A reunião lembra os bons e velhos tempos, mas por trás de todas as risadas e alegria, algo não está certo. O mundo exterior está enfrentando uma destruição iminente, e nenhum dos presentes natalinos, jogos em grupo ou Prosecco fará a destruição que promete dar fim a humanidade ir embora. Sobreviver às festividades será desafiador. [COLOR red][/COLOR][/B]</info>	
+ </item> 
    <item> 
  <title>[B][COLOR white]Borrego - [COLOR red]Lançamento[COLOR red](2022) [/COLOR][/B]</title>
  <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4RIIQ4GTS5QYULNXLCAMDWPKTU76OMY3$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
