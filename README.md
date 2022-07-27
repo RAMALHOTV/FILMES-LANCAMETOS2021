@@ -128,7 +128,7 @@
  </item> 
   <item> 
  <title>[B][COLOR white]Thor - Amor e Trovão- [COLOR red]Lançamento[COLOR red](2022) [/COLOR][/B]</title>
- <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:NI4FTZWUVES6JQCJSSEUQSSEXUODC6XH$nome=[COLOR lime]HDCAM CINEMA[/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:NUYBZSYHROBMUAPMGXHBHCGND5A63GBB$nome=[COLOR lime]HDCAM CINEMA[/COLOR] - DUBLADO</link> 
  <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:NI4FTZWUVES6JQCJSSEUQSSEXUODC6XH$nome=[COLOR lime]720 P[/COLOR] - DUBLADO</link> 
  <thumbnail>https://abutretorrents.com/imagens/thor-amor-e-trovao-cam-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
  <genre>[B][COLOR firebrick]Ação / Aventura / Comédia</genre>
