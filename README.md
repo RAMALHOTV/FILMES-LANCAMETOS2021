@@ -1,5 +1,13 @@
    
-
+<item> 
+ <title>[B][COLOR white]Chamas da Vingança - [COLOR red]Lançamento[COLOR red](2022) [/COLOR][/B]</title>
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih::5c35e2c42ccdec167424a3dbdf98981c4b0d36a6$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih::5c35e2c42ccdec167424a3dbdf98981c4b0d36a6$nome=[COLOR lime]720 P[/COLOR] - DUBLADO</link> 
+ <thumbnail>https://abutretorrents.com/imagens/chamas-da-vinganca-firestarter-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+ <genre>[B][COLOR firebrick]Ação / Terror</genre>
+ <fanart>https://abutretorrents.com/imagens/chamas-da-vinganca-firestarter-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
+ <info>[B][COLOR red] SINOPSE:Um pai (Zac Efron) precisa proteger sua filha com perigosos poderes pirotécnicos de uma agência secreta que pretende usá-los como armamento. [COLOR red][/COLOR][/B]</info>	
+ </item> 
 
 
  <item> 
