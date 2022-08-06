@@ -1,4 +1,35 @@
    
+
+
+ <item> 
+ <title>[B][COLOR white] O Predador - A Caçada - [COLOR red]Lançamento[COLOR red](2022) [/COLOR][/B]</title>
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:VUEKOYKBUPRNPEDKV4JRTGEISZLE27VY$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:VUEKOYKBUPRNPEDKV4JRTGEISZLE27VY$nome=[COLOR lime]720 P[/COLOR] - DUBLADO</link> 
+ <thumbnail>https://abutretorrents.com/imagens/o-predador-a-cacada-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+ <genre>[B][COLOR firebrick]Ação / Terror</genre>
+ <fanart>https://abutretorrents.com/imagens/o-predador-a-cacada-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
+ <info>[B][COLOR red] SINOPSE: A Caçada é umsuspense de ação e o mais novo lançamento da franquia Predador. Ambientada no mundo da Nação Comanche no início de 1700, o filme conta a história de Naru, uma jovem guerreira altamente qualificada, que foi criada entre os maiores caçadores que vagavam pelas Grandes Planícies. Confiante de que é tão capaz quanto os outros jovens caçadores, ela se propõe a proteger seu povo quando seu acampamento Comanche é ameaçado. Munida com armas primitivas, Naru encontra e confronta sua presa, que acaba sendo um predador alienígena altamente evoluído com um arsenal tecnologicamente avançado. O resultado é um confronto brutal e aterrorizante entre os adversários.[COLOR red][/COLOR][/B]</info>	
+ </item> 
+
+ <item> 
+ <title>[B][COLOR white]Treze Vidas - [COLOR red]Lançamento[COLOR red](2022) [/COLOR][/B]</title>
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:05c32469faba40e5a15d10f8c7938710f8ae89e9$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:05c32469faba40e5a15d10f8c7938710f8ae89e9$nome=[COLOR lime]720 P[/COLOR] - DUBLADO</link> 
+ <thumbnail>https://abutretorrents.com/imagens/treze-vidas-o-resgate-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+ <genre>[B][COLOR firebrick]Ação / Terror</genre>
+ <fanart>https://abutretorrents.com/imagens/treze-vidas-o-resgate-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
+ <info>[B][COLOR red] SINOPSE:  Uma missão de resgate é montada na Tailândia, onde um grupo de meninos e seu treinador de futebol estão presos em um sistema de cavernas inundadas e impenetrável. Baseado em uma história real.[COLOR red][/COLOR][/B]</info>	
+ </item> 
+
+ <item> 
+ <title>[B][COLOR white]Duplamente Grávida 2 - [COLOR red]Lançamento[COLOR red](2022) [/COLOR][/B]</title>
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:99690e9f59359888c4c0d39cdbd5dba0c659064b$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:99690e9f59359888c4c0d39cdbd5dba0c659064b$nome=[COLOR lime]720 P[/COLOR] - DUBLADO</link> 
+ <thumbnail>https://abutretorrents.com/imagens/duplamente-gravida-2-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+ <genre>[B][COLOR firebrick]Ação / Terror</genre>
+ <fanart>https://abutretorrents.com/imagens/duplamente-gravida-2-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
+ <info>[B][COLOR red] SINOPSE:Dez anos se passaram, e as coisas mudaram muito para Javier e Felipe. Agora eles são pais em tempo integral das filhas Sol e Luna. No entanto, eles percebem que as meninas sentem falta de uma mãe. Para resolver o problema, eles convidam suas namoradas para uma viagem com o plano secreto de descobrir qual delas seria a melhor mãe. E, é claro, nada sai como eles esperavam. [COLOR red][/COLOR][/B]</info>	
+ </item> 
 <item> 
  <title>[B][COLOR white]Chamas da Vingança - [COLOR red]Lançamento[COLOR red](2022) [/COLOR][/B]</title>
  <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih::5c35e2c42ccdec167424a3dbdf98981c4b0d36a6$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
