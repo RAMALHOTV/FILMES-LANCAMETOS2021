@@ -68,6 +68,36 @@
  <fanart>https://abutretorrents.com/imagens/heranca-download-torrent-2020-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
  <info>[B][COLOR red] SINOPSE: Lauren Monroe é uma proeminente advogada nova-iorquina cuja vida muda inteiramente com a morte do seu pai magnata. Quando a maior parte da fortuna dele é deixada para sua mãe e seu irmão, Lauren recebe um misterioso envelope contendo instruções que a leva a descobrir um obscuro segredo mantido por seu pai por cerca de três décadas.[COLOR red][/COLOR][/B]</info>	
  </item> 
+ 
+
+
+ <item> 
+ <title>[B][COLOR white]A Última Vítima- [COLOR red]Lançamento[COLOR red](2022) [/COLOR][/B]</title>
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:UOZVYUKMIVB7C2ZGSDVYMNVHXOYDEV7R$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:UOZVYUKMIVB7C2ZGSDVYMNVHXOYDEV7R$nome=[COLOR lime]720 P[/COLOR] - DUBLADO</link> 
+ <thumbnail>https://abutretorrents.com/imagens/a-ultima-vitima-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+ <genre>[B][COLOR firebrick]Ação / Policial / Suspense</genre>
+ <fanart>https://abutretorrents.com/imagens/a-ultima-vitima-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</fanart>
+ <info>[B][COLOR red] SINOPSE: Um assassino, Keele, é encarregado de matar uma testemunha que pode ligar ele e seu parceiro psicótico, Palmer, a um assassinato recente. Esta execução de rotina desmorona devido a uma crise de consciência. Ele rapidamente descobre que, Peyton, é o alvo mais difícil de sua carreira.[COLOR red][/COLOR][/B]</info>	
+ </item> 
+ <item> 
+ <title>[B][COLOR white]Dual - [COLOR red]Lançamento[COLOR red](2022) [/COLOR][/B]</title>
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5952af3c1b645d6e3df9536fbce1d6b6a2e70a68$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5952af3c1b645d6e3df9536fbce1d6b6a2e70a68$nome=[COLOR lime]720 P[/COLOR] - DUBLADO</link> 
+ <thumbnail>https://abutretorrents.com/imagens/dual-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+ <genre>[B][COLOR firebrick]Ficção / Suspense</genre>
+ <fanart>https://abutretorrents.com/imagens/dual-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
+ <info>[B][COLOR red] SINOPSE: Após receber um diagnóstico terminal, uma mulher (Karen Gillan) resolve se clonar para amenizar a dor da perda em sua família e amigos. Mas, quando ela acaba se recuperando milagrosamente, suas tentativas para cancelar seu clone levam a justiça a encomendar um duelo até a morte.[COLOR red][/COLOR][/B]</info>	
+ </item> 
+ <item> 
+ <title>[B][COLOR white]Tudo em Todo o Lugar ao Mesmo Tempo- [COLOR red]Lançamento[COLOR red](2022) [/COLOR][/B]</title>
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:DREQ7F7USBK26SJHWKZDDF7OZQK4PUAU$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:DREQ7F7USBK26SJHWKZDDF7OZQK4PUAU$nome=[COLOR lime]720 P[/COLOR] - DUBLADO</link> 
+ <thumbnail>https://abutretorrents.com/imagens/tudo-em-todo-o-lugar-ao-mesmo-tempo-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+ <genre>[B][COLOR firebrick]Ação / Terror</genre>
+ <fanart>https://abutretorrents.com/imagens/tudo-em-todo-o-lugar-ao-mesmo-tempo-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
+ <info>[B][COLOR red] SINOPSE:Evelyn Wang (Michelle Yeoh) é uma cansada mulher chinesa que luta para se manter e manter a vida da família nos Estados Unidos. O marido quer o divórcio, a filha se mostra rebelde e o pai está doente. Mas tudo fica anda mais estranho quando ela descobre que é a chave para salvar o multiverso, e pode acessar o conhecimento e os talentos de todos os seus vários "eus" através dos infinitos universos. [COLOR red][/COLOR][/B]</info>	
+ </item> 
 
  <item> 
  <title>[B][COLOR white]Fúria - [COLOR red]Lançamento[COLOR red](2022) [/COLOR][/B]</title>
