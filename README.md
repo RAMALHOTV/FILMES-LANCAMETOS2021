@@ -72,6 +72,36 @@
 
 
  <item> 
+ <title>[B][COLOR white]Modo Herói- [COLOR red]Lançamento[COLOR red](2022) [/COLOR][/B]</title>
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b8bce5d58f9acff1698b3038999be78bcb0cb781$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b8bce5d58f9acff1698b3038999be78bcb0cb781$nome=[COLOR lime]720 P[/COLOR] - DUBLADO</link> 
+ <thumbnail>https://abutretorrents.com/imagens/modo-heroi-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+ <genre>[B][COLOR firebrick]Ação / Terror</genre>
+ <fanart>https://abutretorrents.com/imagens/modo-heroi-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
+ <info>[B][COLOR red] SINOPSE:Com a empresa familiar à beira da falência, um adolescente gênio da programação deve cumprir uma difícil tarefa: criar o melhor jogo de videogame do mundo para salvar sua família e os negócios. [COLOR red][/COLOR][/B]</info>	
+ </item> 
+ <item> 
+ <title>[B][COLOR white]O Despertar das Tartarugas Ninja - O Filme - [COLOR red]Lançamento[COLOR red](2022) [/COLOR][/B]</title>
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:82b3867f3d7e863016d8f6536f641720389d56e7$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:82b3867f3d7e863016d8f6536f641720389d56e7$nome=[COLOR lime]720 P[/COLOR] - DUBLADO</link> 
+ <thumbnail>https://abutretorrents.com/imagens/o-despertar-das-tartarugas-ninja-o-filme-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+ <genre>[B][COLOR firebrick]Ação / Terror</genre>
+ <fanart>https://abutretorrents.com/imagens/o-despertar-das-tartarugas-ninja-o-filme-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
+ <info>[B][COLOR red] SINOPSE:Os poderes místicos das tartarugas ninja são colocados à prova quando criaturas impiedosas de outro universo tentam instaurar o caos. [COLOR red][/COLOR][/B]</info>	
+ </item> 
+
+ <item> 
+ <title>[B][COLOR white]Carter- [COLOR red]Lançamento[COLOR red](2022) [/COLOR][/B]</title>
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9be3de7cf56b6766ed4f26425fbec1b7911dd960$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9be3de7cf56b6766ed4f26425fbec1b7911dd960$nome=[COLOR lime]720 P[/COLOR] - DUBLADO</link> 
+ <thumbnail>https://abutretorrents.com/imagens/carter-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+ <genre>[B][COLOR firebrick]Ação / Suspense</genre>
+ <fanart>https://abutretorrents.com/imagens/carter-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
+ <info>[B][COLOR red] SINOPSE: Meu nome é Carter. Por favor, confie em mim, se quiser sobreviver. Uma pandemia originada na Zona Desmilitarizada da Coreia assola os Estados Unidos e a Coreia do Norte. Dois meses depois, Carter acorda sem memória, com um dispositivo misterioso na cabeça, uma bomba letal dentro da boca e recebendo ordens de uma voz estranha. A bomba pode ser detonada a qualquer momento, a menos que ele resgate a garota que é o único antídoto para o vírus. Mas, para isso, ele vai ter que encarar a CIA e um golpe na Coreia do Norte. Para concluir a missão, Carter precisa ir para o Norte e encontrar a garota. Este filme de ação em plano sequência acompanha a luta de um homem pela sobrevivência.[COLOR red][/COLOR][/B]</info>	
+ </item> 
+
+
+ <item> 
  <title>[B][COLOR white]A Última Vítima- [COLOR red]Lançamento[COLOR red](2022) [/COLOR][/B]</title>
  <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:UOZVYUKMIVB7C2ZGSDVYMNVHXOYDEV7R$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
  <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:UOZVYUKMIVB7C2ZGSDVYMNVHXOYDEV7R$nome=[COLOR lime]720 P[/COLOR] - DUBLADO</link> 
