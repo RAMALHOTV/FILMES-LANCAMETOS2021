@@ -1,5 +1,23 @@
    
+ <item> 
+ <title>[B][COLOR white]Uma Amizade Tóxica - [COLOR red]Lançamento[COLOR red](2022) [/COLOR][/B]</title>
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7OU3VKJHKKFYDCNDT6TZWTICWSVXP763$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7OU3VKJHKKFYDCNDT6TZWTICWSVXP763$nome=[COLOR lime]720 P[/COLOR] - DUBLADO</link> 
+ <thumbnail>https://abutretorrents.com/imagens/uma-amizade-toxica-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+ <genre>[B][COLOR firebrick]Ação / Drama</genre>
+ <fanart>https://abutretorrents.com/imagens/uma-amizade-toxica-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
+ <info>[B][COLOR red] SINOPSE:Maya e Jana são adolescentes e inseparáveis. Jana costuma assumir a liderança das ações e é seguida pela amiga. Até que um dia, ela convence Maya a postar um vídeo em que Elena, a garota mais popular da escola, aparece fazendo sexo com o interesse amoroso de Maya. O vídeo viraliza e Elena vê sua vida destruída. Após um violento confronto entre as três garotas, Elena desaparece. Maya quer ir à polícia, mas isso não está nos planos de Jana. Maya, então, passa a ser o seu novo alvo, ao mesmo tempo em que tenta encontrar coragem para sair desse relacionamento tóxico e lidar com o segredo que ameaça arruinar o seu futuro. [COLOR red][/COLOR][/B]</info>	
+ </item> 
 
+ <item> 
+ <title>[B][COLOR white] Princesa Por Acidente- [COLOR red]Lançamento[COLOR red](2022) [/COLOR][/B]</title>
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:DJURHVTMUL5225LOGEAQQZ72KDJQKXY3$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:DJURHVTMUL5225LOGEAQQZ72KDJQKXY3$nome=[COLOR lime]720 P[/COLOR] - DUBLADO</link> 
+ <thumbnail>https://abutretorrents.com/imagens/princesa-por-acidente-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+ <genre>[B][COLOR firebrick]Animação / Aventura / Fantasia</genre>
+ <fanart>https://abutretorrents.com/imagens/princesa-por-acidente-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
+ <info>[B][COLOR red] SINOPSE:Quando Lia vê o príncipe do reino ser transformado em uma criatura metade galinha metade gato, a pequena órfã promete ajudá-lo a sair dessa em troca de um tesouro. Disfarçada de princesa, começa uma aventura em busca do antídoto mágico. [COLOR red][/COLOR][/B]</info>	
+ </item> 
 
  <item> 
  <title>[B][COLOR white] O Predador - A Caçada - [COLOR red]Lançamento[COLOR red](2022) [/COLOR][/B]</title>
