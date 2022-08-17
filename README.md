@@ -1,4 +1,47 @@
    
+
+ <item> 
+ <title>[B][COLOR white] Dupla Jornada - [COLOR red]Lançamento[COLOR red](2022) [/COLOR][/B]</title>
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0f83d2082eae23f2616a2c1a1734d4b4445523a8$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0f83d2082eae23f2616a2c1a1734d4b4445523a8$nome=[COLOR lime]720 P[/COLOR] - DUBLADO</link> 
+ <thumbnail>https://abutretorrents.com/imagens/dupla-jornada-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+ <genre>[B][COLOR firebrick]Ação / Comédia / Fantasia</genre>
+ <fanart>https://abutretorrents.com/imagens/dupla-jornada-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
+ <info>[B][COLOR red] SINOPSE:Um pai trabalhador só quer dar uma vida melhor para sua filha de 8 anos, mas seu trabalho de limpeza de piscinas em San Fernando Valley é uma fachada para sua verdadeira fonte de renda, caçar e matar vampiros. [COLOR red][/COLOR][/B]</info>	
+ </item> 
+
+ <item> 
+ <title>[B][COLOR white]Minions 2 - A Origem de Gru- [COLOR red]Lançamento[COLOR red](2022) [/COLOR][/B]</title>
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:PFASRIQGLAVB7DHVN3AYCPNB3T4ZGPYZ$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:WZFAE7V2FOC7DB6Q6OSUJMGANZXKYCPN$nome=[COLOR lime]720 P[/COLOR] - DUBLADO</link> 
+ <thumbnail>https://abutretorrents.com/imagens/minions-2-a-origem-de-gru-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+ <genre>[B][COLOR firebrick]Animação / Aventura / Comédia</genre>
+ <fanart>https://abutretorrents.com/imagens/minions-2-a-origem-de-gru-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
+ <info>[B][COLOR red] SINOPSE:Minions 2‘ dá continuidade as aventuras das criaturas amarelas que conquistaram o mundo todo. Os Minions estão sempre à procura de um líder malvado. Eis que encontram um menino de 12 anos e o ajudam a se transformar no maior supervilão de todo o mundo. [COLOR red][/COLOR][/B]</info>	
+ </item> 
+
+ <item> 
+ <title>[B][COLOR white]Linhas Opostas - [COLOR red]Lançamento[COLOR red](2022) [/COLOR][/B]</title>
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:LICF7QRAMVND4RJVL66IYS5WFQ54S7OW$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:LICF7QRAMVND4RJVL66IYS5WFQ54S7OW$nome=[COLOR lime]720 P[/COLOR] - DUBLADO</link> 
+ <thumbnail>https://abutretorrents.com/imagens/linhas-opostas-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+ <genre>[B][COLOR firebrick]Ação / Drama / Policial</genre>
+ <fanart>https://abutretorrents.com/imagens/linhas-opostas-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
+ <info>[B][COLOR red] SINOPSE:Um prodígio da natação de 15 anos se autodestrói depois que seu pai é libertado da prisão. [COLOR red][/COLOR][/B]</info>	
+ </item> 
+
+ <item> 
+ <title>[B][COLOR white]Small World - [COLOR red]Lançamento[COLOR red](2022) [/COLOR][/B]</title>
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b4515d1c3ccf0c26e3ff59754c6987bcdd7af939$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b4515d1c3ccf0c26e3ff59754c6987bcdd7af939$nome=[COLOR lime]720 P[/COLOR] - DUBLADO</link> 
+ <thumbnail>https://abutretorrents.com/imagens/small-world-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+ <genre>[B][COLOR firebrick]Ação / Drama / Policial</genre>
+ <fanart>https://abutretorrents.com/imagens/small-world-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</fanart>
+ <info>[B][COLOR red] SINOPSE:Uma mãe descobre que sua filha de 4 anos, Ola, foi sequestrada pela máfia russa, logo após a criança desaparecer de uma pequena cidade polonesa. Em busca de sua filha, ela é parada por excesso de velocidade por um policial, Robert Goc. Sua intervenção resulta na fuga dos sequestradores pela fronteira. Sentindo-se culpado por não ter impedido o sequestro, Robert se envolve em uma investigação internacional para encontrar a garota desaparecida. [COLOR red][/COLOR][/B]</info>	
+ </item> 
+
+
+
  <item> 
  <title>[B][COLOR white]Uma Amizade Tóxica - [COLOR red]Lançamento[COLOR red](2022) [/COLOR][/B]</title>
  <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7OU3VKJHKKFYDCNDT6TZWTICWSVXP763$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
