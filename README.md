@@ -39,7 +39,15 @@
  <fanart>https://abutretorrents.com/imagens/small-world-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</fanart>
  <info>[B][COLOR red] SINOPSE:Uma mãe descobre que sua filha de 4 anos, Ola, foi sequestrada pela máfia russa, logo após a criança desaparecer de uma pequena cidade polonesa. Em busca de sua filha, ela é parada por excesso de velocidade por um policial, Robert Goc. Sua intervenção resulta na fuga dos sequestradores pela fronteira. Sentindo-se culpado por não ter impedido o sequestro, Robert se envolve em uma investigação internacional para encontrar a garota desaparecida. [COLOR red][/COLOR][/B]</info>	
  </item> 
-
+<item> 
+ <title>[B][COLOR white]Perigo Iminente - [COLOR red]Lançamento[COLOR red](2022) [/COLOR][/B]</title>
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1762a6b26d8738406524d9714ee74997228b1f90$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1762a6b26d8738406524d9714ee74997228b1f90$nome=[COLOR lime]720 P[/COLOR] - DUBLADO</link> 
+ <thumbnail>https://abutretorrents.com/imagens/perigo-iminente-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+ <genre>[B][COLOR firebrick]Ação / Terror</genre>
+ <fanart>https://abutretorrents.com/imagens/perigo-iminente-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
+ <info>[B][COLOR red] SINOPSE:Vietnã,18 agosto de 1966. por três horas e meia, na chuva, no meio da lama e árvores quebradas de uma plantação de borracha chamado Long Tan, o major Harry Smith e sua companhia de 108 jovens estão lutando por suas vidas para triunfar sobre um futuro incerto com honra, decência e coragem. A batalha de Long Tan é uma das mais selvagens e decisivas na história ANZAC. [COLOR red][/COLOR][/B]</info>	
+ </item> 
 
 
  <item> 
