@@ -1,4 +1,12 @@
-   
+ <item> 
+ <title>[B][COLOR white]Caçando Ava Bravo- [COLOR red]Lançamento[COLOR red](2022) [/COLOR][/B]</title>
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:AA4MTKHGTMN4GHZVE5CST4L3AYR4L7TM$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:AA4MTKHGTMN4GHZVE5CST4L3AYR4L7TM$nome=[COLOR lime]720 P[/COLOR] - DUBLADO</link> 
+ <thumbnail>https://abutretorrents.com/imagens/cacando-ava-bravo-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+ <genre>[B][COLOR firebrick]Ação / Suspense</genre>
+ <fanart>https://abutretorrents.com/imagens/cacando-ava-bravo-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
+ <info>[B][COLOR red] SINOPSE:Buddy King, um bilionário excêntrico, passo seu tempo caçando pessoas escondido nas montanhas nevadas. Mas sua última vítima, Ava Bravo, não será um alvo fácil. [COLOR red][/COLOR][/B]</info>	
+ </item> 
 
  <item> 
  <title>[B][COLOR white] Dupla Jornada - [COLOR red]Lançamento[COLOR red](2022) [/COLOR][/B]</title>
