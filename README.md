@@ -1,4 +1,14 @@
  <item> 
+ <title>[B][COLOR white]365 Dias - Finais - [COLOR red]Lançamento[COLOR red](2022) [/COLOR][/B]</title>
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:CTZZ7XIZDDATD22MBEM3PR2ZLSPKTEC7$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:CTZZ7XIZDDATD22MBEM3PR2ZLSPKTEC7$nome=[COLOR lime]720 P[/COLOR] - DUBLADO</link> 
+ <thumbnail>https://abutretorrents.com/imagens/365-dias-finais-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+ <genre>[B][COLOR firebrick]Ação / Terror</genre>
+ <fanart>https://abutretorrents.com/imagens/365-dias-finais-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
+ <info>[B][COLOR red] SINOPSE:Em 365 Dias: Finais, após o ocorrido no filme anterior, os melhores médicos lutam pela vida de Laura. Seu marido, Massimo, terá que tomar uma das decisões mais difíceis de sua vida: salvar Laura ou seu filho. Que decisão ele irá tomar? Ele saberá viver sem a mulher que ama? Será capaz de criar um filho sozinho? [COLOR red][/COLOR][/B]</info>	
+ </item> 
+ 
+ <item> 
  <title>[B][COLOR white]Caçando Ava Bravo- [COLOR red]Lançamento[COLOR red](2022) [/COLOR][/B]</title>
  <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:AA4MTKHGTMN4GHZVE5CST4L3AYR4L7TM$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
  <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:AA4MTKHGTMN4GHZVE5CST4L3AYR4L7TM$nome=[COLOR lime]720 P[/COLOR] - DUBLADO</link> 
