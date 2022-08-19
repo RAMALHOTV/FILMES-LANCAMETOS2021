@@ -1,4 +1,14 @@
  <item> 
+ <title>[B][COLOR white] O Atirador - Missão Secreta - [COLOR red]Lançamento[COLOR red](2022) [/COLOR][/B]</title>
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b819c76c62837225c38f512eb39a2cfbd87bb452$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b819c76c62837225c38f512eb39a2cfbd87bb452$nome=[COLOR lime]720 P[/COLOR] - DUBLADO</link> 
+ <thumbnail>https://abutretorrents.com/imagens/o-atirador-missao-secreta-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+ <genre>[B][COLOR firebrick]Ação / Terror</genre>
+ <fanart>https://abutretorrents.com/imagens/o-atirador-missao-secreta-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
+ <info>[B][COLOR red] SINOPSE:Argento norte-americano vai para a guerra do Iraque e à noite, depois de arriscadas missões, escreve um diário para o filho que acabou de nascer. O soldado morre e quando a mãe Dana Canedy, jornalista do The New York Times recebe o corpo e os pertences do soldado, comove-se com o diário. [COLOR red][/COLOR][/B]</info>	
+ </item> 
+
+<item> 
  <title>[B][COLOR white]365 Dias - Finais - [COLOR red]Lançamento[COLOR red](2022) [/COLOR][/B]</title>
  <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:CTZZ7XIZDDATD22MBEM3PR2ZLSPKTEC7$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
  <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:CTZZ7XIZDDATD22MBEM3PR2ZLSPKTEC7$nome=[COLOR lime]720 P[/COLOR] - DUBLADO</link> 
