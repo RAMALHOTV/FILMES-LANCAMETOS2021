@@ -1,3 +1,55 @@
+ 
+ <item> 
+ <title>[B][COLOR white]Top Gun - Maverick- [COLOR red]Lançamento[COLOR red](2022) [/COLOR][/B]</title>
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:MYT6SQDHXQR2FFLIBRHGFL6JKSBOF66$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1e9f13521894181ccf34ef2aa181c8f110a24303$nome=[COLOR lime]2160P ULTRA HD 4K[/COLOR] - DUBLADO</link> 
+ <thumbnail>https://abutretorrents.com/imagens/top-gun-maverick-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+ <genre>[B][COLOR firebrick]Ação / Drama</genre>
+ <fanart>https://abutretorrents.com/imagens/top-gun-maverick-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</fanart>
+ <info>[B][COLOR red] SINOPSE:Após 34 anos na força, o lendário Capitão Pete "Maverick" Mitchell (Tom Cruise) se torna o novo instrutor de voo da Top Gun, fazendo com que ele seja o mentor de Bradley Bradshaw (Miles Teller), o filho de Goose, que busca ser um piloto melhor do que o seu pai foi. [COLOR red][/COLOR][/B]</info>	
+ </item> 
+
+ <item> 
+ <title>[B][COLOR white]Samaritano - [COLOR red]Lançamento[COLOR red](2022) [/COLOR][/B]</title>
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6429b3fe8614b55b429bc2eb023e1553118ec2f2$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6429b3fe8614b55b429bc2eb023e1553118ec2f2$nome=[COLOR lime]720 P[/COLOR] - DUBLADO</link> 
+ <thumbnail>https://abutretorrents.com/imagens/samaritano-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+ <genre>[B][COLOR firebrick]Ação / Drama / Fantasia</genre>
+ <fanart>https://abutretorrents.com/imagens/samaritano-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
+ <info>[B][COLOR red] SINOPSE:Baseado em uma ideia original, o thriller se concentra em um garoto que está prestes a descobrir se um super-herói mítico, que desapareceu 20 anos antes de um evento trágico, ainda está vivo. [COLOR red][/COLOR][/B]</info>	
+ </item> 
+
+ <item> 
+ <title>[B][COLOR white]De Férias da Família - [COLOR red]Lançamento[COLOR red](2022) [/COLOR][/B]</title>
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:031a63e5cfd3ec76c2de7a87e418cc04cf8a662b$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:031a63e5cfd3ec76c2de7a87e418cc04cf8a662b$nome=[COLOR lime]720 P[/COLOR] - DUBLADO</link> 
+ <thumbnail>https://abutretorrents.com/imagens/de-ferias-da-familia-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+ <genre>[B][COLOR firebrick]Comédia</genre>
+ <fanart>https://abutretorrents.com/imagens/de-ferias-da-familia-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
+ <info>[B][COLOR red] SINOPSE:A trama besteirol segue um pai que acabou deixando a vida social de lado após ter filhos, e agora tira uma "folga" da família para deixar a cabeça mais leve. Quando a família toda viaja, esse pai dono de casa se depara com um tempo só para ele. Seu melhor amigo das antigas reaparece e eles aproveitam um final de semana épico, que quase vira a vida dele de cabeça para baixo.[COLOR red][/COLOR][/B]</info>	
+ </item> 
+
+ <item> 
+ <title>[B][COLOR white]Kaamelott - Premier Volet - [COLOR red]Lançamento[COLOR red](2022) [/COLOR][/B]</title>
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:XWT3HOIKACMXESPVGD26FGGKGM53I3EH$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:XWT3HOIKACMXESPVGD26FGGKGM53I3EH$nome=[COLOR lime]720 P[/COLOR] - DUBLADO</link> 
+ <thumbnail>https://abutretorrents.com/imagens/kaamelott-premier-volet-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+ <genre>[B][COLOR firebrick]Aventura / Comédia / Fantasia</genre>
+ <fanart>https://abutretorrents.com/imagens/kaamelott-premier-volet-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
+ <info>[B][COLOR red] SINOPSE:Escondido em Roma, o rei Arthur planeja seu retorno para se opor ao exército de seu ex-amigo Lancelot. O tirânico Lancelot-du-Lac e seus mercenários saxões estão reinando no terror sobre o reino de Logres. Os deuses, insultados por esta ditadura cruel, provocam o retorno de Artur Pendragon e o advento da resistência. Será que Artur conseguirá unir os clãs rebeldes, derrubar seu rival, retomar Camelot e restaurar a paz na ilha da Bretanha?[COLOR red][/COLOR][/B]</info>	
+ </item> 
+
+ <item> 
+ <title>[B][COLOR white]Código de Lei - [COLOR red]Lançamento[COLOR red](2022) [/COLOR][/B]</title>
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ZZLHFRMPMMPHCPWLACCA7OIQ55SQIVOM$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ZZLHFRMPMMPHCPWLACCA7OIQ55SQIVOM$nome=[COLOR lime]720 P[/COLOR] - DUBLADO</link> 
+ <thumbnail>https://abutretorrents.com/imagens/codigo-de-lei-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+ <genre>[B][COLOR firebrick]Ação / Terror</genre>
+ <fanart>https://abutretorrents.com/imagens/codigo-de-lei-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
+ <info>[B][COLOR red] SINOPSE:Situado numa América distópica onde todas as pessoas que não são heterossexuais, brancas, cristãs e cis são seguidas pelo governo e marcadas com códigos de barras.[COLOR red][/COLOR][/B]</info>	
+ </item> 
+
+ 
  <item> 
  <title>[B][COLOR white] O Atirador - Missão Secreta - [COLOR red]Lançamento[COLOR red](2022) [/COLOR][/B]</title>
  <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b819c76c62837225c38f512eb39a2cfbd87bb452$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
