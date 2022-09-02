@@ -1,4 +1,12 @@
- 
+ <item> 
+ <title>[B][COLOR white]Vizinhos- [COLOR red]Lançamento[COLOR red](2022) [/COLOR][/B]</title>
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6d64dffd4e7bbb3e7ef8f7fe5f517bb6b33f7a00$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:618c78a47a0a3e296bc236a08ff4755203ee17dd$nome=[COLOR lime]2160P ULTRA HD 4K[/COLOR] - DUBLADO</link> 
+ <thumbnail>https://abutretorrents.com/imagens/vizinhos-nacional-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+ <genre>[B][COLOR firebrick]Ação / Drama</genre>
+ <fanart>https://abutretorrents.com/imagens/vizinhos-nacional-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
+ <info>[B][COLOR red] SINOPSE:Walter, um cara bem estressado, um dia entra em colapso. Por orientação médica, ele abandona a vida urbana e busca o sossego em uma cidade pequena, cercada de paz e natureza. Porém, os planos de relaxamento vão por água abaixo por causa de um vizinho muito animado, o Toninho da Vila, que ensaia com sua escola de samba no ouvido do Walter. [COLOR red][/COLOR][/B]</info>	
+ </item> 
  <item> 
  <title>[B][COLOR white]Top Gun - Maverick- [COLOR red]Lançamento[COLOR red](2022) [/COLOR][/B]</title>
  <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:MYT6SQDHXQR2FFLIBRHGFL6JKSBOF66$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
