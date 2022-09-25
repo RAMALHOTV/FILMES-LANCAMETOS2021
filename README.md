@@ -1,4 +1,33 @@
  <item> 
+ <title>[B][COLOR white]he Infernal Machine- [COLOR red]Lançamento[COLOR red](2022) [/COLOR][/B]</title>
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5b9312aacdbdffa7b0bcbe2f1b482983ff79a777$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5b9312aacdbdffa7b0bcbe2f1b482983ff79a777$nome=[COLOR lime]720P[/COLOR] - DUBLADO</link> 
+ <thumbnail>https://abutretorrents.com/imagens/the-infernal-machine-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+ <genre>[B][COLOR firebrick]Ação / Drama</genre>
+ <fanart>https://abutretorrents.com/imagens/the-infernal-machine-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
+ <info>[B][COLOR red] SINOPSE:O recluso e controverso autor Bruce Cogburn é tirado do esconderijo por um fã obsessivo, forçando o romancista a confrontar um passado do qual ele achava que poderia escapar e a explicar os eventos desencadeados por seu best-seller décadas antes. A busca de Cogburn por quem está por trás da manipulação e do tormento mental que ele encontra leva a uma montanha-russa emocional cheia de medo e perigo, onde as coisas nem sempre são tão claras quanto parecem e onde ações passadas podem ter consequências terríveis. [COLOR red][/COLOR][/B]</info>	
+ </item> 
+
+ <item> 
+ <title>[B][COLOR white]Fullmetal Alchemist - A Alquimia Final - [COLOR red]Lançamento[COLOR red](2022) [/COLOR][/B]</title>
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:UXPPFMTP6U35YAUV7GDYGXAWWGNYZNLA$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:UXPPFMTP6U35YAUV7GDYGXAWWGNYZNLA$nome=[COLOR lime]720P[/COLOR] - DUBLADO</link> 
+ <thumbnail>https://abutretorrents.com/imagens/fullmetal-alchemist-a-alquimia-final-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+ <genre>[B][COLOR firebrick]Ação / Drama</genre>
+ <fanart>https://abutretorrents.com/imagens/fullmetal-alchemist-a-alquimia-final-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
+ <info>[B][COLOR red] SINOPSE:À medida que uma conspiração sombria começa a se desenrolar, os irmãos Eric precisarão de toda a ajuda que puderem para deter as forças do mal e encerrar sua longa e ampla jornada. Segunda parte da última adaptação live-action de ''Fullmetal Alchemist'', baseado no mangá homónimo de Arakawa Hiromu. [COLOR red][/COLOR][/B]</info>	
+ </item> 
+ <item> 
+ <title>[B][COLOR white]Lou- [COLOR red]Lançamento[COLOR red](2022) [/COLOR][/B]</title>
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:faba1b1a9c3af2c1fec917e8b629d82ba057425f$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:faba1b1a9c3af2c1fec917e8b629d82ba057425f$nome=[COLOR lime]720P[/COLOR] - DUBLADO</link> 
+ <thumbnail>https://abutretorrents.com/imagens/lou-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+ <genre>[B][COLOR firebrick]Ação / Drama</genre>
+ <fanart>https://abutretorrents.com/imagens/lou-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
+ <info>[B][COLOR red] SINOPSE:Uma mulher é recrutada por uma vizinha para ajudar a encontrar sua filha sequestrada. Lou (Allison Janney) leva uma vida tranquila, acreditando ter abandonado seu passado perigoso. Até que uma mulher desesperada (Jurnee Smollett) implora a ajuda dela para salvar a filha sequestrada. Em meio a uma grande tempestade, as duas se arriscam em uma missão de resgate que coloca seus limites à prova e revela terríveis segredos do passado. O filme é estrelado pela vencedora do Oscar Allison Janney e a indicada ao Emmy Jurnee Smollett, com Logan Marshall-Green e Ridley Asha Bateman. Direção de Anna Foerster, roteiro de Maggie Cohn e Jack Stanley e produção de JJ Abrams, Hannah Minghella e Jon Cohen, da Bad Robot. [COLOR red][/COLOR][/B]</info>	
+ </item> 
+ 
+ <item> 
  <title>[B][COLOR white]Vizinhos- [COLOR red]Lançamento[COLOR red](2022) [/COLOR][/B]</title>
  <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6d64dffd4e7bbb3e7ef8f7fe5f517bb6b33f7a00$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
  <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:618c78a47a0a3e296bc236a08ff4755203ee17dd$nome=[COLOR lime]2160P ULTRA HD 4K[/COLOR] - DUBLADO</link> 
