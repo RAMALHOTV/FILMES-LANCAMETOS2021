@@ -1,3 +1,45 @@
+  
+
+ <item> 
+ <title>[B][COLOR white]Esquadrão Secreto - [COLOR red]Lançamento[COLOR red](2022) [/COLOR][/B]</title>
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:WHESC2SNWTEKOWLU3VAKMS7MRPXG5CWR$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:WHESC2SNWTEKOWLU3VAKMS7MRPXG5CWR$nome=[COLOR lime]720P[/COLOR] - DUBLADO</link> 
+ <thumbnail>https://abutretorrents.com/imagens/esquadrao-secreto-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+ <genre>[B][COLOR firebrick]Ação / Aventura / Comédia</genre>
+ <fanart>https://abutretorrents.com/imagens/esquadrao-secreto-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
+ <info>[B][COLOR red] SINOPSE:Enquanto saíam depois da escola, Charlie e seus amigos descobrem a sede do super-herói mais poderoso do mundo escondido debaixo de sua casa. Quando os vilões atacam, eles devem se unir para defender a sede e salvar o mundo. [COLOR red][/COLOR][/B]</info>	
+ </item> 
+
+ <item> 
+ <title>[B][COLOR white]Conspiração Explosiva- [COLOR red]Lançamento[COLOR red](2022) [/COLOR][/B]</title>
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:752878a2eee10a76de1fd978869f654c4358d265$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:752878a2eee10a76de1fd978869f654c4358d265$nome=[COLOR lime]720P[/COLOR] - DUBLADO</link> 
+ <thumbnail>https://abutretorrents.com/imagens/conspiracao-explosiva-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+ <genre>[B][COLOR firebrick]Ação / Drama</genre>
+ <fanart>https://abutretorrents.com/imagens/conspiracao-explosiva-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
+ <info>[B][COLOR red] SINOPSE: Em Hollywood, três estrelas foram assassinadas em um triplo homicídio. Jimmy Jayne, um ex-presidiário, é o principal suspeito e não vai parar por nada para provar sua inocência. Os detetives de homicídios Freeman e Vargas estão em seu encalço enquanto Jimmy assume sua própria investigação, arriscando sua vida nas trevas de Los Angeles. [COLOR red][/COLOR][/B]</info>	
+ </item> 
+
+ <item> 
+ <title>[B][COLOR white]Trancada- [COLOR red]Lançamento[COLOR red](2022) [/COLOR][/B]</title>
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:NDJ2QGHJOTH5EDZK2OCXZNKVZ2NVEO3Q$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:NDJ2QGHJOTH5EDZK2OCXZNKVZ2NVEO3Q$nome=[COLOR lime]720P[/COLOR] - DUBLADO</link> 
+ <thumbnail>https://abutretorrents.com/imagens/trancada-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+ <genre>[B][COLOR firebrick]Suspense</genre>
+ <fanart>https://abutretorrents.com/imagens/trancada-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
+ <info>[B][COLOR red] SINOPSE:Uma mãe solteira é sequestrada pelo seu ex, deixando suas duas crianças sozinhas e em perigo. Agora ela fará tudo que for preciso para os proteger e sobreviver. [COLOR red][/COLOR][/B]</info>	
+ </item> 
+
+<item> 
+ <title>[B][COLOR white]Um Pedido Descolado - [COLOR red]Lançamento[COLOR red](2022) [/COLOR][/B]</title>
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:HP5WJGI3KWVG7LJVPFYTHWNHKMGR3IXE$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:HP5WJGI3KWVG7LJVPFYTHWNHKMGR3IXE$nome=[COLOR lime]720P[/COLOR] - DUBLADO</link> 
+ <thumbnail>https://abutretorrents.com/imagens/um-pedido-descolado-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+ <genre>[B][COLOR firebrick]Ação / Comédia / Policial</genre>
+ <fanart>https://abutretorrents.com/imagens/um-pedido-descolado-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
+ <info>[B][COLOR red] SINOPSE:Neil e Gilberto são nerds e melhores amigos do colégio e estão cansados ​​de serem intimidados. Eles anseiam pela vida de garotas gostosas, como o vizinho de Neil, Jimmy, “a lenda”. Mas quando Neil faz um desejo mágico com a esperança de atrair a garota dos sonhos, o inocente Jimmy é atraído para uma noite de travessuras, atraindo muito mais do que qualquer um deles esperava. [COLOR red][/COLOR][/B]</info>	
+ </item> 
+ 
  <item> 
  <title>[B][COLOR white]A Fera- [COLOR red]Lançamento[COLOR red](2022) [/COLOR][/B]</title>
  <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1e73a542525a93ae63ce59f535de5cd6d915e980$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
