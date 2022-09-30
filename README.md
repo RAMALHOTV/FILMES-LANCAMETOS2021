@@ -9,6 +9,28 @@
  <fanart>https://abutretorrents.com/imagens/esquadrao-secreto-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
  <info>[B][COLOR red] SINOPSE:Enquanto saíam depois da escola, Charlie e seus amigos descobrem a sede do super-herói mais poderoso do mundo escondido debaixo de sua casa. Quando os vilões atacam, eles devem se unir para defender a sede e salvar o mundo. [COLOR red][/COLOR][/B]</info>	
  </item> 
+ 
+
+ <item> 
+ <title>[B][COLOR white]Trem-Bala- [COLOR red]Lançamento[COLOR red](2022) [/COLOR][/B]</title>
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:503db6f21d6fe901132e27b906f336d67ff2ce54$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:503db6f21d6fe901132e27b906f336d67ff2ce54$nome=[COLOR lime]720P[/COLOR] - DUBLADO</link> 
+ <thumbnail>https://torrentsdublados.com/imagens/trem-bala-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+ <genre>[B][COLOR firebrick]Ação / Drama</genre>
+ <fanart>https://torrentsdublados.com/imagens/trem-bala-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
+ <info>[B][COLOR red] SINOPSE:Cinco assassinos se encontram em um trem-bala partindo de Tóquio a Morioka. O transporte conta com apenas algumas paradas durante o trajeto e os homicidas descobrem que suas missões estão relacionadas. Resta descobrir quem sairá vivo do trem e o que os espera na última estação. [COLOR red][/COLOR][/B]</info>	
+ </item> 
+
+ <item> 
+ <title>[B][COLOR white]Uma Viagem ao Infinito - [COLOR red]Lançamento[COLOR red](2022) [/COLOR][/B]</title>
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:YNSVKBU4JFMR2L7WA4MDVQLARCBRF3OO$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:YNSVKBU4JFMR2L7WA4MDVQLARCBRF3OO$nome=[COLOR lime]720P[/COLOR] - DUBLADO</link> 
+ <thumbnail>https://torrentsdublados.com/imagens/uma-viagem-ao-infinito-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+ <genre>[B][COLOR firebrick]Documentário</genre>
+ <fanart>https://torrentsdublados.com/imagens/uma-viagem-ao-infinito-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
+ <info>[B][COLOR red] SINOPSE: Nomes importantes da matemática, da física de partículas e da cosmologia mergulham no infinito e em suas desconcertantes implicações para o universo.[COLOR red][/COLOR][/B]</info>	
+ </item> 
+
 
  <item> 
  <title>[B][COLOR white]Conspiração Explosiva- [COLOR red]Lançamento[COLOR red](2022) [/COLOR][/B]</title>
