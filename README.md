@@ -1,4 +1,46 @@
-  
+   
+
+ <item> 
+ <title>[B][COLOR white]Pânico - A História por Trás do Filme - [COLOR red]Lançamento[COLOR red](2022) [/COLOR][/B]</title>
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:AXBNQRPO6QF5XGTZW4COPLXUIDWQYSQO$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:AXBNQRPO6QF5XGTZW4COPLXUIDWQYSQO$nome=[COLOR lime]720 P[/COLOR] - DUBLADO</link> 
+ <thumbnail>https://abutretorrents.com/imagens/panico-a-historia-por-tras-do-filme-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+ <genre>[B][COLOR firebrick]Documentário</genre>
+ <fanart>https://abutretorrents.com/imagens/panico-a-historia-por-tras-do-filme-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
+ <info>[B][COLOR red] SINOPSE:Este documentário combina cenas de uma investigação paranormal com cenas roteirizadas e de arquivo para contar a verdadeira história que inspirou o filme Pânico, um clássico do terror. [COLOR red][/COLOR][/B]</info>	
+ </item> 
+
+ <item> 
+ <title>[B][COLOR white]Caçadores de Vampiros - [COLOR red]Lançamento[COLOR red](2022) [/COLOR][/B]</title>
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:HPXMPSGZ64B5XM4UXIXEH6S37QQU5BW2$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:HPXMPSGZ64B5XM4UXIXEH6S37QQU5BW2$nome=[COLOR lime]2160P ULTRA HD 4K[/COLOR] - DUBLADO</link> 
+ <thumbnail>https://abutretorrents.com/imagens/cacadores-de-vampiros-vampires-in-america-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+ <genre>[B][COLOR firebrick]Documentário</genre>
+ <fanart>https://abutretorrents.com/imagens/cacadores-de-vampiros-vampires-in-america-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
+ <info>[B][COLOR red] SINOPSE:Um aumento alarmante nos casos de desaparecimento leva uma dupla de caçadores ao Arizona para investigar se um bando de vampiros saiu da hibernação. A caçada com tecnologia de ponta revela um plano nefasto. [COLOR red][/COLOR][/B]</info>	
+ </item> 
+
+<item> 
+ <title>[B][COLOR white]Abracadabra 2- [COLOR red]Lançamento[COLOR red](2022) [/COLOR][/B]</title>
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:FFG3IBKRU2VBHXD3TDPQAQROHTVTEU62$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:FFG3IBKRU2VBHXD3TDPQAQROHTVTEU62$nome=[COLOR lime]720 P[/COLOR] - DUBLADO</link> 
+ <thumbnail>https://abutretorrents.com/imagens/abracadabra-2-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+ <genre>[B][COLOR firebrick]Comédia / Família / Fantasia</genre>
+ <fanart>https://abutretorrents.com/imagens/abracadabra-2-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
+ <info>[B][COLOR red] SINOPSE:As irmãs Sanderson estão de volta para o Dia das Bruxas de Abracadabra 2, assim como no primeiro filme (1993), as irmãs são evocadas para a cidade de Salem bem a tempo do Halloween, mas dessa vez, a sede de vingança é maior do que qualquer coisa. [COLOR red][/COLOR][/B]</info>	
+ </item> 
+
+ <item> 
+ <title>[B][COLOR white]Ana. Sem Título- [COLOR red]Lançamento[COLOR red](2022) [/COLOR][/B]</title>
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:465511b65be1f03567189625e7e6d5adfd35e350$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:465511b65be1f03567189625e7e6d5adfd35e350$nome=[COLOR lime]2160P ULTRA HD 4K[/COLOR] - DUBLADO</link> 
+ <thumbnail>https://abutretorrents.com/imagens/ana-sem-titulo-download-torrent-2020-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+ <genre>[B][COLOR firebrick]Drama / Nacional</genre>
+ <fanart>https://abutretorrents.com/imagens/ana-sem-titulo-download-torrent-2020-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
+ <info>[B][COLOR red] SINOPSE:Misto de documentário e ficção, o filme acompanha Stela, uma jovem atriz brasileira, que decide fazer um trabalho sobre as cartas trocadas entre artistas plásticas latino-americanas nos anos 1970 e 1980. Stela viaja para Cuba, México, Argentina e Chile à procura de trabalhos e depoimentos sobre a realidade que essas mulheres viveram durante as ditaduras que a maior parte desses países enfrentaram na época. Em meio à investigação, ela descobre a existência de uma jovem brasileira que fez parte desse mundo, mas desapareceu. Em 1968, Ana foi do sul do Brasil, de uma pequena cidade do interior, para a efervescente Buenos Aires, que vivia um momento de mudança nas artes e no comportamento. Obcecada, Stela resolve encontrar a personagem e descobrir o que aconteceu com ela. [COLOR red][/COLOR][/B]</info>	
+ </item> 
+
+
 
  <item> 
  <title>[B][COLOR white]Esquadrão Secreto - [COLOR red]Lançamento[COLOR red](2022) [/COLOR][/B]</title>
