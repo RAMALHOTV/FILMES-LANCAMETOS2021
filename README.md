@@ -1,4 +1,35 @@
-   
+    
+
+ <item> 
+ <title>[B][COLOR white]Olhos Famintos - Renascido- [COLOR red]Lançamento[COLOR red](2022) [/COLOR][/B]</title>
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:A9284B764FBB74C9CB07DD475A0ACB3A8BE9B219$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:A9284B764FBB74C9CB07DD475A0ACB3A8BE9B219$nome=[COLOR lime]720 P[/COLOR] - DUBLADO</link> 
+ <thumbnail>https://abutretorrents.com/imagens/olhos-famintos-renascido-legendado-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+ <genre>[B][COLOR firebrick]Mistério / Suspense / Terror</genre>
+ <fanart>https://abutretorrents.com/imagens/olhos-famintos-renascido-legendado-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
+ <info>[B][COLOR red] SINOPSE: orçada a embarcar numa viagem até um festival de horror na Louisana com seu namorado, Laine começa a experienciar visões perturbadores associadas ao passado da cidade, em particular a uma lenda urbana local conhecida como o Creeper. Com a chegada do festival e o entretenimento sangrento se tornando um frenesi, Laine acredita que algo de outro mundo foi invocado... e ela está no centro de tudo.[COLOR red][/COLOR][/B]</info>	
+ </item> 
+
+ <item> 
+ <title>[B][COLOR white]Lar dos Esquecidos - [COLOR red]Lançamento[COLOR red](2022) [/COLOR][/B]</title>
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:LPJHRSUQN4NRKY2UVUSLAKG3F7N2V3E6$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:LPJHRSUQN4NRKY2UVUSLAKG3F7N2V3E6$nome=[COLOR lime]720 P [/COLOR] - DUBLADO</link> 
+ <thumbnail>https://abutretorrents.com/imagens/lar-dos-esquecidos-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+ <genre>[B][COLOR firebrick]Terror</genre>
+ <fanart>https://abutretorrents.com/imagens/lar-dos-esquecidos-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
+ <info>[B][COLOR red] SINOPSE:Uma mulher volta para sua cidade natal com os dois filhos por conta do casamento de sua irmã, mas a festa é interrompida por idosos com sede de sangue. [COLOR red][/COLOR][/B]</info>	
+ </item> 
+<item> 
+ <title>[B][COLOR white]O Lendário Cão Guerreiro- [COLOR red]Lançamento[COLOR red](2022) [/COLOR][/B]</title>
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:PIT6XU2F35IADTAKMTYU2VE4UCP2OA43$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:PIT6XU2F35IADTAKMTYU2VE4UCP2OA43$nome=[COLOR lime]720 P [/COLOR] - DUBLADO</link> 
+ <thumbnail>https://abutretorrents.com/imagens/o-lendario-cao-guerreiro-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+ <genre>[B][COLOR firebrick]Ação / Animação / Comédia</genre>
+ <fanart>https://abutretorrents.com/imagens/o-lendario-cao-guerreiro-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
+ <info>[B][COLOR red] SINOPSE: Um cachorro desajeitado sonha um dia em ser um autêntico e legítimo samurai. O perverso vilão felino Ika Chu (Ricky Gervais) e seu capanga Ohga (George Takei) se preparam para pôr um plano terrível em prática que pode acabar com a cidade de Kakamucho. A tarefa de combater esse perigo é tomada por Hank (Michael Cera), um cachorro que sonha em ser um grande samurai. Ele acaba convencendo Jimbo (Samuel L. Jackson), um gato que outrora fora um grande guerreiro, a se tornar seu mentor, o que faz com que comece uma incrível amizade entre os dois. [COLOR red][/COLOR][/B]</info>	
+ </item> 
+
+
 
  <item> 
  <title>[B][COLOR white]Pânico - A História por Trás do Filme - [COLOR red]Lançamento[COLOR red](2022) [/COLOR][/B]</title>
