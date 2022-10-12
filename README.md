@@ -1,4 +1,84 @@
-    
+    <item> 
+ <title>[B][COLOR white]Blackout- [COLOR red]Lançamento[COLOR red](2022) [/COLOR][/B]</title>
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c4408397f875117cc95fe5d97ec99517ab8e8a8b$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c4408397f875117cc95fe5d97ec99517ab8e8a8b$nome=[COLOR lime]720 P[/COLOR] - DUBLADO</link> 
+ <thumbnail>https://abutretorrents.com/imagens/blackout-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+ <genre>[B][COLOR firebrick]Ação / Policial / Suspense</genre>
+ <fanart>https://abutretorrents.com/imagens/blackout-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
+ <info>[B][COLOR red] SINOPSE:Um homem desperta com amnésia em um hospital mexicano e descobre que é alvo de um cartel. Agora, ele precisa ir atrás da verdade, rápido! [COLOR red][/COLOR][/B]</info>	
+ </item> 
+
+ <item> 
+ <title>[B][COLOR white]Ameaça a Bordo - [COLOR red]Lançamento[COLOR red](2022) [/COLOR][/B]</title>
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:08ae276a9a0d45437a317c0c62354b26e9a21ada$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:08ae276a9a0d45437a317c0c62354b26e9a21ada$nome=[COLOR lime]720P[/COLOR] - DUBLADO</link> 
+ <thumbnail>https://abutretorrents.com/imagens/ameaca-a-bordo-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+ <genre>[B][COLOR firebrick]Suspense</genre>
+ <fanart>https://abutretorrents.com/imagens/ameaca-a-bordo-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</fanart>
+ <info>[B][COLOR red] SINOPSE:Uma festeira tenaz luta para sobreviver após três ladrões tomarem seu iate de luxo. Incapaz de escapar e presa no iate em alto mar, a presa se torna a caçadora enquanto vira a mesa contra os intrusos e resolve o assunto com as próprias mãos. [COLOR red][/COLOR][/B]</info>	
+ </item> 
+
+<item> 
+ <title>[B][COLOR white]Mortal Kombat Legends - Cegueira Glacial- [COLOR red]Lançamento[COLOR red](2022) [/COLOR][/B]</title>
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:YMTKWA2DFTOMYPKLTWIFMTF72QAB56FC$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:YMTKWA2DFTOMYPKLTWIFMTF72QAB56FC$nome=[COLOR lime]720 P[/COLOR] - DUBLADO</link> 
+ <thumbnail>https://abutretorrents.com/imagens/mortal-kombat-legends-cegueira-glacial-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+ <genre>[B][COLOR firebrick]Ação / Drama</genre>
+ <fanart>https://abutretorrents.com/imagens/mortal-kombat-legends-cegueira-glacial-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
+ <info>[B][COLOR red] SINOPSE:Enquanto Kano e o Black Dragon destroem o mundo, um jovem guerreiro chamado Kenshi terá que superar suas próprias limitações e enfrentar a ameaça iminente de Outworld. [COLOR red][/COLOR][/B]</info>	
+ </item> 
+
+ <item> 
+ <title>[B][COLOR white]Esposa de Aluguel - [COLOR red]Lançamento[COLOR red](2022) [/COLOR][/B]</title>
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:19c90ee72a4124a0202967da8446d799c94eb91d$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:14ed8a8f8a4d3ddcb64f0e9578a7e226017c6a9e$nome=[COLOR lime]720 P[/COLOR] - DUBLADO</link> 
+ <thumbnail>https://abutretorrents.com/imagens/esposa-de-aluguel-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+ <genre>[B][COLOR firebrick]Comédia / Nacional / Romance</genre>
+ <fanart>https://abutretorrents.com/imagens/esposa-de-aluguel-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
+ <info>[B][COLOR red] SINOPSE:Para cumprir o último desejo de sua mãe e evitar ser removido de seu testamento, um solteiro inflexível contrata uma atriz para interpretar sua noiva. [COLOR red][/COLOR][/B]</info>	
+ </item> 
+
+<item> 
+ <title>[B][COLOR white]Bender - O Início - [COLOR red]Lançamento[COLOR red](2022) [/COLOR][/B]</title>
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:FLCXXGILCOTRZP6DVGX7FOV3IEGHJ5VA$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:FLCXXGILCOTRZP6DVGX7FOV3IEGHJ5VA$nome=[COLOR lime]720 P[/COLOR] - DUBLADO</link> 
+ <thumbnail>https://abutretorrents.com/imagens/bender-o-inicio-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+ <genre>[B][COLOR firebrick]Ação / Aventura / Comédia</genre>
+ <fanart>https://abutretorrents.com/imagens/bender-o-inicio-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
+ <info>[B][COLOR red] SINOPSE:Em 1919, o destino promove o encontro do jovem idealista Osip e do vigarista turco Ibrahim Bender. Ambos estão em busca de uma relíquia real, uma joia preciosa que bandidos locais e oficiais também querem obter. Osip aprende com Bender como bajular, enganar, chantagear e brigar. E se apaixona pela garota mais linda da cidade. E, ao que parece, não só por ela, mas também por uma bela estrangeira. Nasce aí o lendário Ostap Bender-Zadunaisky. [COLOR red][/COLOR][/B]</info>	
+ </item> 
+
+ <item> 
+ <title>[B][COLOR white]They/Them- [COLOR red]Lançamento[COLOR red](2022) [/COLOR][/B]</title>
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5WP7ZO65EVUG2KYWSCFMAOGZI2GJAYWE$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5WP7ZO65EVUG2KYWSCFMAOGZI2GJAYWE$nome=[COLOR lime]720 P[/COLOR] - DUBLADO</link> 
+ <thumbnail>https://abutretorrents.com/imagens/they-them-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+ <genre>[B][COLOR firebrick]Mistério / Suspense / Terror</genre>
+ <fanart>https://abutretorrents.com/imagens/they-them-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
+ <info>[B][COLOR red] SINOPSE:Vários campistas gays e trans se reúnem em um acampamento para uma semana de programação destinada a ajudá-los a encontrar ‘uma nova sensação de liberdade’. À medida que os métodos do acampamento se tornam cada vez mais psicologicamente perturbadores, os campistas devem trabalhar juntos para se proteger. Quando um misterioso assassino começa a fazer vítimas, as coisas ficam ainda mais perigosas. [COLOR red][/COLOR][/B]</info>	
+ </item> 
+
+ <item> 
+ <title>[B][COLOR white]Os 800- [COLOR red]Lançamento[COLOR red](2022) [/COLOR][/B]</title>
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:76fabcb8edd76a8fdd8c697cb61ad24ca047fd0a$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:76fabcb8edd76a8fdd8c697cb61ad24ca047fd0a$nome=[COLOR lime]720 P[/COLOR] - DUBLADO</link> 
+ <thumbnail>https://abutretorrents.com/imagens/os-800-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+ <genre>[B][COLOR firebrick]Ação / Drama</genre>
+ <fanart>https://abutretorrents.com/imagens/os-800-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</fanart>
+ <info>[B][COLOR red] SINOPSE:Durante a Batalha de Xangai em 1937, quando um grupo de soldados chineses lutaram para defender o armazém de Sihang, ondas de forças japonesas avançavam, cercando oitocentos soldados chineses. [COLOR red][/COLOR][/B]</info>	
+ </item> 
+
+ <item> 
+ <title>[B][COLOR white]O Meme do Mal- [COLOR red]Lançamento[COLOR red](2022) [/COLOR][/B]</title>
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:48a781088504340aec93fcce7c8fbd7dc221cd9c$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:48a781088504340aec93fcce7c8fbd7dc221cd9c$nome=[COLOR lime]720 P[/COLOR] - DUBLADO</link> 
+ <thumbnail>https://abutretorrents.com/imagens/o-meme-do-mal-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+ <genre>[B][COLOR firebrick]Drama / Mistério / Terror</genre>
+ <fanart>https://abutretorrents.com/imagens/o-meme-do-mal-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
+ <info>[B][COLOR red] SINOPSE:Uma adolescente e seu irmão mais novo devem parar um meme aterrorizante da internet trazido à vida pela histeria de seus pais.
+ [COLOR red][/COLOR][/B]</info>	
+ </item> 
+
 
  <item> 
  <title>[B][COLOR white]Olhos Famintos - Renascido- [COLOR red]Lançamento[COLOR red](2022) [/COLOR][/B]</title>
