@@ -1,4 +1,36 @@
-    <item> 
+  
+
+ 
+
+ <item> 
+ <title>[B][COLOR white]A Maldição de Bridge Hollow - [COLOR red]Lançamento[COLOR red](2022) [/COLOR][/B]</title>
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c3a98832e941390fd0fce8a48e81ea077a3f3c29$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c3a98832e941390fd0fce8a48e81ea077a3f3c29$nome=[COLOR lime]720 P[/COLOR] - DUBLADO</link> 
+ <thumbnail>https://abutretorrents.com/imagens/a-maldicao-de-bridge-hollow-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+ <genre>[B][COLOR firebrick]Aventura / Comédia / Família</genre>
+ <fanart>https://abutretorrents.com/imagens/a-maldicao-de-bridge-hollow-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
+ <info>[B][COLOR red] SINOPSE:Uma adolescente, que acidentalmente libera um espírito antigo e travesso no Halloween, que faz com que as decorações ganhem vida e causem estragos, deve se unir à última pessoa que ela deseja para salvar sua cidade - seu pai. [COLOR red][/COLOR][/B]</info>	
+ </item> 
+
+ <item> 
+ <title>[B][COLOR white]Assalto na Paulista - [COLOR red]Lançamento[COLOR red](2022) [/COLOR][/B]</title>
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:45WILMOWODMG3YJRH3KUK5GGPGBH4CLG$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:45WILMOWODMG3YJRH3KUK5GGPGBH4CLG$nome=[COLOR lime]720 P[/COLOR] - DUBLADO</link> 
+ <thumbnail>https://abutretorrents.com/imagens/assalto-na-paulista-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+ <genre>[B][COLOR firebrick]Ação / Drama / Nacional</genre>
+ <fanart>https://abutretorrents.com/imagens/assalto-na-paulista-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
+ <info>[B][COLOR red] SINOPSE:No filme Assalto na Paulista (2022) WEB-DL 1080p Nacional, Rubens é um poderoso bandido do interior paulista, que resolve dar um último grande golpe com a ajuda de sua filha adotiva Leônia, que fugiu da Bahia depois de ser estuprada por seu pai biológico. Mas nem tudo sai conforme o planejado durante o assalto aos cofres particulares de um banco na Avenida Paulista, coração de São Paulo. Rubens e Leônia só vão encontrar os seus verdadeiros destinos, ao desovar os frutos deste assalto no Paraguai, onde ambos entram em crise com os próprios valores existenciais. O filme é livremente inspirado no que foi um dos maiores assaltos a bancos privados no Brasil: o assalto à agência 0262 do Banco Itaú, na Avenida Paulista, centro financeiro do país. [COLOR red][/COLOR][/B]</info>	
+ </item> 
+
+ <item> 
+ <title>[B][COLOR white]Dark Web - Cicada 3301- [COLOR red]Lançamento[COLOR red](2022) [/COLOR][/B]</title>
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4a7233028840fbe515c4e492299a404eafb07c4f$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4a7233028840fbe515c4e492299a404eafb07c4f$nome=[COLOR lime]720 P[/COLOR] - DUBLADO</link> 
+ <thumbnail>https://abutretorrents.com/imagens/dark-web-cicada-3301-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+ <genre>[B][COLOR firebrick]Ação / Comédia / Suspense</genre>
+ <fanart>https://abutretorrents.com/imagens/dark-web-cicada-3301-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
+ <info>[B][COLOR red] SINOPSE:O hacker Connor, e seu melhor amigo Avi e um bibliotecário astuto que se encontram sobre suas cabeças quando forçados a competir em um sofisticado jogo de recrutamento global da sociedade secreta da dark web. [COLOR red][/COLOR][/B]</info>	
+ </item> <item> 
  <title>[B][COLOR white]Blackout- [COLOR red]Lançamento[COLOR red](2022) [/COLOR][/B]</title>
  <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c4408397f875117cc95fe5d97ec99517ab8e8a8b$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
  <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c4408397f875117cc95fe5d97ec99517ab8e8a8b$nome=[COLOR lime]720 P[/COLOR] - DUBLADO</link> 
