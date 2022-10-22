@@ -1,5 +1,17 @@
   
+ 
 
+ 
+
+ <item> 
+ <title>[B][COLOR white]Adão Negro - [COLOR red]Lançamento[COLOR red](2022) [/COLOR][/B]</title>
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:C41FB822E23610C403B60C489A6A26299C61C181$nome=[COLOR lime]CAM CINEMA[/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:C41FB822E23610C403B60C489A6A26299C61C181$nome=[COLOR lime]CAM CINEMA[/COLOR] - DUBLADO</link> 
+ <thumbnail>https://abutretorrents.com/imagens/adao-negro-cam-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+ <genre>[B][COLOR firebrick]Ação / Fantasia / Ficção</genre>
+ <fanart>https://abutretorrents.com/imagens/adao-negro-cam-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
+ <info>[B][COLOR red] SINOPSE:Quase 5.000 anos depois de ter sido agraciado com os poderes onipotentes dos deuses egípcios - e preso com a mesma rapidez - Adão Negro (Johnson) é libertado de sua tumba terrena, pronto para liberar sua forma única de justiça no mundo moderno. [COLOR red][/COLOR][/B]</info>	
+ </item> 
  
 
  <item> 
