@@ -26,15 +26,6 @@
  <info>[B][COLOR red] SINOPSE:Eddie Flynn, um infame traficante de armas irlandês que está fugindo após uma sangrenta guerra de gangues e acaba nos Estados Unidos como intermediário para o cartel de Baja. [COLOR red][/COLOR][/B]</info>	
  </item> 
 
- <item> 
- <title>[B][COLOR white]Noites Brutais - [COLOR red]Lançamento[COLOR red](2022) [/COLOR][/B]</title>
- <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:dda0ac8a3d3f61e4b5d937d6c0eec0fa543e025e$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
- <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:dda0ac8a3d3f61e4b5d937d6c0eec0fa543e025e$nome=[COLOR lime]720 P[/COLOR] - DUBLADO</link> 
- <thumbnail>https://abutretorrents.com/imagens/noites-brutais-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
- <genre>[B][COLOR firebrick]Ação / Drama</genre>
- <fanart>https://abutretorrents.com/imagens/noites-brutais-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
- <info>[B][COLOR red] SINOPSE:A história gira em torno de um jantar civilizado em uma casa de campo espetacular que vê quatro amigos - Lucas (Cullen), Adam (Rheon), Chloe (recém-chegado Ines Spiridonov) e Eva (Catalina Sandino Moreno, Maria Full of Grace, série de TV The Caso ) - se reúnem para uma festa de aniversário. No entanto, à medida que a noite progride, segredos e mentiras se forçam à luz, pretensões educadas desaparecem e eventos inesperados e perturbadores começam a se desdobrar em torno deles. Suas amizades resistirão ao teste? Eles podem sobreviver a noite? Ou os segredos deles acabarão por alcançá-los? [COLOR red][/COLOR][/B]</info>	
- </item> 
  
 
  <item> 
