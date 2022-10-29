@@ -1,7 +1,69 @@
   
  
  
+ 
 
+ 
+
+ <item> 
+ <title>[B][COLOR white]Órfã 2 - A Origem - [COLOR red]Lançamento[COLOR red](2022) [/COLOR][/B]</title>
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3e1e4f2c10f261fcebe26b1da8bb146c4015025a$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:08eea5c5a6e1e0e423afd42d8c0ceea257bd1dd7$nome=[COLOR lime]720 P[/COLOR] - DUBLADO</link> 
+ <thumbnail>https://abutretorrents.com/imagens/orfa-2-a-origem-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+ <genre>[B][COLOR firebrick]Drama / Policial / Terror</genre>
+ <fanart>https://abutretorrents.com/imagens/orfa-2-a-origem-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
+ <info>[B][COLOR red] SINOPSE:Lena Klammer (Isabelle Fuhrman) orquestra uma fuga brilhante de uma unidade psiquiátrica russa e viaja para os Estados Unidos, representando a filha desaparecida de uma família rica. Mas a nova vida de Lena como "Esther" vem com uma ruga inesperada e a coloca contra uma mãe (Julia Stiles) que protegerá sua família a qualquer custo. [COLOR red][/COLOR][/B]</info>	
+ </item> 
+
+ <item> 
+ <title>[B][COLOR white]Ingresso para o Paraíso- [COLOR red]Lançamento[COLOR red](2022) [/COLOR][/B]</title>
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5a8a853740fe9360080da79e08947f4908cb229c$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5a8a853740fe9360080da79e08947f4908cb229c$nome=[COLOR lime]720 P[/COLOR] - DUBLADO</link> 
+ <thumbnail>https://abutretorrents.com/imagens/ingresso-para-o-paraiso-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+ <genre>[B][COLOR firebrick]Comédia / Romance</genre>
+ <fanart>https://abutretorrents.com/imagens/ingresso-para-o-paraiso-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
+ <info>[B][COLOR red] SINOPSE:Um casal divorciado se une e viaja para Bali, para impedir que sua filha cometa o mesmo erro que eles acham que cometeram a 25 anos atrás. [COLOR red][/COLOR][/B]</info>	
+ </item> 
+
+ <item> 
+ <title>[B][COLOR white]Morte Morte Morte- [COLOR red]Lançamento[COLOR red](2022) [/COLOR][/B]</title>
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4PDXXH5U6DSTMUUP63VX5YOB4MRTWKD5$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4PDXXH5U6DSTMUUP63VX5YOB4MRTWKD5$nome=[COLOR lime]720 P[/COLOR] - DUBLADO</link> 
+ <thumbnail>https://abutretorrents.com/imagens/morte-morte-morte-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+ <genre>[B][COLOR firebrick]Comédia / Suspense / Terror</genre>
+ <fanart>https://abutretorrents.com/imagens/morte-morte-morte-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
+ <info>[B][COLOR red] SINOPSE:Durante um fim de semana de férias, um grupo de amigos decidem jogar um jogo de assassinato chamado "bodies bodies bodies", onde dois participantes são encarregados de ser os assassinos sem a ciência dos outros. Mas quando as luzes se apagam e o jogo começa, eles descobrem da pior maneira que há de fato um assassino entre eles. [COLOR red][/COLOR][/B]</info>	
+ </item> 
+
+ <item> 
+ <title>[B][COLOR white]Wendell e Wild- [COLOR red]Lançamento[COLOR red](2022) [/COLOR][/B]</title>
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:S7NN6KANCIS4NMV253NPJJBCF6C7FT6M$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:S7NN6KANCIS4NMV253NPJJBCF6C7FT6M$nome=[COLOR lime]720 P[/COLOR] - DUBLADO</link> 
+ <thumbnail>https://abutretorrents.com/imagens/wendell-e-wild-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+ <genre>[B][COLOR firebrick]Ação / Drama</genre>
+ <fanart>https://abutretorrents.com/imagens/wendell-e-wild-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
+ <info>[B][COLOR red] SINOPSE:Da imaginação fantástica de Henry Selick (diretor de "O Estranho Mundo de Jack" e "Coraline") e Jordan Peele ("Não! Não Olhe", "Nós", "Corra!"), surge a história de Kat (Lyric Ross), uma jovem atormentada pelo passado que precisa confrontar seus próprios demônios, Wendell e Wild (Keegan-Michael Key e Jordan Peele), para recomeçar a vida em sua cidade natal. [COLOR red][/COLOR][/B]</info>	
+ </item> 
+
+ <item> 
+ <title>[B][COLOR white]Vento Selvagem- [COLOR red]Lançamento[COLOR red](2022) [/COLOR][/B]</title>
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:beda499e8344b2832182c38c38230928f7214c80$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:beda499e8344b2832182c38c38230928f7214c80$nome=[COLOR lime]720 P[/COLOR] - DUBLADO</link> 
+ <thumbnail>https://abutretorrents.com/imagens/vento-selvagem-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+ <genre>[B][COLOR firebrick]Ação / Drama</genre>
+ <fanart>https://abutretorrents.com/imagens/vento-selvagem-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
+ <info>[B][COLOR red] SINOPSE:O corpo de uma menina africânder é encontrado no mato. As tensões éticas e a corrupção saem do controle em uma pequena cidade segregada. Enquanto isso, um policial corrupto não consegue aceitar a prisão injusta de um jovem negro. [COLOR red][/COLOR][/B]</info>	
+ </item> 
+
+ <item> 
+ <title>[B][COLOR white]Corra, Querida, Corra - [COLOR red]Lançamento[COLOR red](2022) [/COLOR][/B]</title>
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:80a2ed24e6cec3f79607e3b72bfa9faeb0b19aef$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:80a2ed24e6cec3f79607e3b72bfa9faeb0b19aef$nome=[COLOR lime]720 P[/COLOR] - DUBLADO</link> 
+ <thumbnail>https://abutretorrents.com/imagens/corra-querida-corra-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+ <genre>[B][COLOR firebrick]Suspense / Terror</genre>
+ <fanart>https://abutretorrents.com/imagens/corra-querida-corra-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
+ <info>[B][COLOR red] SINOPSE:Um encontro às cegas se torna violento para Shari, uma mãe solo, que logo precisa correr pelas ruas de Los Angeles a pé para escapar de seu perseguidor. [COLOR red][/COLOR][/B]</info>	
+ </item> 
  
 
  <item> 
