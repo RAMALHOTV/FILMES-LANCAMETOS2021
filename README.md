@@ -1,7 +1,15 @@
   
  
  
- 
+  <item> 
+ <title>[B][COLOR white]O Páramo - [COLOR red]Lançamento[COLOR red](2022) [/COLOR][/B]</title>
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:IHGFN6MTKNGAUNTRMPHUIVL3J7VOBNSF$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:IHGFN6MTKNGAUNTRMPHUIVL3J7VOBNSF$nome=[COLOR lime]720 P[/COLOR] - DUBLADO</link> 
+ <thumbnail>https://torrentsdublados.com/imagens/o-paramo-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+ <genre>[B][COLOR firebrick]Ação / Drama</genre>
+ <fanart>https://torrentsdublados.com/imagens/o-paramo-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
+ <info>[B][COLOR red] SINOPSE:Numa cabana no meio do nada, isolada da sociedade, um garoto e sua mãe histérica percebem uma presença assustadora que os observa de longe, se aproximando cada vez mais a cada dia. [COLOR red][/COLOR][/B]</info>	
+ </item> 
  
 <item> 
  <title>[B][COLOR white]36 Horas de Guerra- [COLOR red]Lançamento[COLOR red](2022) [/COLOR][/B]</title>
