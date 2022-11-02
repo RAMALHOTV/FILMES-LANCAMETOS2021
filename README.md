@@ -3,6 +3,35 @@
  
  
  
+<item> 
+ <title>[B][COLOR white]36 Horas de Guerra- [COLOR red]Lançamento[COLOR red](2022) [/COLOR][/B]</title>
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:PBNNBYCNA3GVNURQOWK234YMEYMWXE4T$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:PBNNBYCNA3GVNURQOWK234YMEYMWXE4T$nome=[COLOR lime]720 P[/COLOR] - DUBLADO</link> 
+ <thumbnail>https://abutretorrents.com/imagens/36-horas-de-guerra-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+ <genre>[B][COLOR firebrick]Drama / Guerra</genre>
+ <fanart>https://abutretorrents.com/imagens/36-horas-de-guerra-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
+ <info>[B][COLOR red] SINOPSE: Desdobrando-se ao longo de 36 horas, em três guerras separadas a Guerra Civil Americana, a Primeira Guerra Mundial e o Iraque acompanhamos um pequeno grupo de soldados presos em um espaço confinado, enquanto lutam com a moralidade, a futilidade e uma situação de combate cada vez mais insustentável e perto de um desfecho ruim para todos.[COLOR red][/COLOR][/B]</info>	
+ </item> 
+
+ <item> 
+ <title>[B][COLOR white]Oficina do Diabo- [COLOR red]Lançamento[COLOR red](2022) [/COLOR][/B]</title>
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:LKIXY5Q6MWNPMW2XFHERJDIVXZCAYYBF$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:LKIXY5Q6MWNPMW2XFHERJDIVXZCAYYBF$nome=[COLOR lime]720 P[/COLOR] - DUBLADO</link> 
+ <thumbnail>https://abutretorrents.com/imagens/oficina-do-diabo-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+ <genre>[B][COLOR firebrick]Ação / Drama</genre>
+ <fanart>https://abutretorrents.com/imagens/oficina-do-diabo-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
+ <info>[B][COLOR red] SINOPSE:Clayton está desesperado por um papel como demonologista. Ele entra em contato com Eliza, uma especialista em conhecimentos demoníacos para ajudá-lo a se preparar e passa o fim de semana em sua casa. Eliza força Clayton a enfrentar seu passado perturbador, realizar rituais sombrios e sacrificar animais. Ela quer ajudar Clayton, seduzi-lo...ou destruí-lo? [COLOR red][/COLOR][/B]</info>	
+ </item> 
+
+ <item> 
+ <title>[B][COLOR white]No Lugar Errado - [COLOR red]Lançamento[COLOR red](2022) [/COLOR][/B]</title>
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:70897266ceb6f3b786cc5f197c2a2028110defe8$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:70897266ceb6f3b786cc5f197c2a2028110defe8$nome=[COLOR lime]720 P[/COLOR] - DUBLADO</link> 
+ <thumbnail>https://abutretorrents.com/imagens/no-lugar-errado-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+ <genre>[B][COLOR firebrick]Ação / Policial / Suspense</genre>
+ <fanart>https://abutretorrents.com/imagens/no-lugar-errado-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
+ <info>[B][COLOR red] SINOPSE:Um cozinheiro de metanfetaminas persegue o ex-chefe de polícia de uma pequena cidade para silenciá-lo antes que ele possa prestar depoimento de testemunha ocular contra sua família, mas acaba enfrentando mais do que esperava. [COLOR red][/COLOR][/B]</info>	
+ </item> 
 
  
 
