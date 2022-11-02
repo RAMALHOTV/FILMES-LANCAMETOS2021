@@ -1,5 +1,23 @@
   
- 
+ <item> 
+ <title>[B][COLOR white]Hackers no Controle- [COLOR red]Lançamento[COLOR red](2022) [/COLOR][/B]</title>
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d1d3fe839801cf722c5a596cfff37cab1ba969fa$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d1d3fe839801cf722c5a596cfff37cab1ba969fa$nome=[COLOR lime]720 P[/COLOR] - DUBLADO</link> 
+ <thumbnail>https://torrentsdublados.com/imagens/hackers-no-controle-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+ <genre>[B][COLOR firebrick]Ação / Drama</genre>
+ <fanart>https://torrentsdublados.com/imagens/hackers-no-controle-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
+ <info>[B][COLOR red] SINOPSE:Ao neutralizar uma violação de dados em um ônibus autônomo de tecnologia avançada, a hacker ética Mel Bandison sem querer desmonta uma rede criminosa internacional. De repente, ela vê sua vida virar de cabeça para baixo quando é injustamente acusada de assassinato. Perseguida por criminosos e pela Interpol em uma cidade onde há câmeras por todos os lados, ela pede a ajuda de Thomas, um cara com quem saiu uma vez e que acaba envolvido na situação. Agora ela vai precisar de seu antigo mentor, Buddy Benschop, para tentar provar sua inocência. [COLOR red][/COLOR][/B]</info>	
+ </item> 
+
+<item> 
+ <title>[B][COLOR white]Órfã 2 - A Origem- [COLOR red]Lançamento[COLOR red](2022) [/COLOR][/B]</title>
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3e1e4f2c10f261fcebe26b1da8bb146c4015025a$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:08eea5c5a6e1e0e423afd42d8c0ceea257bd1dd7$nome=[COLOR lime]1080P SEM COMPACTAÇÃO[/COLOR] - DUBLADO</link> 
+ <thumbnail>https://torrentsdublados.com/imagens/orfa-2-a-origem-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+ <genre>[B][COLOR firebrick]Ação / Drama</genre>
+ <fanart>https://torrentsdublados.com/imagens/orfa-2-a-origem-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
+ <info>[B][COLOR red] SINOPSE:Lena Klammer (Isabelle Fuhrman) orquestra uma fuga brilhante de uma unidade psiquiátrica russa e viaja para os Estados Unidos, representando a filha desaparecida de uma família rica. Mas a nova vida de Lena como "Esther" vem com uma ruga inesperada e a coloca contra uma mãe (Julia Stiles) que protegerá sua família a qualquer custo. [COLOR red][/COLOR][/B]</info>	
+ </item> 
  
   <item> 
  <title>[B][COLOR white]O Páramo - [COLOR red]Lançamento[COLOR red](2022) [/COLOR][/B]</title>
@@ -65,15 +83,7 @@
 
  
 
- <item> 
- <title>[B][COLOR white]Órfã 2 - A Origem - [COLOR red]Lançamento[COLOR red](2022) [/COLOR][/B]</title>
- <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3e1e4f2c10f261fcebe26b1da8bb146c4015025a$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
- <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:08eea5c5a6e1e0e423afd42d8c0ceea257bd1dd7$nome=[COLOR lime]720 P[/COLOR] - DUBLADO</link> 
- <thumbnail>https://abutretorrents.com/imagens/orfa-2-a-origem-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
- <genre>[B][COLOR firebrick]Drama / Policial / Terror</genre>
- <fanart>https://abutretorrents.com/imagens/orfa-2-a-origem-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
- <info>[B][COLOR red] SINOPSE:Lena Klammer (Isabelle Fuhrman) orquestra uma fuga brilhante de uma unidade psiquiátrica russa e viaja para os Estados Unidos, representando a filha desaparecida de uma família rica. Mas a nova vida de Lena como "Esther" vem com uma ruga inesperada e a coloca contra uma mãe (Julia Stiles) que protegerá sua família a qualquer custo. [COLOR red][/COLOR][/B]</info>	
- </item> 
+ 
 
  <item> 
  <title>[B][COLOR white]Ingresso para o Paraíso- [COLOR red]Lançamento[COLOR red](2022) [/COLOR][/B]</title>
