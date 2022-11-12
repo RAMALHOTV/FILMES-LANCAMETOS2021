@@ -10,6 +10,41 @@
  <fanart>https://abutretorrents.com/imagens/pantera-negra-wakanda-para-sempre-cam-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
  <info>[B][COLOR red] SINOPSE:Os líderes do reino de Wakanda lutam para proteger a sua nação das forças invasoras, após a morte do Rei T'Challa. [COLOR red][/COLOR][/B]</info>	
  </item> 
+  
+ 
+
+ <item> 
+ <title>[B][COLOR white]Uma Quedinha de Natal - [COLOR red]Lançamento[COLOR red](2022) [/COLOR][/B]</title>
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:38c4a150d8ec2620d71802256a7b12aa2bae0b6f$nome=[COLOR lime] 1080P[/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:38c4a150d8ec2620d71802256a7b12aa2bae0b6f$nome=[COLOR lime] 720P[/COLOR] - DUBLADO</link> 
+ <thumbnail>https://abutretorrents.com/imagens/uma-quedinha-de-natal-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+ <genre>[B][COLOR firebrick]Comédia / Romance</genre>
+ <fanart>https://abutretorrents.com/imagens/uma-quedinha-de-natal-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
+ <info>[B][COLOR red]Netflix anunciou hoje o retorno de Lindsay Lohan ao mundo do cinema, com um projeto ainda sem título que vai estrear no Streaming próximo ao Natal. Na trama Lohan será uma herdeira mimada de um Hotel de Luxo, que sofre amnésia em um acidente de ski e acaba se apaixonando por um dono de alojamento pobre na véspera de Natal. [COLOR red][/COLOR][/B]</info>	
+ </item> 
+
+ <item> 
+ <title>[B][COLOR white]Uma Pitada de Sorte- [COLOR red]Lançamento[COLOR red](2022) [/COLOR][/B]</title>
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6MBNTT64FCBFC4GPB2X3AEKRJ5CUL56B$nome=[COLOR lime] 1080P [/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6MBNTT64FCBFC4GPB2X3AEKRJ5CUL56B$nome=[COLOR lime] 720P[/COLOR] - DUBLADO</link> 
+ <thumbnail>https://abutretorrents.com/imagens/uma-pitada-de-sorte-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+ <genre>[B][COLOR firebrick]Comédia / Nacional</genre>
+ <fanart>https://abutretorrents.com/imagens/uma-pitada-de-sorte-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
+ <info>[B][COLOR red]Pérola vive com a mãe e um irmão menor adotivo. Seu grande sonho é ser reconhecida como Chef e enquanto seu desejo não se torna realidade, a moça trabalha como animadora de festas infantis e Sous Chef (o segundo no comando de uma cozinha) em um restaurante na Zona Sul do Rio. Tudo começa a mudar na vida de Pérola quando ela é aprovada num teste para ser auxiliar de um Chef renomado em um programa de televisão. [COLOR red][/COLOR][/B]</info>	
+ </item> 
+
+
+ <item> 
+ <title>[B][COLOR white]Frente à Frente - [COLOR red]Lançamento[COLOR red](2022) [/COLOR][/B]</title>
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2OXUXJDFKY6ZP6URGAYDC5KNXTZ4N5EN$nome=[COLOR lime]1080P[/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2OXUXJDFKY6ZP6URGAYDC5KNXTZ4N5EN$nome=[COLOR lime] 720P[/COLOR] - DUBLADO</link> 
+ <thumbnail>https://abutretorrents.com/imagens/frente-a-frente-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+ <genre>[B][COLOR firebrick]Ação / Aventura / Drama</genre>
+ <fanart>https://abutretorrents.com/imagens/frente-a-frente-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
+ <info>[B][COLOR red]Shan é um policial justo que é admirado pelos companheiros por ter resolvido muitos casos. Um dia, seu passado volta para assombrá-lo quando sua operação policial é atacada por um misterioso grupo de criminosos liderados por Ngo, seu ex-protegido. Ngo já foi um policial talentoso que admirava e respeitava Shan. No entanto, um terrível acidente o levou à prisão há três anos, transformando-o em um homem furioso, com o objetivo de matar todos que o prejudicaram - incluindo seu ex-mentor. [COLOR red][/COLOR][/B]</info>	
+ </item> 
+
+
 
  <item> 
  <title>[B][COLOR white]Um Lugar Bem Longe Daqui- [COLOR red]Lançamento[COLOR red](2022) [/COLOR][/B]</title>
