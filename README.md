@@ -1,4 +1,75 @@
-  
+   
+ 
+
+ <item> 
+ <title>[B][COLOR white]Pantera Negra - Wakanda Para Sempre- [COLOR red]Lançamento[COLOR red](2022) [/COLOR][/B]</title>
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:88160C992128A4EA939D8191A6B4273B76C19760$nome=[COLOR lime] CAM [/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:88160C992128A4EA939D8191A6B4273B76C19760$nome=[COLOR lime] CAM[/COLOR] - DUBLADO</link> 
+ <thumbnail>https://abutretorrents.com/imagens/pantera-negra-wakanda-para-sempre-cam-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+ <genre>[B][COLOR firebrick]Ação / Aventura / Drama</genre>
+ <fanart>https://abutretorrents.com/imagens/pantera-negra-wakanda-para-sempre-cam-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
+ <info>[B][COLOR red] SINOPSE:Os líderes do reino de Wakanda lutam para proteger a sua nação das forças invasoras, após a morte do Rei T'Challa. [COLOR red][/COLOR][/B]</info>	
+ </item> 
+
+ <item> 
+ <title>[B][COLOR white]Um Lugar Bem Longe Daqui- [COLOR red]Lançamento[COLOR red](2022) [/COLOR][/B]</title>
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f2eb6f4e011fd758c62d04eaf592b97aa4369117$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f2eb6f4e011fd758c62d04eaf592b97aa4369117$nome=[COLOR lime]720 P[/COLOR] - DUBLADO</link> 
+ <thumbnail>https://abutretorrents.com/imagens/um-lugar-bem-longe-daqui-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+ <genre>[B][COLOR firebrick]Drama / Mistério / Suspense</genre>
+ <fanart>https://abutretorrents.com/imagens/um-lugar-bem-longe-daqui-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
+ <info>[B][COLOR red] SINOPSE: Abandonada pela família, Kya (Daisy Edgar Jones) se criou sozinha nas margens de um pântano perto de sua cidade natal. Isolada de todos, ela acaba virando novamente o centro das atenções após um assassinato do qual vira a principal suspeita.[COLOR red][/COLOR][/B]</info>	
+ </item> 
+
+ <item> 
+ <title>[B][COLOR white]Herança Maldita- [COLOR red]Lançamento[COLOR red](2022) [/COLOR][/B]</title>
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4e726af4eee5dbe7f5c07b89c27f740218fba8f3$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4e726af4eee5dbe7f5c07b89c27f740218fba8f3$nome=[COLOR lime]720 P[/COLOR] - DUBLADO</link> 
+ <thumbnail>https://abutretorrents.com/imagens/heranca-maldita-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+ <genre>[B][COLOR firebrick]Drama / Fantasia / Terror</genre>
+ <fanart>https://abutretorrents.com/imagens/heranca-maldita-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
+ <info>[B][COLOR red] SINOPSE:Após receber uma misteriosa carta, uma mulher viaja até uma isolada ilhota e logo se vê presa em um pesadelo na pequena comunidade de lá. [COLOR red][/COLOR][/B]</info>	
+ </item> 
+
+ <item> 
+ <title>[B][COLOR white]A Lenda da Befana- [COLOR red]Lançamento[COLOR red](2022) [/COLOR][/B]</title>
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8c48a8ed13072fe19c44c211854dcd81f9ec6cd4$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8c48a8ed13072fe19c44c211854dcd81f9ec6cd4$nome=[COLOR lime]720 P[/COLOR] - DUBLADO</link> 
+ <thumbnail>https://abutretorrents.com/imagens/a-lenda-da-befana-o-inicio-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+ <genre>[B][COLOR firebrick]Aventura / Comédia / Família</genre>
+ <fanart>https://abutretorrents.com/imagens/a-lenda-da-befana-o-inicio-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
+ <info>[B][COLOR red] SINOPSE:Monica Bellucci estrela esta prequela de “A Lenda da Befana”, que conta as origens da lendária bruxa natalina. Quando a jovem Paola é salva da fogueira por Dolores (Bellucci), começa o aprendizado da bruxa mais esperada pelas crianças. [COLOR red][/COLOR][/B]</info>	
+ </item> 
+
+ <item> 
+ <title>[B][COLOR white]Ao 3º Dia - [COLOR red]Lançamento[COLOR red](2022) [/COLOR][/B]</title>
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b4e3e31734c181793da487df3e7db1a19066315f$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b4e3e31734c181793da487df3e7db1a19066315f$nome=[COLOR lime]720 P[/COLOR] - DUBLADO</link> 
+ <thumbnail>https://abutretorrents.com/imagens/ao-3-dia-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+ <genre>[B][COLOR firebrick]Drama / Fantasia / Terror</genre>
+ <fanart>xx</fanart>
+ <info>[B][COLOR red] SINOPSE:Cecilia e seu filho Martín sofrem um acidente de carro. No terceiro dia após o acidente, ela perambula sozinha por uma rota solitária e não há nenhuma pista de seu filho. Ela não se lembra do que aconteceu durante este tempo e está desesperadamente à procura de seu filho. Em sua busca, ela encontra coincidências com seu caso e outros arquivos policiais, que parecem ser atos de uma caça brutal. Os ciclos continuam e Cecília acabará enfrentando um homem religioso, que é o responsável por esta matança. Para ela, ele é um lunático. Para ele, Cecília é o inimigo. [COLOR red][/COLOR][/B]</info>	
+ </item> 
+
+ <item> 
+ <title>[B][COLOR white]Monica, O My Darling- [COLOR red]Lançamento[COLOR red](2022) [/COLOR][/B]</title>
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:53dd4bbd2bb14a9b5a10b92c35f1e0db4aeda40d$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:53dd4bbd2bb14a9b5a10b92c35f1e0db4aeda40d$nome=[COLOR lime]720 P[/COLOR] - DUBLADO</link> 
+ <thumbnail>https://abutretorrents.com/imagens/monica-o-my-darling-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+ <genre>[B][COLOR firebrick]Ação / Drama</genre>
+ <fanart>https://abutretorrents.com/imagens/monica-o-my-darling-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
+ <info>[B][COLOR red] SINOPSE:Em Monica, O My Darling, um jovem rapaz tenta desesperadamente se dar bem, contando com aliados improváveis e um plano diabólico e covarde, para planejar o assassinato perfeito. Nesse jogo, a sobrevivência é um elemento chave. E para planejar o melhor assassinato de todos os tempos, nessa comédia dramática e sarcástica o universo dos crimes de colarinho branco se tornará pequeno para as ambições do jovem. [COLOR red][/COLOR][/B]</info>	
+ </item> 
+
+ <item> 
+ <title>[B][COLOR white]Bala Perdida 2 - [COLOR red]Lançamento[COLOR red](2022) [/COLOR][/B]</title>
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5daee7159d545ad85cc9656573d0037c11d3f6d8$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5daee7159d545ad85cc9656573d0037c11d3f6d8$nome=[COLOR lime]720 P[/COLOR] - DUBLADO</link> 
+ <thumbnail>https://abutretorrents.com/imagens/bala-perdida-2-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+ <genre>[B][COLOR firebrick]Ação / Drama</genre>
+ <fanart>https://abutretorrents.com/imagens/bala-perdida-2-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
+ <info>[B][COLOR red] SINOPSE:Após a morte de Charras, Lino e Julia assumiram e formam a nova equipe de choque da brigada de Stups. Determinado a encontrar os assassinos de seu irmão e seu mentor, Lino continua sua caçada e não deixará ninguém entrar em seu caminho. [COLOR red][/COLOR][/B]</info>	
+ </item> 
  <item> 
  <title>[B][COLOR white]Hackers no Controle- [COLOR red]Lançamento[COLOR red](2022) [/COLOR][/B]</title>
  <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d1d3fe839801cf722c5a596cfff37cab1ba969fa$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
