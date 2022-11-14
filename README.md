@@ -10,7 +10,28 @@
  <fanart>https://abutretorrents.com/imagens/pantera-negra-wakanda-para-sempre-cam-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
  <info>[B][COLOR red] SINOPSE:Os líderes do reino de Wakanda lutam para proteger a sua nação das forças invasoras, após a morte do Rei T'Challa. [COLOR red][/COLOR][/B]</info>	
  </item> 
-  
+   
+
+
+ <item> 
+ <title>[B][COLOR white]Gundala - A Ascensão de um Herói- [COLOR red]Lançamento[COLOR red](2022) [/COLOR][/B]</title>
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1aee9f8be44ea1b4b908e76169c8b4007ada2e3c$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1aee9f8be44ea1b4b908e76169c8b4007ada2e3c$nome=[COLOR lime]720 P[/COLOR] - DUBLADO</link> 
+ <thumbnail>https://abutretorrents.com/imagens/gundala-a-ascensao-de-um-heroi-download-torrent-2020-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+ <genre>[B][COLOR firebrick]Ação / Aventura / Drama</genre>
+ <fanart>https://abutretorrents.com/imagens/gundala-a-ascensao-de-um-heroi-download-torrent-2020-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
+ <info>[B][COLOR red] SINOPSE:Conta história do órfão indonésio Sancaka que passou a vida nas ruas tentando atrair o mínimo de atenção possível, mas quando a ganância e a violência atingem um pico em Jacarta, logo fica claro que ele é a única esperança do povo para a paz.Sancaka é atingido por um raio misterioso quando trabalhava de guarde de segurança de um indústria e a tragédia lhe dá poder para defender a humanidade. [COLOR red][/COLOR][/B]</info>	
+ </item> 
+
+<item> 
+ <title>[B][COLOR white]Abaixo da Terra - [COLOR red]Lançamento[COLOR red](2022) [/COLOR][/B]</title>
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:784e195b013106badd3f505fe7d9f0b9696851ba$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:784e195b013106badd3f505fe7d9f0b9696851ba$nome=[COLOR lime]720 P[/COLOR] - DUBLADO</link> 
+ <thumbnail>https://abutretorrents.com/imagens/abaixo-da-terra-download-torrent-2020-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+ <genre>[B][COLOR firebrick]Ação / Drama</genre>
+ <fanart>https://abutretorrents.com/imagens/abaixo-da-terra-download-torrent-2020-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
+ <info>[B][COLOR red] SINOPSE:Duas milhas abaixo da superfície, nove mineiros dos Apalaches lutam para sobreviver após uma explosão de metano, deixando-os com uma hora de oxigênio. [COLOR red][/COLOR][/B]</info>	
+ </item> 
  
 
  <item> 
