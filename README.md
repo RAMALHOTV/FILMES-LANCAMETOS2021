@@ -1,5 +1,37 @@
    
+  
+
  
+
+ <item> 
+ <title>[B][COLOR white]A Mulher Rei - [COLOR red]Lançamento[COLOR red](2022) [/COLOR][/B]</title>
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4NFTDR3ZLFXCCSFS2JV6YWOJHNOL4HVR$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4NFTDR3ZLFXCCSFS2JV6YWOJHNOL4HVR$nome=[COLOR lime]720 P[/COLOR] - DUBLADO</link> 
+ <thumbnail>https://abutretorrents.com/imagens/a-mulher-rei-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+ <genre>[B][COLOR firebrick]Ação / Drama</genre>
+ <fanart>https://abutretorrents.com/imagens/a-mulher-rei-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
+ <info>[B][COLOR red] SINOPSE:Inspirado pelos verdadeiros eventos que ocorreram no Reino de Dahomey, um dos estados mais poderosos da África nos séculos 18 e 19, The Woman King conta a história de Nanisca (Viola Davis), da unidade militar feminina conhecida como "Amazonas" e sua filha Nawi, que juntas lutaram contra as tribos francesas e vizinhas que violaram sua honra, escravizaram seu povo e ameaçaram destruir tudo pelo que viviam. [COLOR red][/COLOR][/B]</info>	
+ </item> 
+
+ <item> 
+ <title>[B][COLOR white]Halloween Ends - [COLOR red]Lançamento[COLOR red](2022) [/COLOR][/B]</title>
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4XQUKS54S5POMSA263AFG7SNBFGUJK7D$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4XQUKS54S5POMSA263AFG7SNBFGUJK7D$nome=[COLOR lime]720 P[/COLOR] - DUBLADO</link> 
+ <thumbnail>https://abutretorrents.com/imagens/halloween-ends-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+ <genre>[B][COLOR firebrick]Ação / Drama</genre>
+ <fanart>https://abutretorrents.com/imagens/halloween-ends-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
+ <info>[B][COLOR red] SINOPSE:Terceiro e último capítulo da nova trilogia de Laurie Strode e Michael Myers, precedido por Halloween (2018) e Halloween Kills (2021). Laurie (Jamie Lee Curtis) agora vive com sua neta Allyson e está terminando seu livro de memórias. Michael Myers nunca mais foi visto. Depois de permitir que a sombra de Michael pairasse ao longo de sua existência por décadas, ela finalmente decidiu se libertar do medo e da raiva e se voltar para a vida. Mas quando um jovem, Corey Cunningham, é acusado de ter assassinado um menino de quem cuidava, uma onda de terror e violência pairam sobre a cidade, forçando Laurie a se juntar com outras pessoas para combater o mal. Mas dessa vez, Laurie terá de lidar com Myers e acabar com ele, de uma vez por todas, para que o mal nunca mais volte para a cidade e ela possa, enfim, ter uma vida normal e sem medo, promovendo a paz para sempre. [COLOR red][/COLOR][/B]</info>	
+ </item> 
+
+ <item> 
+ <title>[B][COLOR white]Emily the Criminal - [COLOR red]Lançamento[COLOR red](2022) [/COLOR][/B]</title>
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:471d19c3db5db36a7dbcb81e89e4f080577f9cb4$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:471d19c3db5db36a7dbcb81e89e4f080577f9cb4$nome=[COLOR lime]720 P[/COLOR] - DUBLADO</link> 
+ <thumbnail>https://abutretorrents.com/imagens/emily-the-criminal-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+ <genre>[B][COLOR firebrick]Ação / Drama</genre>
+ <fanart>https://abutretorrents.com/imagens/emily-the-criminal-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
+ <info>[B][COLOR red] SINOPSE:Sem sorte e sobrecarregada de dívidas, Emily é envolvida em um golpe de cartão de crédito que a leva para o submundo do crime de Los Angeles, levando a consequências mortais. [COLOR red][/COLOR][/B]</info>	
+ </item> 
 
  <item> 
  <title>[B][COLOR white]Pantera Negra - Wakanda Para Sempre- [COLOR red]Lançamento[COLOR red](2022) [/COLOR][/B]</title>
@@ -296,7 +328,7 @@
 
  <item> 
  <title>[B][COLOR white]Adão Negro - [COLOR red]Lançamento[COLOR red](2022) [/COLOR][/B]</title>
- <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:C41FB822E23610C403B60C489A6A26299C61C181$nome=[COLOR lime]CAM CINEMA[/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:334011cf4132409d97a8d296f863c3ba7386e811$nome=[COLOR lime]1080P[/COLOR] - DUBLADO</link> 
  <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:C41FB822E23610C403B60C489A6A26299C61C181$nome=[COLOR lime]CAM CINEMA[/COLOR] - DUBLADO</link> 
  <thumbnail>https://abutretorrents.com/imagens/adao-negro-cam-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
  <genre>[B][COLOR firebrick]Ação / Fantasia / Ficção</genre>
