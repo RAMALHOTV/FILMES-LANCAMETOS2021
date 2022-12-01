@@ -1,5 +1,37 @@
    
-  
+   
+
+ 
+
+ <item> 
+ <title>[B][COLOR white]O Troll da Montanha - [COLOR red]Lançamento[COLOR red](2022) [/COLOR][/B]</title>
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ede2cca258b256a067032c9dc84071bb9ee6a307$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ede2cca258b256a067032c9dc84071bb9ee6a307$nome=[COLOR lime]720 P[/COLOR] - DUBLADO</link> 
+ <thumbnail>https://abutretorrents.com/imagens/o-troll-da-montanha-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+ <genre>[B][COLOR firebrick]Ação / Aventura / Drama</genre>
+ <fanart>https://abutretorrents.com/imagens/o-troll-da-montanha-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
+ <info>[B][COLOR red] SINOPSE: Nas profundezas da montanha de Dovre, algo gigantesco desperta depois de ficar preso por mil anos. Destruindo tudo em seu caminho, a criatura se aproxima rapidamente da capital da Noruega. Mas como você interrompe algo que você pensava que só existia no folclore norueguês?[COLOR red][/COLOR][/B]</info>	
+ </item> 
+
+ <item> 
+ <title>[B][COLOR white]Guardiões da Galáxia: Especial de Festas- [COLOR red]Lançamento[COLOR red](2022) [/COLOR][/B]</title>
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:bf12ab4fac9d8b9dc41e9c935ec516d56f5e1cba$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:bf12ab4fac9d8b9dc41e9c935ec516d56f5e1cba$nome=[COLOR lime]720 P[/COLOR] - DUBLADO</link> 
+ <thumbnail>https://abutretorrents.com/imagens/guardioes-da-galaxia-especial-de-festas-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+ <genre>[B][COLOR firebrick]Ação / Aventura / Comédia</genre>
+ <fanart>https://abutretorrents.com/imagens/guardioes-da-galaxia-especial-de-festas-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
+ <info>[B][COLOR red] SINOPSE:Os Guardiões da Galáxia comemoram o Natal para tentarem animar Quill, que ainda está deprimido pela perda de Gamora. Para isso, eles decidem convidar o ator Kevin Bacon para a festa.[COLOR red][/COLOR][/B]</info>	
+ </item> 
+
+ <item> 
+ <title>[B][COLOR white]Meu Nome é Vingança- [COLOR red]Lançamento[COLOR red](2022) [/COLOR][/B]</title>
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:51d2c8a0da94ddbf5fefa9d6afbedf60ec0f9c6d$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:51d2c8a0da94ddbf5fefa9d6afbedf60ec0f9c6d$nome=[COLOR lime]720 P[/COLOR] - DUBLADO</link> 
+ <thumbnail>https://abutretorrents.com/imagens/meu-nome-e-vinganca-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+ <genre>[B][COLOR firebrick]Ação / Drama</genre>
+ <fanart>https://abutretorrents.com/imagens/meu-nome-e-vinganca-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
+ <info>[B][COLOR red] SINOPSE: Quando antigos inimigos matam sua esposa e cunhado, um ex-mafioso e a filha vão a Milão para planejarem a vingança.[COLOR red][/COLOR][/B]</info>	
+ </item> 
 
  
 
