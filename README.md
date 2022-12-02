@@ -1,5 +1,13 @@
    
-   
+ <item> 
+ <title>[B][COLOR white]Acertando as Contas com o Diabo- [COLOR red]Lançamento[COLOR red](2022) [/COLOR][/B]</title>
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:41990b0ee2257b83f13e17f7ba6c306656d9aebe$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:41990b0ee2257b83f13e17f7ba6c306656d9aebe$nome=[COLOR lime]720 P[/COLOR] - DUBLADO</link> 
+ <thumbnail>https://abutretorrents.com/imagens/acertando-as-contas-com-o-diabo-download-torrent-2020-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+ <genre>[B][COLOR firebrick]Suspense</genre>
+ <fanart>https://abutretorrents.com/imagens/acertando-as-contas-com-o-diabo-download-torrent-2020-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
+ <info>[B][COLOR red] SINOPSE:Depois do desaparecimento do seu marido, Lemon, uma fazendeira em uma comunidade isolada, deve pagar o débito dele para salvar a vida do próprio filho. Armada com inteligência e ferocidade, Lemon deve descobrir o mistério que seu marido deixou pra trás ou perder tudo o que ela ama.d [COLOR red][/COLOR][/B]</info>	
+ </item> 
 
  <item> 
  <title>[B][COLOR white]Natal Sem Filtro - [COLOR red]Lançamento[COLOR red](2022) [/COLOR][/B]</title>
