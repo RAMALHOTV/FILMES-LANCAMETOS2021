@@ -1,7 +1,15 @@
    
    
 
- 
+ <item> 
+ <title>[B][COLOR white]Natal Sem Filtro - [COLOR red]Lançamento[COLOR red](2022) [/COLOR][/B]</title>
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1145f20f302707b6ff1da50fdedc1be5a8d9e5f7$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1145f20f302707b6ff1da50fdedc1be5a8d9e5f7$nome=[COLOR lime]720 P[/COLOR] - DUBLADO</link> 
+ <thumbnail>https://abutretorrents.com/imagens/natal-sem-filtro-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+ <genre>[B][COLOR firebrick]Família</genre>
+ <fanart>https://abutretorrents.com/imagens/natal-sem-filtro-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
+ <info>[B][COLOR red] SINOPSE:Becky, uma menina que se sente ignorada por todos faz um curioso pedido de Natal: ser realmente ouvida por sua família. Mas a confusão toma conta quando ela perde o filtro e começa a dizer tudo o que passa pela sua cabeça! [COLOR red][/COLOR][/B]</info>	
+ </item> 
 
  <item> 
  <title>[B][COLOR white]O Troll da Montanha - [COLOR red]Lançamento[COLOR red](2022) [/COLOR][/B]</title>
