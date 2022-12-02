@@ -1,4 +1,15 @@
-   
+  
+  
+ <item> 
+ <title>[B][COLOR white]O Paciente Perdido - [COLOR red]Lançamento[COLOR red](2022) [/COLOR][/B]</title>
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:59747df69735d6d918873da1e4fde6785a545f5a$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:59747df69735d6d918873da1e4fde6785a545f5a$nome=[COLOR lime]720 P[/COLOR] - DUBLADO</link> 
+ <thumbnail>https://abutretorrents.com/imagens/o-paciente-perdido-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+ <genre>[B][COLOR firebrick]Drama / Mistério / Suspense</genre>
+ <fanart>https://abutretorrents.com/imagens/o-paciente-perdido-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
+ <info>[B][COLOR red] SINOPSE:Thomas acorda no hospital depois de três anos em coma. Amnésico, o jovem descobre que é o único sobrevivente do massacre de sua família e que sua irmã Laura desapareceu. Ajudado pela psicóloga Anna Kieffer, Thomas tenta reconstruir suas memórias para desmascarar o assassino e encontrar Laura. Ao longo das sessões, o passado e seus mistérios sombrios vêm à tona e mergulham Thomas em um labirinto mental agonizante. [COLOR red][/COLOR][/B]</info>	
+ </item>  
+  
  <item> 
  <title>[B][COLOR white]Acertando as Contas com o Diabo- [COLOR red]Lançamento[COLOR red](2022) [/COLOR][/B]</title>
  <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:41990b0ee2257b83f13e17f7ba6c306656d9aebe$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
