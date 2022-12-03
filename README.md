@@ -1,4 +1,12 @@
-  
+   <item> 
+ <title>[B][COLOR white]Tempestade Infinita - [COLOR red]Lançamento[COLOR red](2022) [/COLOR][/B]</title>
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:QFRFFQE5WZO5Z3ASLF6SKWJ2TA32KRZW$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:QFRFFQE5WZO5Z3ASLF6SKWJ2TA32KRZW$nome=[COLOR lime]720 P[/COLOR] - DUBLADO</link> 
+ <thumbnail>https://abutretorrents.com/imagens/tempestade-infinita-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+ <genre>[B][COLOR firebrick]Drama / Suspense</genre>
+ <fanart>https://abutretorrents.com/imagens/tempestade-infinita-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
+ <info>[B][COLOR red] SINOPSE:Quando uma montanhista é pega em uma nevasca, ela encontra um estranho perdido e deve levá-los para baixo da montanha antes do anoitecer. [COLOR red][/COLOR][/B]</info>	
+ </item> 
   
  <item> 
  <title>[B][COLOR white]O Paciente Perdido - [COLOR red]Lançamento[COLOR red](2022) [/COLOR][/B]</title>
