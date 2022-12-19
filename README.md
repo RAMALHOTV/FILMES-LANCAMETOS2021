@@ -396,7 +396,7 @@
  <item> 
  <title>[B][COLOR white]Adão Negro - [COLOR red]Lançamento[COLOR red](2022) [/COLOR][/B]</title>
  <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:334011cf4132409d97a8d296f863c3ba7386e811$nome=[COLOR lime]1080P[/COLOR] - DUBLADO</link> 
- <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:C41FB822E23610C403B60C489A6A26299C61C181$nome=[COLOR lime]CAM CINEMA[/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3VU2AEC7QRSI2FGLYPE4Y75XSOCIWBS5$nome=[COLOR lime]4k[/COLOR] - DUBLADO</link> 
  <thumbnail>https://abutretorrents.com/imagens/adao-negro-cam-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
  <genre>[B][COLOR firebrick]Ação / Fantasia / Ficção</genre>
  <fanart>https://abutretorrents.com/imagens/adao-negro-cam-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
