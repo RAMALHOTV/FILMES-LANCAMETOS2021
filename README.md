@@ -1,4 +1,71 @@
-   <item> 
+  
+
+ 
+
+ <item> 
+ <title>[B][COLOR white]The Munsters - [COLOR red]Lançamento[COLOR red](2022) [/COLOR][/B]</title>
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a36ec0d159a2dac6d95733cc4910d409e1e76722$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a36ec0d159a2dac6d95733cc4910d409e1e76722$nome=[COLOR lime]720 P[/COLOR] - DUBLADO</link> 
+ <thumbnail>https://abutretorrents.com/cover/the-munsters-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+ <genre>[B][COLOR firebrick]Comédia / Família / Fantasia</genre>
+ <fanart>https://abutretorrents.com/cover/the-munsters-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
+ <info>[B][COLOR red] SINOPSE:m uma casa assustadora na rua Mockingbird vivem Os Monstros. Eles são honestos e de grande coração, porém não entendem porque os vizinhos desaparecem correndo de pavor quando eles chegam. [COLOR red][/COLOR][/B]</info>	
+ </item> 
+
+
+ <item> 
+ <title>[B][COLOR white]As Apimentadas- [COLOR red]Lançamento[COLOR red](2022) [/COLOR][/B]</title>
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3741a683732a4ad014bcbeba46dc626fcdad72ef$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3741a683732a4ad014bcbeba46dc626fcdad72ef$nome=[COLOR lime]720 P[/COLOR] - DUBLADO</link> 
+ <thumbnail>https://abutretorrents.com/cover/as-apimentadas-torca-ou-morra-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+ <genre>[B][COLOR firebrick]Comédia / Terror</genre>
+ <fanart>https://abutretorrents.com/cover/as-apimentadas-torca-ou-morra-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
+ <info>[B][COLOR red] SINOPSE:A trama segue um grupo de líderes de torcida enquanto pratica sua coreografia em uma escola abandonada durante a noite de Halloween. Uma por uma, elas são massacradas por um psicopata misterioso. [COLOR red][/COLOR][/B]</info>	
+ </item> 
+
+ <item> 
+ <title>[B][COLOR white]A Luz do Demônio- [COLOR red]Lançamento[COLOR red](2022) [/COLOR][/B]</title>
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:YSW5PDJINGK3WXD53COCORNJ3OZTJ2S3$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:YSW5PDJINGK3WXD53COCORNJ3OZTJ2S3$nome=[COLOR lime]720 P[/COLOR] - DUBLADO</link> 
+ <thumbnail>https://abutretorrents.com/cover/a-luz-do-demonio-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+ <genre>[B][COLOR firebrick]Suspense / Terror</genre>
+ <fanart>https://abutretorrents.com/cover/a-luz-do-demonio-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
+ <info>[B][COLOR red] SINOPSE:Uma freira se prepara para realizar um exorcismo e fica cara a cara com uma força demoníaca com laços misteriosos com seu passado. [COLOR red][/COLOR][/B]</info>	
+ </item> 
+
+ <item> 
+ <title>[B][COLOR white]O VelociPastor - [COLOR red]Lançamento[COLOR red](2022) [/COLOR][/B]</title>
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:95252699e3b4daf260be8a496210fd883770aa89$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:95252699e3b4daf260be8a496210fd883770aa89$nome=[COLOR lime]720 P[/COLOR] - DUBLADO</link> 
+ <thumbnail>https://abutretorrents.com/cover/o-velocipastor-download-torrent-2018-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+ <genre>[B][COLOR firebrick]Ação / Aventura / Comédia</genre>
+ <fanart>https://abutretorrents.com/cover/o-velocipastor-download-torrent-2018-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
+ <info>[B][COLOR red] SINOPSE:Após perder os pais, um padre viaja à China, onde herda uma habilidade misteriosa que o permite transformar-se em um dinossauro. A princípio horrorizado por esse novo poder, uma prostituta o convence a usá-lo para combater o crime. E ninjas. [COLOR red][/COLOR][/B]</info>	
+ </item> 
+
+ <item> 
+ <title>[B][COLOR white]O Matador - Missão Resgate- [COLOR red]Lançamento[COLOR red](2022) [/COLOR][/B]</title>
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:940c2eeddd69c454a7b2b5b20fa74e919d77657a$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:940c2eeddd69c454a7b2b5b20fa74e919d77657a$nome=[COLOR lime]720 P[/COLOR] - DUBLADO</link> 
+ <thumbnail>https://abutretorrents.com/cover/o-matador-missao-resgate-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+ <genre>[B][COLOR firebrick]Ação / Policial / Suspense</genre>
+ <fanart>https://abutretorrents.com/cover/o-matador-missao-resgate-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
+ <info>[B][COLOR red] SINOPSE:Um filme de ação sobre o que acontece quando Bang Ui Gang, um assassino aposentado, cuida de uma menina do ensino fundamental. [COLOR red][/COLOR][/B]</info>	
+ </item> 
+
+ <item> 
+ <title>[B][COLOR white]Avatar: O Caminho da Água - [COLOR red]Lançamento[COLOR red](2022) [/COLOR][/B]</title>
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih::ZQ7ZJHGYJJ4GIYYCOAJTKFZD7ALHCFRA$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih::ZQ7ZJHGYJJ4GIYYCOAJTKFZD7ALHCFRA$nome=[COLOR lime]720 P[/COLOR] - DUBLADO</link> 
+ <thumbnail>https://abutretorrents.com/cover/avatar-o-caminho-da-agua-cam-legendado-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+ <genre>[B][COLOR firebrick]ção / Aventura / Fantasia</genre>
+ <fanart>https://abutretorrents.com/cover/avatar-o-caminho-da-agua-cam-legendado-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
+ <info>[B][COLOR red] SINOPSE:Doze anos depois de explorar Pandora e se juntar aos Na'vi, Jake Sully formou uma família com Neytiri e se estabeleceu entre os clãs do novo mundo. Porém, a paz não durará para sempre. [COLOR red][/COLOR][/B]</info>	
+ </item> 
+
+ 
+ 
+ <item> 
  <title>[B][COLOR white]Tempestade Infinita - [COLOR red]Lançamento[COLOR red](2022) [/COLOR][/B]</title>
  <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:QFRFFQE5WZO5Z3ASLF6SKWJ2TA32KRZW$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
  <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:QFRFFQE5WZO5Z3ASLF6SKWJ2TA32KRZW$nome=[COLOR lime]720 P[/COLOR] - DUBLADO</link> 
