@@ -1,6 +1,15 @@
   
 
- 
+ <item> 
+ <title>[B][COLOR white]Mindcage- [COLOR red]Lançamento[COLOR red](2022) [/COLOR][/B]</title>
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih::UWDZDFTV76P2V6Z27WTHTPCCUJRSPE6O$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih::UWDZDFTV76P2V6Z27WTHTPCCUJRSPE6O$nome=[COLOR lime]720 P[/COLOR] - DUBLADO</link> 
+ <thumbnail>https://abutretorrents.com/cover/mindcage-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+ <genre>[B][COLOR firebrick]Ação / Drama</genre>
+ <fanart>https://abutretorrents.com/cover/mindcage-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
+ <info>[B][COLOR red] SINOPSE:Mindcage é um filme de suspense e mistério americano de 2022 dirigido por Mauro Borrelli e estrelado por Martin Lawrence, Melissa Roxburgh, John Malkovich, Robert Knepper, Jacob Grodnik e Aiden Turner. Foi lançado por VOD e em cinemas selecionados em 16 de dezembro de 2022 [COLOR red][/COLOR][/B]</info>	
+ </item> 
+
 
  <item> 
  <title>[B][COLOR white]The Munsters - [COLOR red]Lançamento[COLOR red](2022) [/COLOR][/B]</title>
