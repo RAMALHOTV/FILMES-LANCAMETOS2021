@@ -1,5 +1,13 @@
   
-
+<item>  
+ <title>[B][COLOR white]O Assassino Perfeito - [COLOR red]Lançamento[COLOR red](2022) [/COLOR][/B]</title>
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d8a36c8544007559367fef0bf5e8d886a1960ba9$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d8a36c8544007559367fef0bf5e8d886a1960ba9$nome=[COLOR lime]720 P[/COLOR] - DUBLADO</link> 
+ <thumbnail>https://abutretorrents.com/cover/o-assassino-perfeito-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+ <genre>[B][COLOR firebrick]Ação / Drama</genre>
+ <fanart>https://abutretorrents.com/cover/o-assassino-perfeito-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
+ <info>[B][COLOR red] SINOPSE:Um suspense noir ambientado em Miami, o filme segue um executor que descobre que sua chefe femme fatale se ramificou no tráfico sexual cibernético, colocando em risco um jovem fugitivo de quem fez amizade. Ele sacrifica tudo para salvar a jovem da organização mortal que ele passou a vida construindo. [COLOR red][/COLOR][/B]</info>	
+ </item> 
  <item> 
  <title>[B][COLOR white]Mindcage- [COLOR red]Lançamento[COLOR red](2022) [/COLOR][/B]</title>
  <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih::UWDZDFTV76P2V6Z27WTHTPCCUJRSPE6O$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
