@@ -1,4 +1,13 @@
-  
+ <item> 
+ <title>[B][COLOR white] Detetive Knight - Independência- [COLOR red]Lançamento[COLOR red](2023) [/COLOR][/B]</title>
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8a63ca814e9fdd9b3761f8244af1c82b07489762$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8a63ca814e9fdd9b3761f8244af1c82b07489762$nome=[COLOR lime]720 P[/COLOR] - DUBLADO</link> 
+ <thumbnail>https://abutretorrents.com/cover/detetive-knight-independencia-download-torrent-2023-dublado-dual-audio-bluray-1080p-720p-4k-hd.webp</thumbnail>
+ <genre>[B][COLOR firebrick]Ação / Drama</genre>
+ <fanart>https://abutretorrents.com/cover/detetive-knight-independencia-download-torrent-2023-dublado-dual-audio-bluray-1080p-720p-4k-hd.webp</fanart>
+ <info>[B][COLOR red] SINOPSE: Sob custódia em Nova York, o detetive James Knight se encontra no meio de uma fuga da prisão liderada por The Christmas Bomber, um fanático brutal cujos discípulos do Papai Noel estão aterrorizando a cidade. Com seu distintivo de volta em troca de eliminar os terroristas, o cavaleiro de olhos de aço distribui misericórdia para os justos... e justiça impiedosa para todo o resto.[COLOR red][/COLOR][/B]</info>	
+ </item> 
+ 
 <item>  <item> 
  <title>[B][COLOR white]Teen Wolf - O Filme  - [COLOR red]Lançamento[COLOR red](2023) [/COLOR][/B]</title>
  <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3920aeec7c71339fd9d39fe22bf1abe162e0f99e$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
