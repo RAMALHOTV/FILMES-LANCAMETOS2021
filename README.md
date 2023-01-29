@@ -1,5 +1,14 @@
   
-<item>  
+<item>  <item> 
+ <title>[B][COLOR white]Teen Wolf - O Filme  - [COLOR red]Lançamento[COLOR red](2023) [/COLOR][/B]</title>
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3920aeec7c71339fd9d39fe22bf1abe162e0f99e$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3920aeec7c71339fd9d39fe22bf1abe162e0f99e$nome=[COLOR lime]720 P[/COLOR] - DUBLADO</link> 
+ <thumbnail>https://abutretorrents.com/cover/teen-wolf-o-filme-download-torrent-2023-dublado-dual-audio-bluray-1080p-720p-4k-hd.webp</thumbnail>
+ <genre>[B][COLOR firebrick]Ação / Drama</genre>
+ <fanart>https://abutretorrents.com/cover/teen-wolf-o-filme-download-torrent-2023-dublado-dual-audio-bluray-1080p-720p-4k-hd.webp</fanart>
+ <info>[B][COLOR red] SINOPSE:Um mal terrível vem à tona. Scott McCall (Tyler Posey), não mais adolescente mas ainda um Alpha, forma novos aliados e reúne amigos de confiança para lutar contra o que pode ser o maior inimigo que eles já enfrentaram.e [COLOR red][/COLOR][/B]</info>	
+ </item> 
+
  <title>[B][COLOR white]O Assassino Perfeito - [COLOR red]Lançamento[COLOR red](2022) [/COLOR][/B]</title>
  <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d8a36c8544007559367fef0bf5e8d886a1960ba9$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
  <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d8a36c8544007559367fef0bf5e8d886a1960ba9$nome=[COLOR lime]720 P[/COLOR] - DUBLADO</link> 
