@@ -8,6 +8,26 @@
  <info>[B][COLOR red] SINOPSE: Sob custódia em Nova York, o detetive James Knight se encontra no meio de uma fuga da prisão liderada por The Christmas Bomber, um fanático brutal cujos discípulos do Papai Noel estão aterrorizando a cidade. Com seu distintivo de volta em troca de eliminar os terroristas, o cavaleiro de olhos de aço distribui misericórdia para os justos... e justiça impiedosa para todo o resto.[COLOR red][/COLOR][/B]</info>	
  </item> 
  
+ <item> 
+ <title>[B][COLOR white]O Lobo Viking- [COLOR red]Lançamento[COLOR red](2023) [/COLOR][/B]</title>
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1764d6831465a57829a8ecb127f2b403d8b17e17$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1764d6831465a57829a8ecb127f2b403d8b17e17$nome=[COLOR lime]720 P[/COLOR] - DUBLADO</link> 
+ <thumbnail>https://abutretorrents.com/cover/o-lobo-viking-download-torrent-2023-dublado-dual-audio-bluray-1080p-720p-4k-hd.webp</thumbnail>
+ <genre>[B][COLOR firebrick]Ação / Drama</genre>
+ <fanart>https://abutretorrents.com/cover/o-lobo-viking-download-torrent-2023-dublado-dual-audio-bluray-1080p-720p-4k-hd.webp</fanart>
+ <info>[B][COLOR red] SINOPSE:Aos dezessete anos, Thale acaba de se mudar com seus pais para uma pequena cidade depois que sua mãe conseguiu um novo emprego na polícia local. Depois que uma estudante é brutalmente morta em uma festa, ela se torna uma testemunha chave. [COLOR red][/COLOR][/B]</info>	
+ </item> 
+
+ <item> 
+ <title>[B][COLOR white]Navio de Sangue - [COLOR red]Lançamento[COLOR red](2023) [/COLOR][/B]</title>
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:56aaee0acc1bd7c50c064a5648e535620463df52$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:56aaee0acc1bd7c50c064a5648e535620463df52$nome=[COLOR lime]720 P[/COLOR] - DUBLADO</link> 
+ <thumbnail>https://torrentpirata.com/poster/2023/02/navio-de-sangue-download-torrent-2020-dublado-dual-audio-bluray-1080p-720p-4k-hd.webp</thumbnail>
+ <genre>[B][COLOR firebrick]Ação / Drama</genre>
+ <fanart>https://torrentpirata.com/poster/2023/02/navio-de-sangue-download-torrent-2020-dublado-dual-audio-bluray-1080p-720p-4k-hd.webp</fanart>
+ <info>[B][COLOR red] SINOPSE:Em algum lugar no Atlântico Norte, de 1945. Uma pequena embarcação à deriva no mar e, nela, os sobreviventes de um navio-hospital sem comida, água ou abrigo. Tudo parece perdido - até que um navio anti-minas alemão abandonado surge, dando-lhes uma última chance de sobrevivência. [COLOR red][/COLOR][/B]</info>	
+ </item> 
+ 
 <item>  <item> 
  <title>[B][COLOR white]Teen Wolf - O Filme  - [COLOR red]Lançamento[COLOR red](2023) [/COLOR][/B]</title>
  <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3920aeec7c71339fd9d39fe22bf1abe162e0f99e$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
